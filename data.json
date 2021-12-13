@@ -1,0 +1,11047 @@
+[
+  {
+    "Suburb": "Punchbowl",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Toorak Gardens",
+    "State": "SA",
+    "PostCode": "5065"
+  },
+  {
+    "Suburb": "Wundowie",
+    "State": "WA",
+    "PostCode": "6560"
+  },
+  {
+    "Suburb": "Vincentia",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Alice Springs",
+    "State": "NT",
+    "PostCode": "0871"
+  },
+  {
+    "Suburb": "Toowoon Bay",
+    "State": "NSW",
+    "PostCode": "2261"
+  },
+  {
+    "Suburb": "Bibra Lake",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Shoalhaven",
+    "State": "NSW",
+    "PostCode": "2535"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Woodberry",
+    "State": "NSW",
+    "PostCode": "2322"
+  },
+  {
+    "Suburb": "Ashfield",
+    "State": "NSW",
+    "PostCode": "2131"
+  },
+  {
+    "Suburb": "Rangeville",
+    "State": "QLD",
+    "PostCode": "5430"
+  },
+  {
+    "Suburb": "East Bendigo",
+    "State": "VIC",
+    "PostCode": "3550"
+  },
+  {
+    "Suburb": "North Perth",
+    "State": "WA",
+    "PostCode": "6006"
+  },
+  {
+    "Suburb": "Woollahra",
+    "State": "NSW",
+    "PostCode": "2025"
+  },
+  {
+    "Suburb": "Gooseberry Hill",
+    "State": "WA",
+    "PostCode": "6076"
+  },
+  {
+    "Suburb": "New Lambton",
+    "State": "NSW",
+    "PostCode": "2305"
+  },
+  {
+    "Suburb": "West Beach",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "Aberfoyle Park",
+    "State": "SA",
+    "PostCode": "5159"
+  },
+  {
+    "Suburb": "Cooks Hill",
+    "State": "NSW",
+    "PostCode": "2300"
+  },
+  {
+    "Suburb": "Warradale",
+    "State": "SA",
+    "PostCode": "5046"
+  },
+  {
+    "Suburb": "Sunnybank",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "Kensington Park",
+    "State": "SA",
+    "PostCode": "5068"
+  },
+  {
+    "Suburb": "North Plympton",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Holt",
+    "State": "ACT",
+    "PostCode": "2615"
+  },
+  {
+    "Suburb": "Molong",
+    "State": "NSW",
+    "PostCode": "2866"
+  },
+  {
+    "Suburb": "Yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Bolwarra",
+    "State": "NSW",
+    "PostCode": "2320"
+  },
+  {
+    "Suburb": "Balhannah",
+    "State": "SA",
+    "PostCode": "5242"
+  },
+  {
+    "Suburb": "Waramanga",
+    "State": "ACT",
+    "PostCode": "2611"
+  },
+  {
+    "Suburb": "Nyah West",
+    "State": "VIC",
+    "PostCode": "3595"
+  },
+  {
+    "Suburb": "Rockdale",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Bauple",
+    "State": "QLD",
+    "PostCode": "4650"
+  },
+  {
+    "Suburb": "Lanyana Way",
+    "State": "QLD",
+    "PostCode": "4567"
+  },
+  {
+    "Suburb": "Bakers Hill",
+    "State": "WA",
+    "PostCode": "6562"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Oakey",
+    "State": "QLD",
+    "PostCode": "4401"
+  },
+  {
+    "Suburb": "Creswick North",
+    "State": "VIC",
+    "PostCode": "3363"
+  },
+  {
+    "Suburb": "Ryde",
+    "State": "NSW",
+    "PostCode": "2112"
+  },
+  {
+    "Suburb": "Main Beach",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Berry",
+    "State": "NSW",
+    "PostCode": "2535"
+  },
+  {
+    "Suburb": "Jaspers Brush",
+    "State": "NSW",
+    "PostCode": "2535"
+  },
+  {
+    "Suburb": "Seacliff",
+    "State": "SA",
+    "PostCode": "5049"
+  },
+  {
+    "Suburb": "Coral Cove",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Glenelg East",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Booragoon",
+    "State": "WA",
+    "PostCode": "6154"
+  },
+  {
+    "Suburb": "Balga",
+    "State": "WA",
+    "PostCode": "6061"
+  },
+  {
+    "Suburb": "Wattle Park",
+    "State": "SA",
+    "PostCode": "5095"
+  },
+  {
+    "Suburb": "Vale Park",
+    "State": "SA",
+    "PostCode": "5081"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Plainland",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Delacombe",
+    "State": "VIC",
+    "PostCode": "3356"
+  },
+  {
+    "Suburb": "Mirani",
+    "State": "QLD",
+    "PostCode": "4754"
+  },
+  {
+    "Suburb": "Randwick",
+    "State": "NSW",
+    "PostCode": "2031"
+  },
+  {
+    "Suburb": "Yokine",
+    "State": "WA",
+    "PostCode": "6060"
+  },
+  {
+    "Suburb": "Yangebup",
+    "State": "WA",
+    "PostCode": "6164"
+  },
+  {
+    "Suburb": "St Georges Basin",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Wattle Park",
+    "State": "SA",
+    "PostCode": "5066"
+  },
+  {
+    "Suburb": "Regency Downs",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Dover Gardens",
+    "State": "SA",
+    "PostCode": "5048"
+  },
+  {
+    "Suburb": "Ballarat",
+    "State": "VIC",
+    "PostCode": "3350"
+  },
+  {
+    "Suburb": "Wauchope",
+    "State": "NSW",
+    "PostCode": "2446"
+  },
+  {
+    "Suburb": "Cudmirrah",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Stirling",
+    "State": "SA",
+    "PostCode": "5152"
+  },
+  {
+    "Suburb": "Blackwood",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "Bentley",
+    "State": "WA",
+    "PostCode": "6102"
+  },
+  {
+    "Suburb": "Panania",
+    "State": "NSW",
+    "PostCode": "2213"
+  },
+  {
+    "Suburb": "Hawthorndene",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "Karabar",
+    "State": "NSW",
+    "PostCode": "2620"
+  },
+  {
+    "Suburb": "Ethelton",
+    "State": "SA",
+    "PostCode": "5015"
+  },
+  {
+    "Suburb": "",
+    "State": "QLD",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Melrose Park",
+    "State": "SA",
+    "PostCode": "5039"
+  },
+  {
+    "Suburb": "Geraldton",
+    "State": "WA",
+    "PostCode": "6530"
+  },
+  {
+    "Suburb": "Pennant Hills",
+    "State": "NSW",
+    "PostCode": "2120"
+  },
+  {
+    "Suburb": "Old Erowal Bay",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Manning",
+    "State": "WA",
+    "PostCode": "6152"
+  },
+  {
+    "Suburb": "Reedy Creek",
+    "State": "QLD",
+    "PostCode": "4227"
+  },
+  {
+    "Suburb": "Yagoona",
+    "State": "NSW",
+    "PostCode": "2199"
+  },
+  {
+    "Suburb": "Strathfield South",
+    "State": "NSW",
+    "PostCode": "2136"
+  },
+  {
+    "Suburb": "Eglinton",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": "2200"
+  },
+  {
+    "Suburb": "Glenfield",
+    "State": "WA",
+    "PostCode": "6532"
+  },
+  {
+    "Suburb": "Maroubra",
+    "State": "NSW",
+    "PostCode": "2035"
+  },
+  {
+    "Suburb": "Hat Head",
+    "State": "NSW",
+    "PostCode": "2440"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Muswellbrook",
+    "State": "NSW",
+    "PostCode": "2333"
+  },
+  {
+    "Suburb": "Ulladulla",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Kincumber",
+    "State": "NSW",
+    "PostCode": "2251"
+  },
+  {
+    "Suburb": "Lithgow",
+    "State": "NSW",
+    "PostCode": "2790"
+  },
+  {
+    "Suburb": "Glenhaven",
+    "State": "NSW",
+    "PostCode": "2156"
+  },
+  {
+    "Suburb": "Geraldton",
+    "State": "WA",
+    "PostCode": "6530"
+  },
+  {
+    "Suburb": "Boondall",
+    "State": "QLD",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Camden South",
+    "State": "NSW",
+    "PostCode": "2570"
+  },
+  {
+    "Suburb": "Westbourne Park",
+    "State": "SA",
+    "PostCode": "5041"
+  },
+  {
+    "Suburb": "Kiama Downs",
+    "State": "NSW",
+    "PostCode": "2533"
+  },
+  {
+    "Suburb": "Brassall",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "State": "VIC",
+    "PostCode": "3356"
+  },
+  {
+    "Suburb": "Hornsby Heights",
+    "State": "NSW",
+    "PostCode": "2077"
+  },
+  {
+    "Suburb": "Somersby",
+    "State": "NSW",
+    "PostCode": "2250"
+  },
+  {
+    "Suburb": "Avalon Beach",
+    "State": "NSW",
+    "PostCode": "2107"
+  },
+  {
+    "Suburb": "Beacon Hill",
+    "State": "NSW",
+    "PostCode": "2100"
+  },
+  {
+    "Suburb": "Apple Tree Creek",
+    "State": "QLD",
+    "PostCode": "4660"
+  },
+  {
+    "Suburb": "Toronto",
+    "State": "NSW",
+    "PostCode": "2283"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Coburg",
+    "State": "VIC",
+    "PostCode": "3058"
+  },
+  {
+    "Suburb": "Monavale",
+    "State": "NSW",
+    "PostCode": "2103"
+  },
+  {
+    "Suburb": "Tungamah",
+    "State": "VIC",
+    "PostCode": "3677"
+  },
+  {
+    "Suburb": "North Sydney",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Maroubra",
+    "State": "NSW",
+    "PostCode": "2035"
+  },
+  {
+    "Suburb": "Vaucluse",
+    "State": "NSW",
+    "PostCode": "2030"
+  },
+  {
+    "Suburb": "Ballarat",
+    "State": "VIC",
+    "PostCode": "3350"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Bendigo",
+    "State": "VIC",
+    "PostCode": "3550"
+  },
+  {
+    "Suburb": "Hope Valley",
+    "State": "SA",
+    "PostCode": "5090"
+  },
+  {
+    "Suburb": "Noonamah",
+    "State": "NT",
+    "PostCode": "0837"
+  },
+  {
+    "Suburb": "Glass House Mountains",
+    "State": "QLD",
+    "PostCode": "4518"
+  },
+  {
+    "Suburb": "Duckenfield",
+    "State": "NSW",
+    "PostCode": "2321"
+  },
+  {
+    "Suburb": "Glenore Grove",
+    "State": "QLD",
+    "PostCode": "4342"
+  },
+  {
+    "Suburb": "Ivanhoe",
+    "State": "VIC",
+    "PostCode": "3079"
+  },
+  {
+    "Suburb": "Springvale South",
+    "State": "VIC",
+    "PostCode": "3172"
+  },
+  {
+    "Suburb": "Dubbo",
+    "State": "NSW",
+    "PostCode": "2830"
+  },
+  {
+    "Suburb": "Kangaroo Valley",
+    "State": "NSW",
+    "PostCode": "2577"
+  },
+  {
+    "Suburb": "Balmain",
+    "State": "NSW",
+    "PostCode": "2041"
+  },
+  {
+    "Suburb": "Thornbury",
+    "State": "VIC",
+    "PostCode": "3071"
+  },
+  {
+    "Suburb": "Denham",
+    "State": "WA",
+    "PostCode": "6587"
+  },
+  {
+    "Suburb": "Bowen",
+    "State": "QLD",
+    "PostCode": "4805"
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3500"
+  },
+  {
+    "Suburb": "Leumeah",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Muttaburra",
+    "State": "QLD",
+    "PostCode": "4732"
+  },
+  {
+    "Suburb": "Albany",
+    "State": "WA",
+    "PostCode": "6330"
+  },
+  {
+    "Suburb": "Toodyay",
+    "State": "WA",
+    "PostCode": "6566"
+  },
+  {
+    "Suburb": "Rostrevor",
+    "State": "SA",
+    "PostCode": "5073"
+  },
+  {
+    "Suburb": "Upper Swan",
+    "State": "WA",
+    "PostCode": "6069"
+  },
+  {
+    "Suburb": "Coffin Bay",
+    "State": "SA",
+    "PostCode": "5607"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "WA",
+    "PostCode": "6053"
+  },
+  {
+    "Suburb": "Joondalup",
+    "State": "WA",
+    "PostCode": "6027"
+  },
+  {
+    "Suburb": "Kippa Ring",
+    "State": "QLD",
+    "PostCode": "4021"
+  },
+  {
+    "Suburb": "Redland Bay",
+    "State": "QLD",
+    "PostCode": "4165"
+  },
+  {
+    "Suburb": "Walkley Heights",
+    "State": "SA",
+    "PostCode": "5098"
+  },
+  {
+    "Suburb": "Greenvale",
+    "State": "VIC",
+    "PostCode": "3059"
+  },
+  {
+    "Suburb": "Dianella",
+    "State": "WA",
+    "PostCode": "6059"
+  },
+  {
+    "Suburb": "Maroubra",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Manoora",
+    "State": "QLD",
+    "PostCode": "4870"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "State": "VIC",
+    "PostCode": "3032"
+  },
+  {
+    "Suburb": "White Rock",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Robina",
+    "State": "QLD",
+    "PostCode": "4226"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Callala Bay",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Ingle Farm",
+    "State": "SA",
+    "PostCode": "5098"
+  },
+  {
+    "Suburb": "Sawtell",
+    "State": "NSW",
+    "PostCode": "2452"
+  },
+  {
+    "Suburb": "Nundah",
+    "State": "QLD",
+    "PostCode": "4012"
+  },
+  {
+    "Suburb": "Whale Beach",
+    "State": "NSW",
+    "PostCode": "2107"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Swan View",
+    "State": "WA",
+    "PostCode": "6056"
+  },
+  {
+    "Suburb": "Yackandandah",
+    "State": "VIC",
+    "PostCode": "3749"
+  },
+  {
+    "Suburb": "Narromine",
+    "State": "NSW",
+    "PostCode": "2821"
+  },
+  {
+    "Suburb": "Greenwood",
+    "State": "WA",
+    "PostCode": "6024"
+  },
+  {
+    "Suburb": "North Beach",
+    "State": "WA",
+    "PostCode": "6020"
+  },
+  {
+    "Suburb": "Miranda",
+    "State": "NSW",
+    "PostCode": "2228"
+  },
+  {
+    "Suburb": "Grange",
+    "State": "SA",
+    "PostCode": "5022"
+  },
+  {
+    "Suburb": "Belmore",
+    "State": "NSW",
+    "PostCode": "2192"
+  },
+  {
+    "Suburb": "Brighton Nth",
+    "State": "SA",
+    "PostCode": "5048"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Chandler",
+    "State": "QLD",
+    "PostCode": "4155"
+  },
+  {
+    "Suburb": "Joondanna",
+    "State": "WA",
+    "PostCode": "6060"
+  },
+  {
+    "Suburb": "Laurieton",
+    "State": "NSW",
+    "PostCode": "2443"
+  },
+  {
+    "Suburb": "Kendall",
+    "State": "NSW",
+    "PostCode": "2439"
+  },
+  {
+    "Suburb": "Narraweena",
+    "State": "NSW",
+    "PostCode": "2099"
+  },
+  {
+    "Suburb": "Safety Bay",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Postmans Ridge",
+    "State": "QLD",
+    "PostCode": "4352"
+  },
+  {
+    "Suburb": "Ararat",
+    "State": "VIC",
+    "PostCode": "3377"
+  },
+  {
+    "Suburb": "Camden",
+    "State": "NSW",
+    "PostCode": "2570"
+  },
+  {
+    "Suburb": "Bannockburn",
+    "State": "VIC",
+    "PostCode": "3331"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Bangholme",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3500"
+  },
+  {
+    "Suburb": "Melton",
+    "State": "VIC",
+    "PostCode": "3337"
+  },
+  {
+    "Suburb": "Gilead",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Ambarvale",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "St Clair",
+    "State": "NSW",
+    "PostCode": "2759"
+  },
+  {
+    "Suburb": "Marsfield",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Noarlunga Downs",
+    "State": "SA",
+    "PostCode": "5168"
+  },
+  {
+    "Suburb": "Blackwood",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "North Haven",
+    "State": "SA",
+    "PostCode": "5018"
+  },
+  {
+    "Suburb": "Stafford Heights",
+    "State": "QLD",
+    "PostCode": "4053"
+  },
+  {
+    "Suburb": "Bellevue Heights",
+    "State": "SA",
+    "PostCode": "5050"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Robertson",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "Jewells",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Mundoolun",
+    "State": "QLD",
+    "PostCode": "4110"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Berowa Heights",
+    "State": "NSW",
+    "PostCode": "2082"
+  },
+  {
+    "Suburb": "Millmerran",
+    "State": "QLD",
+    "PostCode": "4357"
+  },
+  {
+    "Suburb": "Greenwell Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Clarence Park",
+    "State": "SA",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "Cabramatta",
+    "State": "NSW",
+    "PostCode": "2166"
+  },
+  {
+    "Suburb": "Murray Bridge",
+    "State": "SA",
+    "PostCode": "5253"
+  },
+  {
+    "Suburb": "St Mary's",
+    "State": "SA",
+    "PostCode": "5042"
+  },
+  {
+    "Suburb": "yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Seaford",
+    "State": "SA",
+    "PostCode": "5169"
+  },
+  {
+    "Suburb": "Carole Park",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4070"
+  },
+  {
+    "Suburb": "Whyalla Stuart",
+    "State": "SA",
+    "PostCode": "5608"
+  },
+  {
+    "Suburb": "Hallett Cove",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Whyalla Norrie",
+    "State": "SA",
+    "PostCode": "5608"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Somerton Park",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Townsend",
+    "State": "NSW",
+    "PostCode": "2463"
+  },
+  {
+    "Suburb": "Kentlyn",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Kangaroo Flat",
+    "State": "VIC",
+    "PostCode": "3555"
+  },
+  {
+    "Suburb": "Bell Post Hill",
+    "State": "VIC",
+    "PostCode": "3215"
+  },
+  {
+    "Suburb": "Durack",
+    "State": "QLD",
+    "PostCode": "4077"
+  },
+  {
+    "Suburb": "Moorooka",
+    "State": "QLD",
+    "PostCode": "4105"
+  },
+  {
+    "Suburb": "St Georges Basin",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Bellevue Heights",
+    "State": "SA",
+    "PostCode": "5050"
+  },
+  {
+    "Suburb": "Mornington",
+    "State": "VIC",
+    "PostCode": "3931"
+  },
+  {
+    "Suburb": "Mudgee",
+    "State": "NSW",
+    "PostCode": "2850"
+  },
+  {
+    "Suburb": "Speers Point",
+    "State": "NSW",
+    "PostCode": "2284"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Christies Beach",
+    "State": "SA",
+    "PostCode": "5165"
+  },
+  {
+    "Suburb": "Minto heights",
+    "State": "NSW",
+    "PostCode": "2566"
+  },
+  {
+    "Suburb": "Mount Gravatt",
+    "State": "QLD",
+    "PostCode": "4122"
+  },
+  {
+    "Suburb": "Kanwal",
+    "State": "NSW",
+    "PostCode": "2259"
+  },
+  {
+    "Suburb": "Greenacres",
+    "State": "SA",
+    "PostCode": "5086"
+  },
+  {
+    "Suburb": "Watsonia",
+    "State": "VIC",
+    "PostCode": "3087"
+  },
+  {
+    "Suburb": "Spearwood",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Bendigo",
+    "State": "VIC",
+    "PostCode": "3550"
+  },
+  {
+    "Suburb": "South Bowenfels",
+    "State": "NSW",
+    "PostCode": "2790"
+  },
+  {
+    "Suburb": "Yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Finley",
+    "State": "NSW",
+    "PostCode": "2713"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3630"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Heywood",
+    "State": "VIC",
+    "PostCode": "3304"
+  },
+  {
+    "Suburb": "Cromer",
+    "State": "NSW",
+    "PostCode": "2099"
+  },
+  {
+    "Suburb": "Belmont",
+    "State": "WA",
+    "PostCode": "6104"
+  },
+  {
+    "Suburb": "Edgeworth",
+    "State": "NSW",
+    "PostCode": "2285"
+  },
+  {
+    "Suburb": "West Wallsend",
+    "State": "NSW",
+    "PostCode": "2286"
+  },
+  {
+    "Suburb": "Waikiki",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "South Windsor",
+    "State": "NSW",
+    "PostCode": "2756"
+  },
+  {
+    "Suburb": "Marion",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Bargara",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "South Oakleigh",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "Moorooka",
+    "State": "QLD",
+    "PostCode": "4105"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Innaloo",
+    "State": "WA",
+    "PostCode": "6018"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "State": "VIC",
+    "PostCode": "3280"
+  },
+  {
+    "Suburb": "Newcombe",
+    "State": "VIC",
+    "PostCode": "3219"
+  },
+  {
+    "Suburb": "Box Hill North",
+    "State": "VIC",
+    "PostCode": "3129"
+  },
+  {
+    "Suburb": "Beechboro",
+    "State": "WA",
+    "PostCode": "6063"
+  },
+  {
+    "Suburb": "Devonport",
+    "State": "TAS",
+    "PostCode": "7310"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "State": "VIC",
+    "PostCode": "3192"
+  },
+  {
+    "Suburb": "Bonny Hills",
+    "State": "NSW",
+    "PostCode": "2445"
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3500"
+  },
+  {
+    "Suburb": "Broken Hill",
+    "State": "NSW",
+    "PostCode": "2880"
+  },
+  {
+    "Suburb": "Auldana",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "HILL END",
+    "State": "NSW",
+    "PostCode": "2850"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Frenchs Forest",
+    "State": "NSW",
+    "PostCode": "2086"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Mont Albert",
+    "State": "VIC",
+    "PostCode": "3127"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": "2200"
+  },
+  {
+    "Suburb": "Oaklands Park",
+    "State": "SA",
+    "PostCode": "5046"
+  },
+  {
+    "Suburb": "Stafford",
+    "State": "QLD",
+    "PostCode": "4053"
+  },
+  {
+    "Suburb": "Mt Waverley",
+    "State": "VIC",
+    "PostCode": "3149"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Balaklava",
+    "State": "SA",
+    "PostCode": "5461"
+  },
+  {
+    "Suburb": "Dawesville",
+    "State": "WA",
+    "PostCode": "6211"
+  },
+  {
+    "Suburb": "Gordon",
+    "State": "NSW",
+    "PostCode": "2072"
+  },
+  {
+    "Suburb": "Kilkenny",
+    "State": "SA",
+    "PostCode": "5009"
+  },
+  {
+    "Suburb": "Nakara",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Preston",
+    "State": "VIC",
+    "PostCode": "3072"
+  },
+  {
+    "Suburb": "Preston",
+    "State": "VIC",
+    "PostCode": "3072"
+  },
+  {
+    "Suburb": "Ryde",
+    "State": "NSW",
+    "PostCode": "2112"
+  },
+  {
+    "Suburb": "Tomakin",
+    "State": "NSW",
+    "PostCode": "2537"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Narangba",
+    "State": "QLD",
+    "PostCode": "4504"
+  },
+  {
+    "Suburb": "Burwood",
+    "State": "NSW",
+    "PostCode": "2134"
+  },
+  {
+    "Suburb": "Bendigo",
+    "State": "VIC",
+    "PostCode": "3550"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Burwood",
+    "State": "NSW",
+    "PostCode": "2134"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Drouin",
+    "State": "VIC",
+    "PostCode": "3818"
+  },
+  {
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "PostCode": "3140"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Cranbourne",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Blacktown",
+    "State": "NSW",
+    "PostCode": "2148"
+  },
+  {
+    "Suburb": "Windsor Gardens",
+    "State": "SA",
+    "PostCode": "5087"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Mareeba",
+    "State": "QLD",
+    "PostCode": "4880"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "McDowall",
+    "State": "QLD",
+    "PostCode": "4053"
+  },
+  {
+    "Suburb": "Long Jetty",
+    "State": "NSW",
+    "PostCode": "2261"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Freshwater",
+    "State": "NSW",
+    "PostCode": "2096"
+  },
+  {
+    "Suburb": "Hunters Hill",
+    "State": "NSW",
+    "PostCode": "2110"
+  },
+  {
+    "Suburb": "Pyree",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Walkerville",
+    "State": "SA",
+    "PostCode": "5081"
+  },
+  {
+    "Suburb": "Ormond",
+    "State": "VIC",
+    "PostCode": "3204"
+  },
+  {
+    "Suburb": "Aramac",
+    "State": "QLD",
+    "PostCode": "4726"
+  },
+  {
+    "Suburb": "South Bowenfels",
+    "State": "NSW",
+    "PostCode": "2790"
+  },
+  {
+    "Suburb": "Colyton",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Balcatta",
+    "State": "WA",
+    "PostCode": "6021"
+  },
+  {
+    "Suburb": "Broadford",
+    "State": "VIC",
+    "PostCode": "3658"
+  },
+  {
+    "Suburb": "Wauchope",
+    "State": "NSW",
+    "PostCode": "2446"
+  },
+  {
+    "Suburb": "Banksia Park",
+    "State": "SA",
+    "PostCode": "5091"
+  },
+  {
+    "Suburb": "Jindalee",
+    "State": "QLD",
+    "PostCode": "4074"
+  },
+  {
+    "Suburb": "Bundoora",
+    "State": "VIC",
+    "PostCode": "3083"
+  },
+  {
+    "Suburb": "Kandos",
+    "State": "NSW",
+    "PostCode": "2848"
+  },
+  {
+    "Suburb": "Thangool",
+    "State": "QLD",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "West Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Bethania",
+    "State": "QLD",
+    "PostCode": "4205"
+  },
+  {
+    "Suburb": "Umina Beach",
+    "State": "NSW",
+    "PostCode": "2257"
+  },
+  {
+    "Suburb": "Aberfoyle Park",
+    "State": "SA",
+    "PostCode": "5159"
+  },
+  {
+    "Suburb": "Kew",
+    "State": "VIC",
+    "PostCode": "3101"
+  },
+  {
+    "Suburb": "Mount Eliza",
+    "State": "VIC",
+    "PostCode": "3930"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Budgewoi",
+    "State": "NSW",
+    "PostCode": "2262"
+  },
+  {
+    "Suburb": "Gorokan",
+    "State": "NSW",
+    "PostCode": "2263"
+  },
+  {
+    "Suburb": "Callala Bay",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Paterson",
+    "State": "NSW",
+    "PostCode": "2421"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Beulah Park",
+    "State": "SA",
+    "PostCode": "5067"
+  },
+  {
+    "Suburb": "Valentine",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Mitchelton",
+    "State": "QLD",
+    "PostCode": "4053"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Beachmere",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Moorooka",
+    "State": "QLD",
+    "PostCode": "4105"
+  },
+  {
+    "Suburb": "Sebastapol",
+    "State": "VIC",
+    "PostCode": "3350"
+  },
+  {
+    "Suburb": "Carey Bay",
+    "State": "NSW",
+    "PostCode": "2283"
+  },
+  {
+    "Suburb": "Canton Beach",
+    "State": "NSW",
+    "PostCode": "2263"
+  },
+  {
+    "Suburb": "Maitland",
+    "State": "SA",
+    "PostCode": "5573"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "North Narrabeen",
+    "State": "NSW",
+    "PostCode": "2101"
+  },
+  {
+    "Suburb": "Childers",
+    "State": "QLD",
+    "PostCode": "4660"
+  },
+  {
+    "Suburb": "Euroa",
+    "State": "VIC",
+    "PostCode": "3666"
+  },
+  {
+    "Suburb": "Bentleigh",
+    "State": "VIC",
+    "PostCode": "3204"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Sturt",
+    "State": "SA",
+    "PostCode": "5047"
+  },
+  {
+    "Suburb": "Idalia",
+    "State": "QLD",
+    "PostCode": "4811"
+  },
+  {
+    "Suburb": "Greenwell Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Wolli Creek",
+    "State": "NSW",
+    "PostCode": "2205"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Gosford",
+    "State": "NSW",
+    "PostCode": "2250"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Hampton",
+    "State": "VIC",
+    "PostCode": "3188"
+  },
+  {
+    "Suburb": "Neutral Bay",
+    "State": "NSW",
+    "PostCode": "2089"
+  },
+  {
+    "Suburb": "Five Dock",
+    "State": "NSW",
+    "PostCode": "2046"
+  },
+  {
+    "Suburb": "Merrylands",
+    "State": "NSW",
+    "PostCode": "2160"
+  },
+  {
+    "Suburb": "Shoalhaven Heads",
+    "State": "NSW",
+    "PostCode": "2535"
+  },
+  {
+    "Suburb": "Lockleys",
+    "State": "SA",
+    "PostCode": "5032"
+  },
+  {
+    "Suburb": "Hampton Park",
+    "State": "VIC",
+    "PostCode": "3976"
+  },
+  {
+    "Suburb": "Patterson Lakes",
+    "State": "VIC",
+    "PostCode": "3197"
+  },
+  {
+    "Suburb": "Mosman",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Perth",
+    "State": "WA",
+    "PostCode": "6000"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Jillby",
+    "State": "NSW",
+    "PostCode": "2259"
+  },
+  {
+    "Suburb": "Endeavour Hills",
+    "State": "VIC",
+    "PostCode": "3802"
+  },
+  {
+    "Suburb": "Bowen",
+    "State": "QLD",
+    "PostCode": "4805"
+  },
+  {
+    "Suburb": "Wauchope",
+    "State": "NSW",
+    "PostCode": "2446"
+  },
+  {
+    "Suburb": "Wallumbilla",
+    "State": "QLD",
+    "PostCode": "4428"
+  },
+  {
+    "Suburb": "Parafield Gardens",
+    "State": "SA",
+    "PostCode": "5107"
+  },
+  {
+    "Suburb": "Hawthorn",
+    "State": "SA",
+    "PostCode": "5062"
+  },
+  {
+    "Suburb": "Pimpama",
+    "State": "QLD",
+    "PostCode": "4209"
+  },
+  {
+    "Suburb": "Norlane",
+    "State": "VIC",
+    "PostCode": "3214"
+  },
+  {
+    "Suburb": "Lobethal",
+    "State": "SA",
+    "PostCode": "5241"
+  },
+  {
+    "Suburb": "Rosebud West",
+    "State": "VIC",
+    "PostCode": "3940"
+  },
+  {
+    "Suburb": "Laurieton",
+    "State": "NSW",
+    "PostCode": "2443"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "State": "VIC",
+    "PostCode": "3039"
+  },
+  {
+    "Suburb": "Angaston",
+    "State": "SA",
+    "PostCode": "5353"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "State": "VIC",
+    "PostCode": "3068"
+  },
+  {
+    "Suburb": "Euleilah",
+    "State": "QLD",
+    "PostCode": "4674"
+  },
+  {
+    "Suburb": "Carrum Downs",
+    "State": "VIC",
+    "PostCode": "3201"
+  },
+  {
+    "Suburb": "Marrickville",
+    "State": "NSW",
+    "PostCode": "2204"
+  },
+  {
+    "Suburb": "Georges Hall",
+    "State": "NSW",
+    "PostCode": "2198"
+  },
+  {
+    "Suburb": "Doonside",
+    "State": "NSW",
+    "PostCode": "2767"
+  },
+  {
+    "Suburb": "Robertson",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "North Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Menora",
+    "State": "WA",
+    "PostCode": "6050"
+  },
+  {
+    "Suburb": "Seventeen Seventy   (1770)",
+    "State": "QLD",
+    "PostCode": "4677"
+  },
+  {
+    "Suburb": "Preston",
+    "State": "VIC",
+    "PostCode": "3072"
+  },
+  {
+    "Suburb": "Innaloo",
+    "State": "WA",
+    "PostCode": "6018"
+  },
+  {
+    "Suburb": "Carindale",
+    "State": "QLD",
+    "PostCode": "4152"
+  },
+  {
+    "Suburb": "Kempsey",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Erowal Bay",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Carrara",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Mosman Park",
+    "State": "WA",
+    "PostCode": "6012"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Mulgrave North",
+    "State": "VIC",
+    "PostCode": "3170"
+  },
+  {
+    "Suburb": "Koo Wee rup",
+    "State": "VIC",
+    "PostCode": "3981"
+  },
+  {
+    "Suburb": "Wollert",
+    "State": "VIC",
+    "PostCode": "3750"
+  },
+  {
+    "Suburb": "Bargara",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Baxter",
+    "State": "VIC",
+    "PostCode": "3911"
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3500"
+  },
+  {
+    "Suburb": "Seven Hills",
+    "State": "NSW",
+    "PostCode": "2147"
+  },
+  {
+    "Suburb": "St Albans",
+    "State": "VIC",
+    "PostCode": "3021"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "State": "VIC",
+    "PostCode": "3064"
+  },
+  {
+    "Suburb": "Clayton South",
+    "State": "VIC",
+    "PostCode": "3169"
+  },
+  {
+    "Suburb": "Haden",
+    "State": "QLD",
+    "PostCode": "4353"
+  },
+  {
+    "Suburb": "Noble Park",
+    "State": "VIC",
+    "PostCode": "3174"
+  },
+  {
+    "Suburb": "Keon Park",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Ferntree Gully",
+    "State": "VIC",
+    "PostCode": "3156"
+  },
+  {
+    "Suburb": "Lower Plenty",
+    "State": "VIC",
+    "PostCode": "3093"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Clayton",
+    "State": "VIC",
+    "PostCode": "3168"
+  },
+  {
+    "Suburb": "Boyne Island",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Charleville",
+    "State": "QLD",
+    "PostCode": "4470"
+  },
+  {
+    "Suburb": "Clayton South",
+    "State": "VIC",
+    "PostCode": "3169"
+  },
+  {
+    "Suburb": "Daw Park",
+    "State": "SA",
+    "PostCode": "5041"
+  },
+  {
+    "Suburb": "Crows Nest",
+    "State": "QLD",
+    "PostCode": "4355"
+  },
+  {
+    "Suburb": "Warwick",
+    "State": "QLD",
+    "PostCode": "4370"
+  },
+  {
+    "Suburb": "North Sydney",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Wollstonecraft",
+    "State": "NSW",
+    "PostCode": "2065"
+  },
+  {
+    "Suburb": "Cranbourne",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Margaret River",
+    "State": "WA",
+    "PostCode": "6285"
+  },
+  {
+    "Suburb": "Hawker",
+    "State": "ACT",
+    "PostCode": "2614"
+  },
+  {
+    "Suburb": "Mernda",
+    "State": "VIC",
+    "PostCode": "3754"
+  },
+  {
+    "Suburb": "Bendigo",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Goomeri",
+    "State": "QLD",
+    "PostCode": "4601"
+  },
+  {
+    "Suburb": "Lower Inman Valley",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "Morphettville",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Boondall",
+    "State": "QLD",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Newtown",
+    "State": "VIC",
+    "PostCode": "3220"
+  },
+  {
+    "Suburb": "Hackham",
+    "State": "SA",
+    "PostCode": "5163"
+  },
+  {
+    "Suburb": "Burwood",
+    "State": "NSW",
+    "PostCode": "2134"
+  },
+  {
+    "Suburb": "Cranbrook",
+    "State": "QLD",
+    "PostCode": "4814"
+  },
+  {
+    "Suburb": "Bannockburn",
+    "State": "VIC",
+    "PostCode": "3331"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "Frankston",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Kew",
+    "State": "VIC",
+    "PostCode": "3101"
+  },
+  {
+    "Suburb": "Elanora Heights",
+    "State": "NSW",
+    "PostCode": "2093"
+  },
+  {
+    "Suburb": "Woorree",
+    "State": "WA",
+    "PostCode": "6530"
+  },
+  {
+    "Suburb": "Heywood",
+    "State": "VIC",
+    "PostCode": "3304"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "State": "VIC",
+    "PostCode": "3044"
+  },
+  {
+    "Suburb": "Doncaster East",
+    "State": "VIC",
+    "PostCode": "3109"
+  },
+  {
+    "Suburb": "Mount Lofty",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Terang",
+    "State": "VIC",
+    "PostCode": "3264"
+  },
+  {
+    "Suburb": "Childers",
+    "State": "QLD",
+    "PostCode": "4660"
+  },
+  {
+    "Suburb": "Rooty Hill",
+    "State": "NSW",
+    "PostCode": "2766"
+  },
+  {
+    "Suburb": "North Rockhampton",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Glengowrie",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Sth Coogee",
+    "State": "NSW",
+    "PostCode": "2034"
+  },
+  {
+    "Suburb": "Noble Park",
+    "State": "VIC",
+    "PostCode": "3174"
+  },
+  {
+    "Suburb": "Texas",
+    "State": "QLD",
+    "PostCode": "4385"
+  },
+  {
+    "Suburb": "Taree",
+    "State": "NSW",
+    "PostCode": "2430"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "Mornington",
+    "State": "VIC",
+    "PostCode": "3931"
+  },
+  {
+    "Suburb": "Katherine",
+    "State": "NT",
+    "PostCode": "0851"
+  },
+  {
+    "Suburb": "Goomeri",
+    "State": "QLD",
+    "PostCode": "4601"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Pakenham",
+    "State": "VIC",
+    "PostCode": "3810"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Donvale",
+    "State": "VIC",
+    "PostCode": "3111"
+  },
+  {
+    "Suburb": "Willoughby",
+    "State": "NSW",
+    "PostCode": "2068"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Engadine",
+    "State": "NSW",
+    "PostCode": "2233"
+  },
+  {
+    "Suburb": "Eastwood",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Ambarvale",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Chatswood",
+    "State": "NSW",
+    "PostCode": "2067"
+  },
+  {
+    "Suburb": "Mount Waverley",
+    "State": "VIC",
+    "PostCode": "3149"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Padstow Heights",
+    "State": "NSW",
+    "PostCode": "2211"
+  },
+  {
+    "Suburb": "Herne Hill",
+    "State": "VIC",
+    "PostCode": "3218"
+  },
+  {
+    "Suburb": "Pyrmont",
+    "State": "NSW",
+    "PostCode": "2009"
+  },
+  {
+    "Suburb": "Bexley",
+    "State": "NSW",
+    "PostCode": "2207"
+  },
+  {
+    "Suburb": "Blackwater",
+    "State": "QLD",
+    "PostCode": "4717"
+  },
+  {
+    "Suburb": "Bargara",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Mosman",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Atherton",
+    "State": "QLD",
+    "PostCode": "4883"
+  },
+  {
+    "Suburb": "Sorrento  (Bundall)",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Lindfield",
+    "State": "NSW",
+    "PostCode": "2070"
+  },
+  {
+    "Suburb": "Keilor East",
+    "State": "VIC",
+    "PostCode": "3033"
+  },
+  {
+    "Suburb": "Elizabeth Park",
+    "State": "SA",
+    "PostCode": "5113"
+  },
+  {
+    "Suburb": "Fishermans Paradise",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Centenary Heights,  Toowoomba South",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Kiama",
+    "State": "NSW",
+    "PostCode": "2533"
+  },
+  {
+    "Suburb": "Bentleigh east",
+    "State": "VIC",
+    "PostCode": "3165"
+  },
+  {
+    "Suburb": "Mardi",
+    "State": "NSW",
+    "PostCode": "2259"
+  },
+  {
+    "Suburb": "Cockatoo",
+    "State": "VIC",
+    "PostCode": "3781"
+  },
+  {
+    "Suburb": "Knoxfield",
+    "State": "VIC",
+    "PostCode": "3180"
+  },
+  {
+    "Suburb": "Portland (03) 5523 4401",
+    "State": "VIC",
+    "PostCode": "3305"
+  },
+  {
+    "Suburb": "Plympton",
+    "State": "SA",
+    "PostCode": "5038"
+  },
+  {
+    "Suburb": "Collaroy Plateau",
+    "State": "NSW",
+    "PostCode": "2097"
+  },
+  {
+    "Suburb": "Ocean Grove",
+    "State": "VIC",
+    "PostCode": "3226"
+  },
+  {
+    "Suburb": "Neutral Bay",
+    "State": "NSW",
+    "PostCode": "2089"
+  },
+  {
+    "Suburb": "North Ryde",
+    "State": "NSW",
+    "PostCode": "2113"
+  },
+  {
+    "Suburb": "Kearsley",
+    "State": "NSW",
+    "PostCode": "2325"
+  },
+  {
+    "Suburb": "Earlwood",
+    "State": "NSW",
+    "PostCode": "2206"
+  },
+  {
+    "Suburb": "East Bendigo",
+    "State": "VIC",
+    "PostCode": "3550"
+  },
+  {
+    "Suburb": "Healesville",
+    "State": "VIC",
+    "PostCode": "3777"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Strathfield",
+    "State": "NSW",
+    "PostCode": "2135"
+  },
+  {
+    "Suburb": "Morayfield",
+    "State": "QLD",
+    "PostCode": "4506"
+  },
+  {
+    "Suburb": "Mount Archer",
+    "State": "QLD",
+    "PostCode": "4514"
+  },
+  {
+    "Suburb": "Glandore",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Direk",
+    "State": "SA",
+    "PostCode": "5110"
+  },
+  {
+    "Suburb": "Toorak Gardens",
+    "State": "SA",
+    "PostCode": "5065"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Deagon",
+    "State": "QLD",
+    "PostCode": "4017"
+  },
+  {
+    "Suburb": "Surrey Hills",
+    "State": "VIC",
+    "PostCode": "3127"
+  },
+  {
+    "Suburb": "Glenelg",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Elizabeth North",
+    "State": "SA",
+    "PostCode": "5113"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Oakleigh East",
+    "State": "VIC",
+    "PostCode": "3166"
+  },
+  {
+    "Suburb": "Cremorne",
+    "State": "NSW",
+    "PostCode": "2090"
+  },
+  {
+    "Suburb": "Waverton",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Broken Hill",
+    "State": "NSW",
+    "PostCode": "2880"
+  },
+  {
+    "Suburb": "North Kellyville",
+    "State": "NSW",
+    "PostCode": "2155"
+  },
+  {
+    "Suburb": "Willoughby",
+    "State": "NSW",
+    "PostCode": "2068"
+  },
+  {
+    "Suburb": "Wantirna South",
+    "State": "VIC",
+    "PostCode": "3152"
+  },
+  {
+    "Suburb": "Toorak Gardens",
+    "State": "SA",
+    "PostCode": "5065"
+  },
+  {
+    "Suburb": "Ruse",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "Cammeray",
+    "State": "NSW",
+    "PostCode": "2062"
+  },
+  {
+    "Suburb": "Scarborough",
+    "State": "WA",
+    "PostCode": "6019"
+  },
+  {
+    "Suburb": "North Plympton",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Parkdale",
+    "State": "VIC",
+    "PostCode": "3195"
+  },
+  {
+    "Suburb": "Chatswood",
+    "State": "NSW",
+    "PostCode": "2067"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Marion",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Centenary Heights",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Mosman",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Blair Athol",
+    "State": "SA",
+    "PostCode": "5084"
+  },
+  {
+    "Suburb": "Laverton",
+    "State": "VIC",
+    "PostCode": "3028"
+  },
+  {
+    "Suburb": "Beaumont",
+    "State": "SA",
+    "PostCode": "5066"
+  },
+  {
+    "Suburb": "North Sydney",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Burrill Lake",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Nunawading",
+    "State": "VIC",
+    "PostCode": "3131"
+  },
+  {
+    "Suburb": "Vincentia",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Paradise",
+    "State": "SA",
+    "PostCode": "5075"
+  },
+  {
+    "Suburb": "Marrickville",
+    "State": "NSW",
+    "PostCode": "2204"
+  },
+  {
+    "Suburb": "Netherby",
+    "State": "SA",
+    "PostCode": "5062"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Mermaid Waters",
+    "State": "QLD",
+    "PostCode": "4218"
+  },
+  {
+    "Suburb": "Sth Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Park Holme",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Koorawatha",
+    "State": "NSW",
+    "PostCode": "2807"
+  },
+  {
+    "Suburb": "Wallaroo",
+    "State": "SA",
+    "PostCode": "5556"
+  },
+  {
+    "Suburb": "Mulgrave",
+    "State": "VIC",
+    "PostCode": "3170"
+  },
+  {
+    "Suburb": "Rosebud West",
+    "State": "VIC",
+    "PostCode": "3940"
+  },
+  {
+    "Suburb": "Fairfield West",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "East Bentleigh",
+    "State": "VIC",
+    "PostCode": "3165"
+  },
+  {
+    "Suburb": "Mermaid Waters",
+    "State": "QLD",
+    "PostCode": "4218"
+  },
+  {
+    "Suburb": "Milton",
+    "State": "NSW",
+    "PostCode": "2538"
+  },
+  {
+    "Suburb": "Clear Island Waters",
+    "State": "QLD",
+    "PostCode": "4226"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "West Beach",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "Newton",
+    "State": "SA",
+    "PostCode": "5074"
+  },
+  {
+    "Suburb": "Brisbane",
+    "State": "QLD",
+    "PostCode": "4000"
+  },
+  {
+    "Suburb": "Doveton",
+    "State": "VIC",
+    "PostCode": "3177"
+  },
+  {
+    "Suburb": "Blakeview",
+    "State": "SA",
+    "PostCode": "5114"
+  },
+  {
+    "Suburb": "Lane Cove Nth",
+    "State": "NSW",
+    "PostCode": "2066"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Frankston",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Merbein",
+    "State": "VIC",
+    "PostCode": "3505"
+  },
+  {
+    "Suburb": "Pooncarie",
+    "State": "NSW",
+    "PostCode": "2648"
+  },
+  {
+    "Suburb": "Oakden",
+    "State": "SA",
+    "PostCode": "5086"
+  },
+  {
+    "Suburb": "Bundoora",
+    "State": "VIC",
+    "PostCode": "3083"
+  },
+  {
+    "Suburb": "Waverton",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Legana",
+    "State": "TAS",
+    "PostCode": "7277"
+  },
+  {
+    "Suburb": "Sheidow Park",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Grange",
+    "State": "SA",
+    "PostCode": "5022"
+  },
+  {
+    "Suburb": "Dalkeith",
+    "State": "WA",
+    "PostCode": "6009"
+  },
+  {
+    "Suburb": "Cranbourne east",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Rosebud West",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Oaks Flats",
+    "State": "NSW",
+    "PostCode": "2529"
+  },
+  {
+    "Suburb": "Goulburn",
+    "State": "NSW",
+    "PostCode": "2580"
+  },
+  {
+    "Suburb": "Mitcham",
+    "State": "VIC",
+    "PostCode": "3132"
+  },
+  {
+    "Suburb": "Devonport",
+    "State": "TAS",
+    "PostCode": "7310"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Macdonald Park",
+    "State": "SA",
+    "PostCode": "5121"
+  },
+  {
+    "Suburb": "Old Reynella",
+    "State": "SA",
+    "PostCode": "5161"
+  },
+  {
+    "Suburb": "Nambour",
+    "State": "QLD",
+    "PostCode": "4560"
+  },
+  {
+    "Suburb": "Vincentia",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Mosman",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Mornington",
+    "State": "VIC",
+    "PostCode": "3931"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Oberon",
+    "State": "NSW",
+    "PostCode": "2787"
+  },
+  {
+    "Suburb": "Blayney",
+    "State": "NSW",
+    "PostCode": "2799"
+  },
+  {
+    "Suburb": "Mt Gambier",
+    "State": "SA",
+    "PostCode": "5290"
+  },
+  {
+    "Suburb": "Earlwood",
+    "State": "NSW",
+    "PostCode": "2206"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Glengowrie",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Mirboo North",
+    "State": "VIC",
+    "PostCode": "3871"
+  },
+  {
+    "Suburb": "West Lakes Shore",
+    "State": "SA",
+    "PostCode": "5020"
+  },
+  {
+    "Suburb": "Heywood",
+    "State": "VIC",
+    "PostCode": "3304"
+  },
+  {
+    "Suburb": "Gruyere",
+    "State": "VIC",
+    "PostCode": "3770"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "State": "VIC",
+    "PostCode": "3029"
+  },
+  {
+    "Suburb": "Dolls Point",
+    "State": "NSW",
+    "PostCode": "2219"
+  },
+  {
+    "Suburb": "Durong",
+    "State": "QLD",
+    "PostCode": "4610"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Darlinghurst",
+    "State": "NSW",
+    "PostCode": "2010"
+  },
+  {
+    "Suburb": "North Plympton",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3630"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "State": "VIC",
+    "PostCode": "3192"
+  },
+  {
+    "Suburb": "Meeniyan",
+    "State": "VIC",
+    "PostCode": "3956"
+  },
+  {
+    "Suburb": "Macquarie Park",
+    "State": "NSW",
+    "PostCode": "2113"
+  },
+  {
+    "Suburb": "North Sydney",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Canowindra",
+    "State": "NSW",
+    "PostCode": "2804"
+  },
+  {
+    "Suburb": "Brighton",
+    "State": "QLD",
+    "PostCode": "4017"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Capalaba",
+    "State": "QLD",
+    "PostCode": "4157"
+  },
+  {
+    "Suburb": "Glengowrie",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Bawley Point",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Woodside",
+    "State": "SA",
+    "PostCode": "5244"
+  },
+  {
+    "Suburb": "Killcare",
+    "State": "NSW",
+    "PostCode": "2257"
+  },
+  {
+    "Suburb": "Woolloongabba",
+    "State": "QLD",
+    "PostCode": "4102"
+  },
+  {
+    "Suburb": "Twin Waters",
+    "State": "",
+    "PostCode": "4564"
+  },
+  {
+    "Suburb": "Mortlake",
+    "State": "VIC",
+    "PostCode": "3272"
+  },
+  {
+    "Suburb": "Glendalough",
+    "State": "WA",
+    "PostCode": "6016"
+  },
+  {
+    "Suburb": "Wahroonga",
+    "State": "NSW",
+    "PostCode": "2076"
+  },
+  {
+    "Suburb": "Moana",
+    "State": "SA",
+    "PostCode": "5169"
+  },
+  {
+    "Suburb": "Gheerulla",
+    "State": "QLD",
+    "PostCode": "4574"
+  },
+  {
+    "Suburb": "St Georges Basin",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Nashdale",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Lakemba",
+    "State": "NSW",
+    "PostCode": "2195"
+  },
+  {
+    "Suburb": "Gelorup",
+    "State": "WA",
+    "PostCode": "6230"
+  },
+  {
+    "Suburb": "Bli Bli",
+    "State": "QLD",
+    "PostCode": "4560"
+  },
+  {
+    "Suburb": "Fig Tree Pocket",
+    "State": "QLD",
+    "PostCode": "4069"
+  },
+  {
+    "Suburb": "Woollamia",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Warana",
+    "State": "QLD",
+    "PostCode": "4575"
+  },
+  {
+    "Suburb": "Killawarra",
+    "State": "VIC",
+    "PostCode": "3677"
+  },
+  {
+    "Suburb": "Morwell",
+    "State": "VIC",
+    "PostCode": "3841"
+  },
+  {
+    "Suburb": "Robertson",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "Lucknow",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Elizabeth Bay",
+    "State": "NSW",
+    "PostCode": "2011"
+  },
+  {
+    "Suburb": "Tomerong",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "North Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Nambour",
+    "State": "QLD",
+    "PostCode": "4560"
+  },
+  {
+    "Suburb": "Tanawha",
+    "State": "QLD",
+    "PostCode": "4556"
+  },
+  {
+    "Suburb": "Salisbury East",
+    "State": "SA",
+    "PostCode": "5109"
+  },
+  {
+    "Suburb": "Strathpine",
+    "State": "QLD",
+    "PostCode": "4500"
+  },
+  {
+    "Suburb": "Ramsgate",
+    "State": "NSW",
+    "PostCode": "2217"
+  },
+  {
+    "Suburb": "Withcott",
+    "State": "QLD",
+    "PostCode": "4352"
+  },
+  {
+    "Suburb": "Haymarket",
+    "State": "NSW",
+    "PostCode": "2000"
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3500"
+  },
+  {
+    "Suburb": "Mildura",
+    "State": "VIC",
+    "PostCode": "3502"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Hope valley",
+    "State": "SA",
+    "PostCode": "5090"
+  },
+  {
+    "Suburb": "Frenchville",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Lithgow",
+    "State": "NSW",
+    "PostCode": "2790"
+  },
+  {
+    "Suburb": "Beerwah",
+    "State": "QLD",
+    "PostCode": "4519"
+  },
+  {
+    "Suburb": "Frenchs Forest",
+    "State": "NSW",
+    "PostCode": "2086"
+  },
+  {
+    "Suburb": "Queenscliff",
+    "State": "VIC",
+    "PostCode": "3225"
+  },
+  {
+    "Suburb": "Torquay",
+    "State": "VIC",
+    "PostCode": "3228"
+  },
+  {
+    "Suburb": "Balgal Beach",
+    "State": "QLD",
+    "PostCode": "4818"
+  },
+  {
+    "Suburb": "Mile End",
+    "State": "SA",
+    "PostCode": "5031"
+  },
+  {
+    "Suburb": "Joslin",
+    "State": "SA",
+    "PostCode": "5070"
+  },
+  {
+    "Suburb": "Heywood",
+    "State": "VIC",
+    "PostCode": "3304"
+  },
+  {
+    "Suburb": "Dianella",
+    "State": "WA",
+    "PostCode": "6059"
+  },
+  {
+    "Suburb": "Ocean Grove",
+    "State": "VIC",
+    "PostCode": "3226"
+  },
+  {
+    "Suburb": "Chelsea",
+    "State": "VIC",
+    "PostCode": "3196"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Narrawallee",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Oberon",
+    "State": "NSW",
+    "PostCode": "2787"
+  },
+  {
+    "Suburb": "Morwell",
+    "State": "VIC",
+    "PostCode": "3840"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Earlwood",
+    "State": "NSW",
+    "PostCode": "2206"
+  },
+  {
+    "Suburb": "Wavell Heights",
+    "State": "QLD",
+    "PostCode": "4012"
+  },
+  {
+    "Suburb": "Maquarie Park",
+    "State": "NSW",
+    "PostCode": "2113"
+  },
+  {
+    "Suburb": "Wollert",
+    "State": "VIC",
+    "PostCode": "3750"
+  },
+  {
+    "Suburb": "Kingsgrove",
+    "State": "NSW",
+    "PostCode": "2208"
+  },
+  {
+    "Suburb": "Bell Park",
+    "State": "VIC",
+    "PostCode": "3215"
+  },
+  {
+    "Suburb": "Forrestville",
+    "State": "SA",
+    "PostCode": "50"
+  },
+  {
+    "Suburb": "Pymble",
+    "State": "NSW",
+    "PostCode": "2073"
+  },
+  {
+    "Suburb": "Booval",
+    "State": "QLD",
+    "PostCode": "4304"
+  },
+  {
+    "Suburb": "Yamanto",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Little Mountain",
+    "State": "QLD",
+    "PostCode": "4551"
+  },
+  {
+    "Suburb": "Yarra Junction",
+    "State": "VIC",
+    "PostCode": "3797"
+  },
+  {
+    "Suburb": "Goomeri",
+    "State": "QLD",
+    "PostCode": "4601"
+  },
+  {
+    "Suburb": "Panania",
+    "State": "NSW",
+    "PostCode": "2213"
+  },
+  {
+    "Suburb": "Goodna",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Kensington Grove",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Dee Why",
+    "State": "NSW",
+    "PostCode": "2099"
+  },
+  {
+    "Suburb": "Silkstone",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Atkinsons Dam",
+    "State": "QLD",
+    "PostCode": "4311"
+  },
+  {
+    "Suburb": "Kilkivan",
+    "State": "QLD",
+    "PostCode": "4600"
+  },
+  {
+    "Suburb": "Ipswich",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Glenelg East",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Dulwich Hill",
+    "State": "NSW",
+    "PostCode": "2203"
+  },
+  {
+    "Suburb": "Cherbourg",
+    "State": "QLD",
+    "PostCode": "4605"
+  },
+  {
+    "Suburb": "Scarborough",
+    "State": "QLD",
+    "PostCode": "4020"
+  },
+  {
+    "Suburb": "Milsons Point",
+    "State": "NSW",
+    "PostCode": "2061"
+  },
+  {
+    "Suburb": "East Keilor",
+    "State": "VIC",
+    "PostCode": "3033"
+  },
+  {
+    "Suburb": "Swan Hill",
+    "State": "VIC",
+    "PostCode": "3585"
+  },
+  {
+    "Suburb": "St Agnes",
+    "State": "SA",
+    "PostCode": "5097"
+  },
+  {
+    "Suburb": "Vale Park",
+    "State": "SA",
+    "PostCode": "5081"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": "2020"
+  },
+  {
+    "Suburb": "Wurtulla",
+    "State": "QLD",
+    "PostCode": "4575"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Worrigee",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "West Beach",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "Northbridge",
+    "State": "NSW",
+    "PostCode": "2063"
+  },
+  {
+    "Suburb": "Lovely Banks",
+    "State": "VIC",
+    "PostCode": "3213"
+  },
+  {
+    "Suburb": "Sanctuary Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Ashfield",
+    "State": "NSW",
+    "PostCode": "2131"
+  },
+  {
+    "Suburb": "St Peters",
+    "State": "SA",
+    "PostCode": "5069"
+  },
+  {
+    "Suburb": "Terrigal",
+    "State": "NSW",
+    "PostCode": "2260"
+  },
+  {
+    "Suburb": "Moana",
+    "State": "SA",
+    "PostCode": "5169"
+  },
+  {
+    "Suburb": "Maleny",
+    "State": "QLD",
+    "PostCode": "4552"
+  },
+  {
+    "Suburb": "Holland Park West",
+    "State": "QLD",
+    "PostCode": "4121"
+  },
+  {
+    "Suburb": "Fairy Meadow",
+    "State": "NSW",
+    "PostCode": "2519"
+  },
+  {
+    "Suburb": "Ballarat",
+    "State": "VIC",
+    "PostCode": "3350"
+  },
+  {
+    "Suburb": "Encounter Bay",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "Hallett Cove",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Greensborough",
+    "State": "VIC",
+    "PostCode": "3088"
+  },
+  {
+    "Suburb": "Mundaring",
+    "State": "WA",
+    "PostCode": "6073"
+  },
+  {
+    "Suburb": "Innisfail",
+    "State": "QLD",
+    "PostCode": "4860"
+  },
+  {
+    "Suburb": "Victory Heights",
+    "State": "QLD",
+    "PostCode": "4570"
+  },
+  {
+    "Suburb": "Woombye",
+    "State": "QLD",
+    "PostCode": "4559"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "Salisbury Downs",
+    "State": "SA",
+    "PostCode": "5108"
+  },
+  {
+    "Suburb": "Enfield",
+    "State": "NSW",
+    "PostCode": "2136"
+  },
+  {
+    "Suburb": "Highbury",
+    "State": "SA",
+    "PostCode": "5089"
+  },
+  {
+    "Suburb": "Lightning Ridge",
+    "State": "NSW",
+    "PostCode": "2834"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Springfield",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Southside",
+    "State": "QLD",
+    "PostCode": "4570"
+  },
+  {
+    "Suburb": "Bellmere",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Moe",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Prospect",
+    "State": "SA",
+    "PostCode": "5082"
+  },
+  {
+    "Suburb": "Port Douglas",
+    "State": "QLD",
+    "PostCode": "4877"
+  },
+  {
+    "Suburb": "Tungkillo",
+    "State": "SA",
+    "PostCode": "5236"
+  },
+  {
+    "Suburb": "Warragul",
+    "State": "VIC",
+    "PostCode": "3820"
+  },
+  {
+    "Suburb": "Manly",
+    "State": "NSW",
+    "PostCode": "2085"
+  },
+  {
+    "Suburb": "Gosnells",
+    "State": "WA",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Berry",
+    "State": "NSW",
+    "PostCode": "2535"
+  },
+  {
+    "Suburb": "Waterford",
+    "State": "WA",
+    "PostCode": "6152"
+  },
+  {
+    "Suburb": "Reynella",
+    "State": "SA",
+    "PostCode": "5161"
+  },
+  {
+    "Suburb": "Culburra Beach",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Redcliffe",
+    "State": "QLD",
+    "PostCode": "4020"
+  },
+  {
+    "Suburb": "Brookwater",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Helidon",
+    "State": "QLD",
+    "PostCode": "4344"
+  },
+  {
+    "Suburb": "Gracemere",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Essendon",
+    "State": "VIC",
+    "PostCode": "3040"
+  },
+  {
+    "Suburb": "Young",
+    "State": "NSW",
+    "PostCode": "2594"
+  },
+  {
+    "Suburb": "Flinders View",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Bacchus Marsh",
+    "State": "VIC",
+    "PostCode": "3340"
+  },
+  {
+    "Suburb": "Cowley",
+    "State": "QLD",
+    "PostCode": "4817"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Brunswick",
+    "State": "VIC",
+    "PostCode": "3056"
+  },
+  {
+    "Suburb": "Drummoyne",
+    "State": "NSW",
+    "PostCode": "2047"
+  },
+  {
+    "Suburb": "Wirrina Cove",
+    "State": "SA",
+    "PostCode": "5204"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3630"
+  },
+  {
+    "Suburb": "Caloundra",
+    "State": "QLD",
+    "PostCode": "4551"
+  },
+  {
+    "Suburb": "Doncaster",
+    "State": "VIC",
+    "PostCode": "3108"
+  },
+  {
+    "Suburb": "Euroa",
+    "State": "VIC",
+    "PostCode": "3666"
+  },
+  {
+    "Suburb": "Davidson",
+    "State": "NSW",
+    "PostCode": "2085"
+  },
+  {
+    "Suburb": "Bowral",
+    "State": "NSW",
+    "PostCode": "2576"
+  },
+  {
+    "Suburb": "Yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Busselton",
+    "State": "WA",
+    "PostCode": "6280"
+  },
+  {
+    "Suburb": "Earlwood",
+    "State": "NSW",
+    "PostCode": "2206"
+  },
+  {
+    "Suburb": "Gladstone Park",
+    "State": "VIC",
+    "PostCode": "3043"
+  },
+  {
+    "Suburb": "Stirling",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Ryde",
+    "State": "NSW",
+    "PostCode": "2112"
+  },
+  {
+    "Suburb": "Shoalwater",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Botanic Ridge",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Narrabeen",
+    "State": "NSW",
+    "PostCode": "2101"
+  },
+  {
+    "Suburb": "Harkness",
+    "State": "VIC",
+    "PostCode": "3337"
+  },
+  {
+    "Suburb": "Clifton",
+    "State": "QLD",
+    "PostCode": "4361"
+  },
+  {
+    "Suburb": "Semaphore Park",
+    "State": "SA",
+    "PostCode": "5019"
+  },
+  {
+    "Suburb": "Marcoola",
+    "State": "QLD",
+    "PostCode": "4564"
+  },
+  {
+    "Suburb": "Wallington",
+    "State": "VIC",
+    "PostCode": "3222"
+  },
+  {
+    "Suburb": "Goulburn",
+    "State": "NSW",
+    "PostCode": "2580"
+  },
+  {
+    "Suburb": "Brassall",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Redcliffe",
+    "State": "QLD",
+    "PostCode": "4020"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Tea Tree Gully",
+    "State": "SA",
+    "PostCode": "5091"
+  },
+  {
+    "Suburb": "Kurraba Point",
+    "State": "NSW",
+    "PostCode": "2089"
+  },
+  {
+    "Suburb": "Paddington",
+    "State": "NSW",
+    "PostCode": "2021"
+  },
+  {
+    "Suburb": "Mt Martha",
+    "State": "VIC",
+    "PostCode": "3934"
+  },
+  {
+    "Suburb": "Sadliers Crossing",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Mount Druitt",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "Glandore",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Boonah",
+    "State": "QLD",
+    "PostCode": "4330"
+  },
+  {
+    "Suburb": "Pakenham",
+    "State": "VIC",
+    "PostCode": "3810"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "State": "VIC",
+    "PostCode": "3044"
+  },
+  {
+    "Suburb": "Yackandandah",
+    "State": "VIC",
+    "PostCode": "3749"
+  },
+  {
+    "Suburb": "Denistone East",
+    "State": "NSW",
+    "PostCode": "2112"
+  },
+  {
+    "Suburb": "Klemzig",
+    "State": "SA",
+    "PostCode": "5087"
+  },
+  {
+    "Suburb": "Tin Can Bay",
+    "State": "QLD",
+    "PostCode": "4580"
+  },
+  {
+    "Suburb": "Nambour",
+    "State": "QLD",
+    "PostCode": "4560"
+  },
+  {
+    "Suburb": "Hassall Grove",
+    "State": "NSW",
+    "PostCode": "2761"
+  },
+  {
+    "Suburb": "Warragul",
+    "State": "VIC",
+    "PostCode": "3820"
+  },
+  {
+    "Suburb": "Grovedale",
+    "State": "VIC",
+    "PostCode": "3216"
+  },
+  {
+    "Suburb": "Golden Beach",
+    "State": "QLD",
+    "PostCode": "4551"
+  },
+  {
+    "Suburb": "Mt Pritchard",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Walloon",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Cranbourne east",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Goon Nure",
+    "State": "VIC",
+    "PostCode": "3875"
+  },
+  {
+    "Suburb": "Newborough",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "NSW",
+    "PostCode": "2132"
+  },
+  {
+    "Suburb": "Bonnyrigg",
+    "State": "NSW",
+    "PostCode": "2177"
+  },
+  {
+    "Suburb": "Wallerawang",
+    "State": "NSW",
+    "PostCode": "2845"
+  },
+  {
+    "Suburb": "Wooli",
+    "State": "NSW",
+    "PostCode": "2462"
+  },
+  {
+    "Suburb": "Rooty Hill",
+    "State": "NSW",
+    "PostCode": "2766"
+  },
+  {
+    "Suburb": "Sydney Olympic Park",
+    "State": "NSW",
+    "PostCode": "2127"
+  },
+  {
+    "Suburb": "Ashgrove",
+    "State": "QLD",
+    "PostCode": "4060"
+  },
+  {
+    "Suburb": "Albany",
+    "State": "WA",
+    "PostCode": "6330"
+  },
+  {
+    "Suburb": "Essendon",
+    "State": "VIC",
+    "PostCode": "3040"
+  },
+  {
+    "Suburb": "Queens Park",
+    "State": "NSW",
+    "PostCode": "2022"
+  },
+  {
+    "Suburb": "South Geelong",
+    "State": "VIC",
+    "PostCode": "3220"
+  },
+  {
+    "Suburb": "Chiltern",
+    "State": "VIC",
+    "PostCode": "3683"
+  },
+  {
+    "Suburb": "Oberon",
+    "State": "NSW",
+    "PostCode": "2787"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Mollymook",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "North Haven",
+    "State": "SA",
+    "PostCode": "5018"
+  },
+  {
+    "Suburb": "Prahran",
+    "State": "VIC",
+    "PostCode": "3181"
+  },
+  {
+    "Suburb": "Iluka",
+    "State": "NSW",
+    "PostCode": "2466"
+  },
+  {
+    "Suburb": "Peak Hill",
+    "State": "NSW",
+    "PostCode": "2869"
+  },
+  {
+    "Suburb": "Gray",
+    "State": "NT",
+    "PostCode": "0830"
+  },
+  {
+    "Suburb": "Petersham",
+    "State": "NSW",
+    "PostCode": "2049"
+  },
+  {
+    "Suburb": "Christie Downs",
+    "State": "SA",
+    "PostCode": "5164"
+  },
+  {
+    "Suburb": "Alexander Heights",
+    "State": "WA",
+    "PostCode": "6064"
+  },
+  {
+    "Suburb": "Blackburn South",
+    "State": "VIC",
+    "PostCode": "3130"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3630"
+  },
+  {
+    "Suburb": "Lovely Banks",
+    "State": "VIC",
+    "PostCode": "3213"
+  },
+  {
+    "Suburb": "Fairlight",
+    "State": "NSW",
+    "PostCode": "2094"
+  },
+  {
+    "Suburb": "Cambridge Park",
+    "State": "NSW",
+    "PostCode": "2747"
+  },
+  {
+    "Suburb": "Waitara",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Maroubra",
+    "State": "NSW",
+    "PostCode": "2035"
+  },
+  {
+    "Suburb": "Tewantin",
+    "State": "QLD",
+    "PostCode": "4565"
+  },
+  {
+    "Suburb": "Greenwell Point",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Woollahra",
+    "State": "NSW",
+    "PostCode": "2025"
+  },
+  {
+    "Suburb": "North Ryde",
+    "State": "NSW",
+    "PostCode": "2113"
+  },
+  {
+    "Suburb": "Mascot",
+    "State": "NSW",
+    "PostCode": "2020"
+  },
+  {
+    "Suburb": "Windsor Gardens",
+    "State": "SA",
+    "PostCode": "5087"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Payneham",
+    "State": "SA",
+    "PostCode": "5070"
+  },
+  {
+    "Suburb": "South Fremantle",
+    "State": "WA",
+    "PostCode": "6162"
+  },
+  {
+    "Suburb": "Carlingford",
+    "State": "NSW",
+    "PostCode": "2118"
+  },
+  {
+    "Suburb": "Gladstone",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Manly",
+    "State": "NSW",
+    "PostCode": "2095"
+  },
+  {
+    "Suburb": "Mawson Lakes",
+    "State": "SA",
+    "PostCode": "5095"
+  },
+  {
+    "Suburb": "Cowandilla",
+    "State": "SA",
+    "PostCode": "5033"
+  },
+  {
+    "Suburb": "Klemzig",
+    "State": "SA",
+    "PostCode": "5087"
+  },
+  {
+    "Suburb": "Tanunda",
+    "State": "SA",
+    "PostCode": "5352"
+  },
+  {
+    "Suburb": "Alstonville",
+    "State": "NSW",
+    "PostCode": "2477"
+  },
+  {
+    "Suburb": "Langwarrin South",
+    "State": "VIC",
+    "PostCode": "3911"
+  },
+  {
+    "Suburb": "Nedlands",
+    "State": "WA",
+    "PostCode": "6009"
+  },
+  {
+    "Suburb": "Nollamara",
+    "State": "WA",
+    "PostCode": "6061"
+  },
+  {
+    "Suburb": "Sanctuary Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Clontarf",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Moe",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Clarkefield",
+    "State": "VIC",
+    "PostCode": "3430"
+  },
+  {
+    "Suburb": "Park Avenue",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Pooraka",
+    "State": "SA",
+    "PostCode": "5095"
+  },
+  {
+    "Suburb": "Blairgowrie",
+    "State": "VIC",
+    "PostCode": "3942"
+  },
+  {
+    "Suburb": "Kingscliff",
+    "State": "NSW",
+    "PostCode": "2487"
+  },
+  {
+    "Suburb": "Port Norlunga",
+    "State": "SA",
+    "PostCode": "5167"
+  },
+  {
+    "Suburb": "Cargo",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Esk",
+    "State": "QLD",
+    "PostCode": "4312"
+  },
+  {
+    "Suburb": "Gilgandra",
+    "State": "NSW",
+    "PostCode": "2827"
+  },
+  {
+    "Suburb": "Moorbel",
+    "State": "NSW",
+    "PostCode": "2804"
+  },
+  {
+    "Suburb": "Swan Hill",
+    "State": "VIC",
+    "PostCode": "3585"
+  },
+  {
+    "Suburb": "Carcoar",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Millthorpe",
+    "State": "NSW",
+    "PostCode": "2798"
+  },
+  {
+    "Suburb": "Busselton",
+    "State": "WA",
+    "PostCode": "6280"
+  },
+  {
+    "Suburb": "Farmborough Heights",
+    "State": "NSW",
+    "PostCode": "2526"
+  },
+  {
+    "Suburb": "Ulladulla",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Gladstone",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Rose Bay",
+    "State": "NSW",
+    "PostCode": "2029"
+  },
+  {
+    "Suburb": "Leanyer",
+    "State": "NT",
+    "PostCode": "0812"
+  },
+  {
+    "Suburb": "Mona Vale",
+    "State": "NSW",
+    "PostCode": "2103"
+  },
+  {
+    "Suburb": "Waterloo",
+    "State": "NSW",
+    "PostCode": "2017"
+  },
+  {
+    "Suburb": "Healesville",
+    "State": "VIC",
+    "PostCode": "3777"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Marsfield",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Glenelg North",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Kidman Park",
+    "State": "SA",
+    "PostCode": "5025"
+  },
+  {
+    "Suburb": "Cargo",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "South Maroubra",
+    "State": "NSW",
+    "PostCode": "2035"
+  },
+  {
+    "Suburb": "Iluka",
+    "State": "NSW",
+    "PostCode": "2466"
+  },
+  {
+    "Suburb": "Warragul",
+    "State": "VIC",
+    "PostCode": "3820"
+  },
+  {
+    "Suburb": "",
+    "State": "",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Gilgandra",
+    "State": "NSW",
+    "PostCode": "2827"
+  },
+  {
+    "Suburb": "Seaford Meadows",
+    "State": "SA",
+    "PostCode": "5169"
+  },
+  {
+    "Suburb": "Kyabram",
+    "State": "VIC",
+    "PostCode": "3620"
+  },
+  {
+    "Suburb": "Killarnet Heights",
+    "State": "NSW",
+    "PostCode": "2087"
+  },
+  {
+    "Suburb": "hampton",
+    "State": "SA",
+    "PostCode": "5062"
+  },
+  {
+    "Suburb": "back of burke",
+    "State": "VIC",
+    "PostCode": "3187"
+  },
+  {
+    "Suburb": "Roselands",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Somerton Park",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Avoca Beach/Mulgoa",
+    "State": "NSW",
+    "PostCode": "2551"
+  },
+  {
+    "Suburb": "North Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Monterey",
+    "State": "NSW",
+    "PostCode": "2217"
+  },
+  {
+    "Suburb": "Redfern",
+    "State": "NSW",
+    "PostCode": "2016"
+  },
+  {
+    "Suburb": "Valley View",
+    "State": "SA",
+    "PostCode": "5093"
+  },
+  {
+    "Suburb": "Yarragon",
+    "State": "VIC",
+    "PostCode": "3823"
+  },
+  {
+    "Suburb": "Karrabin",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Southbank",
+    "State": "VIC",
+    "PostCode": "3006"
+  },
+  {
+    "Suburb": "Wanguri",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Ayr",
+    "State": "QLD",
+    "PostCode": "4807"
+  },
+  {
+    "Suburb": "Coromandel Valley",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Paradise Point",
+    "State": "QLD",
+    "PostCode": "4216"
+  },
+  {
+    "Suburb": "Mascot",
+    "State": "NSW",
+    "PostCode": "2020"
+  },
+  {
+    "Suburb": "St Andrews",
+    "State": "NSW",
+    "PostCode": "2566"
+  },
+  {
+    "Suburb": "Dawes Point",
+    "State": "NSW",
+    "PostCode": "2000"
+  },
+  {
+    "Suburb": "Bass Hill",
+    "State": "NSW",
+    "PostCode": "2197"
+  },
+  {
+    "Suburb": "Windsor Gardens",
+    "State": "SA",
+    "PostCode": "5087"
+  },
+  {
+    "Suburb": "",
+    "State": "",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Brusselton",
+    "State": "WA",
+    "PostCode": "6280"
+  },
+  {
+    "Suburb": "Keilor Park",
+    "State": "VIC",
+    "PostCode": "3042"
+  },
+  {
+    "Suburb": "Longreach",
+    "State": "QLD",
+    "PostCode": "4730"
+  },
+  {
+    "Suburb": "Yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Walkerville",
+    "State": "SA",
+    "PostCode": "5081"
+  },
+  {
+    "Suburb": "Casula",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Nerang",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Ormeau",
+    "State": "QLD",
+    "PostCode": "4208"
+  },
+  {
+    "Suburb": "Tweed Heads South",
+    "State": "NSW",
+    "PostCode": "2485"
+  },
+  {
+    "Suburb": "Surry Hills",
+    "State": "NSW",
+    "PostCode": "2010"
+  },
+  {
+    "Suburb": "Findon",
+    "State": "SA",
+    "PostCode": "5023"
+  },
+  {
+    "Suburb": "Killara",
+    "State": "NSW",
+    "PostCode": "2071"
+  },
+  {
+    "Suburb": "Albanvale",
+    "State": "VIC",
+    "PostCode": "3021"
+  },
+  {
+    "Suburb": "Avenell Heights",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Hope Valley",
+    "State": "SA",
+    "PostCode": "5090"
+  },
+  {
+    "Suburb": "Dulwich Hill",
+    "State": "NSW",
+    "PostCode": "2203"
+  },
+  {
+    "Suburb": "Maylands",
+    "State": "WA",
+    "PostCode": "6032"
+  },
+  {
+    "Suburb": "Woodcroft",
+    "State": "NSW",
+    "PostCode": "2767"
+  },
+  {
+    "Suburb": "Pentland",
+    "State": "QLD",
+    "PostCode": "4816"
+  },
+  {
+    "Suburb": "Summer Hill",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Newcastle West",
+    "State": "NSW",
+    "PostCode": "2302"
+  },
+  {
+    "Suburb": "Culburra Beach",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Hurlstone Park",
+    "State": "NSW",
+    "PostCode": "2193"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Salisbury",
+    "State": "SA",
+    "PostCode": "5108"
+  },
+  {
+    "Suburb": "Warradale",
+    "State": "SA",
+    "PostCode": "5046"
+  },
+  {
+    "Suburb": "Seaforth",
+    "State": "NSW",
+    "PostCode": "2092"
+  },
+  {
+    "Suburb": "Chatswood West",
+    "State": "NSW",
+    "PostCode": "2067"
+  },
+  {
+    "Suburb": "Cleveland",
+    "State": "QLD",
+    "PostCode": "4163"
+  },
+  {
+    "Suburb": "Barcaldine",
+    "State": "QLD",
+    "PostCode": "4725"
+  },
+  {
+    "Suburb": "Grays Point",
+    "State": "NSW",
+    "PostCode": "2232"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Nashdale",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Marsfield",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Beveridge",
+    "State": "VIC",
+    "PostCode": "3753"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3630"
+  },
+  {
+    "Suburb": "Glenelg South",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Cabramatta",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Pooraka",
+    "State": "SA",
+    "PostCode": "5095"
+  },
+  {
+    "Suburb": "Molendinar",
+    "State": "QLD",
+    "PostCode": "4214"
+  },
+  {
+    "Suburb": "Cabramatta",
+    "State": "NSW",
+    "PostCode": "2166"
+  },
+  {
+    "Suburb": "Oaklands Park",
+    "State": "SA",
+    "PostCode": "5046"
+  },
+  {
+    "Suburb": "Kingsgrove",
+    "State": "NSW",
+    "PostCode": "2208"
+  },
+  {
+    "Suburb": "Fairfield East",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Lithgow",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Ridleyton",
+    "State": "SA",
+    "PostCode": "5008"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Carrajung Sth",
+    "State": "VIC",
+    "PostCode": "3874"
+  },
+  {
+    "Suburb": "Laidley",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Narrabeen",
+    "State": "NSW",
+    "PostCode": "2101"
+  },
+  {
+    "Suburb": "Somerton Park",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Alexandra Hills",
+    "State": "QLD",
+    "PostCode": "4161"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "East Hills",
+    "State": "NSW",
+    "PostCode": "2213"
+  },
+  {
+    "Suburb": "Benowa",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Elimbah",
+    "State": "QLD",
+    "PostCode": "4516"
+  },
+  {
+    "Suburb": "Eaglemont",
+    "State": "VIC",
+    "PostCode": "3084"
+  },
+  {
+    "Suburb": "Springfield Lakes",
+    "State": "QLD",
+    "PostCode": "4652"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "NSW",
+    "PostCode": "2132"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "NSW",
+    "PostCode": "2132"
+  },
+  {
+    "Suburb": "Nuriootpa",
+    "State": "SA",
+    "PostCode": "5355"
+  },
+  {
+    "Suburb": "Sanctuary Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Beachmere",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Lenah Valley",
+    "State": "TAS",
+    "PostCode": "7008"
+  },
+  {
+    "Suburb": "Manly Vale",
+    "State": "NSW",
+    "PostCode": "2093"
+  },
+  {
+    "Suburb": "Grenfell",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Warriewood",
+    "State": "NSW",
+    "PostCode": "2102"
+  },
+  {
+    "Suburb": "Allambie Heights",
+    "State": "NSW",
+    "PostCode": "2100"
+  },
+  {
+    "Suburb": "Warwick",
+    "State": "QLD",
+    "PostCode": "4370"
+  },
+  {
+    "Suburb": "Peakhurst",
+    "State": "NSW",
+    "PostCode": "2210"
+  },
+  {
+    "Suburb": "Tennyson",
+    "State": "SA",
+    "PostCode": "5022"
+  },
+  {
+    "Suburb": "Barry",
+    "State": "NSW",
+    "PostCode": "2799"
+  },
+  {
+    "Suburb": "Kingsford",
+    "State": "NSW",
+    "PostCode": "2032"
+  },
+  {
+    "Suburb": "Upper Hermitage",
+    "State": "SA",
+    "PostCode": "5131"
+  },
+  {
+    "Suburb": "Kardinya",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Maryborough",
+    "State": "QLD",
+    "PostCode": "4650"
+  },
+  {
+    "Suburb": "Merewether",
+    "State": "NSW",
+    "PostCode": "2291"
+  },
+  {
+    "Suburb": "Isabella Plains",
+    "State": "ACT",
+    "PostCode": "2905"
+  },
+  {
+    "Suburb": "Magnetic Island",
+    "State": "QLD",
+    "PostCode": "4819"
+  },
+  {
+    "Suburb": "Telopea",
+    "State": "NSW",
+    "PostCode": "2117"
+  },
+  {
+    "Suburb": "Seppings",
+    "State": "WA",
+    "PostCode": "6330"
+  },
+  {
+    "Suburb": "Sorell",
+    "State": "TAS",
+    "PostCode": "7173"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "State": "NSW",
+    "PostCode": "2119"
+  },
+  {
+    "Suburb": "Trundle",
+    "State": "NSW",
+    "PostCode": "2875"
+  },
+  {
+    "Suburb": "Mosman",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Forest Lake",
+    "State": "QLD",
+    "PostCode": "4078"
+  },
+  {
+    "Suburb": "South Geelong",
+    "State": "VIC",
+    "PostCode": "3220"
+  },
+  {
+    "Suburb": "Whyalla Playford",
+    "State": "SA",
+    "PostCode": "5600"
+  },
+  {
+    "Suburb": "Marden",
+    "State": "SA",
+    "PostCode": "5070"
+  },
+  {
+    "Suburb": "Padstow",
+    "State": "NSW",
+    "PostCode": "2211"
+  },
+  {
+    "Suburb": "Gilles Plains",
+    "State": "SA",
+    "PostCode": "5086"
+  },
+  {
+    "Suburb": "Manly West",
+    "State": "QLD",
+    "PostCode": "4179"
+  },
+  {
+    "Suburb": "North Ryde",
+    "State": "NSW",
+    "PostCode": "2113"
+  },
+  {
+    "Suburb": "Onkaparinga Hills",
+    "State": "SA",
+    "PostCode": "5163"
+  },
+  {
+    "Suburb": "Trott Park",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Camberwell",
+    "State": "VIC",
+    "PostCode": "3124"
+  },
+  {
+    "Suburb": "Munno Parra",
+    "State": "SA",
+    "PostCode": "5115"
+  },
+  {
+    "Suburb": "Nyngan",
+    "State": "NSW",
+    "PostCode": "2825"
+  },
+  {
+    "Suburb": "Mooroolbark",
+    "State": "VIC",
+    "PostCode": "3138"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "State": "NSW",
+    "PostCode": "2119"
+  },
+  {
+    "Suburb": "The Gemfields",
+    "State": "QLD",
+    "PostCode": "4702"
+  },
+  {
+    "Suburb": "Christies Beach",
+    "State": "QLD",
+    "PostCode": "5165"
+  },
+  {
+    "Suburb": "Warren",
+    "State": "NSW",
+    "PostCode": "2824"
+  },
+  {
+    "Suburb": "Waterloo Corner",
+    "State": "SA",
+    "PostCode": "5110"
+  },
+  {
+    "Suburb": "Norville",
+    "State": "QLD",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Doolandella",
+    "State": "QLD",
+    "PostCode": "4077"
+  },
+  {
+    "Suburb": "Armidale",
+    "State": "NSW",
+    "PostCode": "2350"
+  },
+  {
+    "Suburb": "Waterloo",
+    "State": "NSW",
+    "PostCode": "2017"
+  },
+  {
+    "Suburb": "Seven Hills",
+    "State": "NSW",
+    "PostCode": "2147"
+  },
+  {
+    "Suburb": "Nanango",
+    "State": "QLD",
+    "PostCode": "4615"
+  },
+  {
+    "Suburb": "Parkside",
+    "State": "SA",
+    "PostCode": "5063"
+  },
+  {
+    "Suburb": "Padstow",
+    "State": "NSW",
+    "PostCode": "2211"
+  },
+  {
+    "Suburb": "Mooroobool",
+    "State": "QLD",
+    "PostCode": "4870"
+  },
+  {
+    "Suburb": "Pakenham",
+    "State": "VIC",
+    "PostCode": "3810"
+  },
+  {
+    "Suburb": "Canowindra",
+    "State": "NSW",
+    "PostCode": "2804"
+  },
+  {
+    "Suburb": "Burton",
+    "State": "SA",
+    "PostCode": "5110"
+  },
+  {
+    "Suburb": "Footscray",
+    "State": "VIC",
+    "PostCode": "3011"
+  },
+  {
+    "Suburb": "Kallangur",
+    "State": "QLD",
+    "PostCode": "4503"
+  },
+  {
+    "Suburb": "Lyndoch",
+    "State": "SA",
+    "PostCode": "5351"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Heatley",
+    "State": "QLD",
+    "PostCode": "4814"
+  },
+  {
+    "Suburb": "Wentworth Point",
+    "State": "NSW",
+    "PostCode": "2127"
+  },
+  {
+    "Suburb": "Robina",
+    "State": "QLD",
+    "PostCode": "4226"
+  },
+  {
+    "Suburb": "Mt Pleasant",
+    "State": "SA",
+    "PostCode": "5253"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Walkerville",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Sebastapol",
+    "State": "VIC",
+    "PostCode": "3356"
+  },
+  {
+    "Suburb": "Annandale",
+    "State": "NSW",
+    "PostCode": "2038"
+  },
+  {
+    "Suburb": "Bargo",
+    "State": "NSW",
+    "PostCode": "2574"
+  },
+  {
+    "Suburb": "Main Beach",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Windaroo",
+    "State": "QLD",
+    "PostCode": "4207"
+  },
+  {
+    "Suburb": "Greenbank",
+    "State": "QLD",
+    "PostCode": "4124"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Tomerong",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Regents Park",
+    "State": "QLD",
+    "PostCode": "4118"
+  },
+  {
+    "Suburb": "Nollamara",
+    "State": "WA",
+    "PostCode": "6061"
+  },
+  {
+    "Suburb": "Runnymede",
+    "State": "QLD",
+    "PostCode": "4615"
+  },
+  {
+    "Suburb": "Tarlee",
+    "State": "SA",
+    "PostCode": "5411"
+  },
+  {
+    "Suburb": "Prospect",
+    "State": "QLD",
+    "PostCode": "5082"
+  },
+  {
+    "Suburb": "Melville",
+    "State": "WA",
+    "PostCode": "6156"
+  },
+  {
+    "Suburb": "Kippa-Ring",
+    "State": "QLD",
+    "PostCode": "4021"
+  },
+  {
+    "Suburb": "Dandenong North",
+    "State": "VIC",
+    "PostCode": "3175"
+  },
+  {
+    "Suburb": "Dudley park",
+    "State": "WA",
+    "PostCode": "6175"
+  },
+  {
+    "Suburb": "Kingswood",
+    "State": "SA",
+    "PostCode": "5062"
+  },
+  {
+    "Suburb": "Leeming",
+    "State": "WA",
+    "PostCode": "6149"
+  },
+  {
+    "Suburb": "Goorambat",
+    "State": "VIC",
+    "PostCode": "3725"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "NSW",
+    "PostCode": "2132"
+  },
+  {
+    "Suburb": "Canterbury",
+    "State": "NSW",
+    "PostCode": "2193"
+  },
+  {
+    "Suburb": "Kirrawee",
+    "State": "NSW",
+    "PostCode": "2232"
+  },
+  {
+    "Suburb": "Joondalup",
+    "State": "WA",
+    "PostCode": "6027"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "South Coogee",
+    "State": "NSW",
+    "PostCode": "2034"
+  },
+  {
+    "Suburb": "Prospect",
+    "State": "SA",
+    "PostCode": "5082"
+  },
+  {
+    "Suburb": "Point Halloran",
+    "State": "QLD",
+    "PostCode": "4165"
+  },
+  {
+    "Suburb": "Cobram",
+    "State": "VIC",
+    "PostCode": "3644"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Flinders Park",
+    "State": "SA",
+    "PostCode": "5025"
+  },
+  {
+    "Suburb": "Woodcroft",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Chipping Norton",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Nerang",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Dulwich Hill",
+    "State": "NSW",
+    "PostCode": "2203"
+  },
+  {
+    "Suburb": "Safety Bay",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Huskisson",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Ebbw Vale",
+    "State": "QLD",
+    "PostCode": "4304"
+  },
+  {
+    "Suburb": "Upper Orara",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Campbelltown",
+    "State": "SA",
+    "PostCode": "5074"
+  },
+  {
+    "Suburb": "Frenchville",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Kirra",
+    "State": "QLD",
+    "PostCode": "4225"
+  },
+  {
+    "Suburb": "Elizabeth North",
+    "State": "SA",
+    "PostCode": "5113"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Kelso",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Torquay",
+    "State": "VIC",
+    "PostCode": "3228"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "",
+    "State": "SA",
+    "PostCode": "5159"
+  },
+  {
+    "Suburb": "Rostrevor",
+    "State": "SA",
+    "PostCode": "5073"
+  },
+  {
+    "Suburb": "Owen",
+    "State": "SA",
+    "PostCode": "5460"
+  },
+  {
+    "Suburb": "Clarence Park",
+    "State": "SA",
+    "PostCode": "5034"
+  },
+  {
+    "Suburb": "Quilpie",
+    "State": "QLD",
+    "PostCode": "4480"
+  },
+  {
+    "Suburb": "West Beach",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "Kilburn",
+    "State": "SA",
+    "PostCode": "5084"
+  },
+  {
+    "Suburb": "Beverly Hills",
+    "State": "NSW",
+    "PostCode": "2209"
+  },
+  {
+    "Suburb": "Corio",
+    "State": "VIC",
+    "PostCode": "3214"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Springfield",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Rosslyn Park",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Strathfield",
+    "State": "NSW",
+    "PostCode": "2135"
+  },
+  {
+    "Suburb": "Wynnum",
+    "State": "QLD",
+    "PostCode": "4178"
+  },
+  {
+    "Suburb": "Five Dock",
+    "State": "NSW",
+    "PostCode": "2046"
+  },
+  {
+    "Suburb": "Coolum Beach",
+    "State": "QLD",
+    "PostCode": "4573"
+  },
+  {
+    "Suburb": "Nollamara",
+    "State": "WA",
+    "PostCode": "6061"
+  },
+  {
+    "Suburb": "Bundanoon",
+    "State": "NSW",
+    "PostCode": "2578"
+  },
+  {
+    "Suburb": "Duaringa",
+    "State": "QLD",
+    "PostCode": "4712"
+  },
+  {
+    "Suburb": "Rosemeadow",
+    "State": "NSW",
+    "PostCode": "2560"
+  },
+  {
+    "Suburb": "The Ponds",
+    "State": "NSW",
+    "PostCode": "2769"
+  },
+  {
+    "Suburb": "Baulkham Hills",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Kirwans Bridge",
+    "State": "VIC",
+    "PostCode": "3608"
+  },
+  {
+    "Suburb": "Ulladulla",
+    "State": "NSW",
+    "PostCode": "2539"
+  },
+  {
+    "Suburb": "Harrison",
+    "State": "ACT",
+    "PostCode": "2914"
+  },
+  {
+    "Suburb": "Modbury Heights",
+    "State": "SA",
+    "PostCode": "5092"
+  },
+  {
+    "Suburb": "Coominya",
+    "State": "QLD",
+    "PostCode": "4311"
+  },
+  {
+    "Suburb": "Redbank Plains",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Woolloomooloo",
+    "State": "NSW",
+    "PostCode": "2011"
+  },
+  {
+    "Suburb": "West Lakes Shore",
+    "State": "SA",
+    "PostCode": "5020"
+  },
+  {
+    "Suburb": "Berwick",
+    "State": "VIC",
+    "PostCode": "3806"
+  },
+  {
+    "Suburb": "Cranbourne East",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Condobolin",
+    "State": "NSW",
+    "PostCode": "2877"
+  },
+  {
+    "Suburb": "Bogangar",
+    "State": "NSW",
+    "PostCode": "2488"
+  },
+  {
+    "Suburb": "Windellama",
+    "State": "NSW",
+    "PostCode": "2580"
+  },
+  {
+    "Suburb": "Gawler East",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Tea Tree Gully",
+    "State": "SA",
+    "PostCode": "5091"
+  },
+  {
+    "Suburb": "Salisbury east",
+    "State": "SA",
+    "PostCode": "5109"
+  },
+  {
+    "Suburb": "Fairlight",
+    "State": "NSW",
+    "PostCode": "2094"
+  },
+  {
+    "Suburb": "Dubbo",
+    "State": "NSW",
+    "PostCode": "2830"
+  },
+  {
+    "Suburb": "Heatly",
+    "State": "QLD",
+    "PostCode": "4814"
+  },
+  {
+    "Suburb": "Toongabbie",
+    "State": "NSW",
+    "PostCode": "2146"
+  },
+  {
+    "Suburb": "Mount Waverley",
+    "State": "VIC",
+    "PostCode": "3149"
+  },
+  {
+    "Suburb": "Eastwood",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Evanston Park",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "Woolgoolga",
+    "State": "NSW",
+    "PostCode": "2456"
+  },
+  {
+    "Suburb": "Lethbridge Park",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "Warradale",
+    "State": "SA",
+    "PostCode": "5046"
+  },
+  {
+    "Suburb": "Bateau Bay",
+    "State": "NSW",
+    "PostCode": "2261"
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Eugowra",
+    "State": "NSW",
+    "PostCode": "2806"
+  },
+  {
+    "Suburb": "Albion Park",
+    "State": "NSW",
+    "PostCode": "2527"
+  },
+  {
+    "Suburb": "Canning Vale",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Canowindra",
+    "State": "NSW",
+    "PostCode": "2804"
+  },
+  {
+    "Suburb": "Chatswood",
+    "State": "NSW",
+    "PostCode": "2067"
+  },
+  {
+    "Suburb": "Wodonga",
+    "State": "VIC",
+    "PostCode": "3690"
+  },
+  {
+    "Suburb": "Emerald",
+    "State": "QLD",
+    "PostCode": "4720"
+  },
+  {
+    "Suburb": "Mosman (Beauty Point)",
+    "State": "NSW",
+    "PostCode": "2088"
+  },
+  {
+    "Suburb": "Bateman",
+    "State": "WA",
+    "PostCode": "6150"
+  },
+  {
+    "Suburb": "Kingsgrove",
+    "State": "NSW",
+    "PostCode": "2208"
+  },
+  {
+    "Suburb": "Denham Court",
+    "State": "NSW",
+    "PostCode": "2565"
+  },
+  {
+    "Suburb": "Winston Hills",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Wodonga",
+    "State": "VIC",
+    "PostCode": "3690"
+  },
+  {
+    "Suburb": "Glenroy",
+    "State": "VIC",
+    "PostCode": "3046"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "Keysborough",
+    "State": "VIC",
+    "PostCode": "3173"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "Denham Court",
+    "State": "NSW",
+    "PostCode": "2565"
+  },
+  {
+    "Suburb": "Tottenham",
+    "State": "NSW",
+    "PostCode": "2873"
+  },
+  {
+    "Suburb": "Moorebank",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Carlingford",
+    "State": "NSW",
+    "PostCode": "2118"
+  },
+  {
+    "Suburb": "Clumber",
+    "State": "QLD",
+    "PostCode": "4309"
+  },
+  {
+    "Suburb": "Raceview",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Bellingen",
+    "State": "NSW",
+    "PostCode": "2454"
+  },
+  {
+    "Suburb": "Narangba",
+    "State": "QLD",
+    "PostCode": "4504"
+  },
+  {
+    "Suburb": "Bungunya",
+    "State": "QLD",
+    "PostCode": "4494"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "One Tree Hill",
+    "State": "SA",
+    "PostCode": "5114"
+  },
+  {
+    "Suburb": "Rockley",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Mount Nasura",
+    "State": "WA",
+    "PostCode": "6112"
+  },
+  {
+    "Suburb": "Yankalilla",
+    "State": "SA",
+    "PostCode": "5203"
+  },
+  {
+    "Suburb": "Numurkah",
+    "State": "VIC",
+    "PostCode": "3636"
+  },
+  {
+    "Suburb": "Canning  Vale",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Goodna",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Lithgow",
+    "State": "NSW",
+    "PostCode": "2790"
+  },
+  {
+    "Suburb": "Willerton",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Kensington",
+    "State": "NSW",
+    "PostCode": "2033"
+  },
+  {
+    "Suburb": "Morwell",
+    "State": "VIC",
+    "PostCode": "3840"
+  },
+  {
+    "Suburb": "Abbotsbury",
+    "State": "NSW",
+    "PostCode": "2176"
+  },
+  {
+    "Suburb": "Gladstone",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Prairiewood",
+    "State": "NSW",
+    "PostCode": "2176"
+  },
+  {
+    "Suburb": "Raceview",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Strathfield",
+    "State": "NSW",
+    "PostCode": "2135"
+  },
+  {
+    "Suburb": "Gawler East",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Munruben",
+    "State": "QLD",
+    "PostCode": "4125"
+  },
+  {
+    "Suburb": "Kelso",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Portland",
+    "State": "NSW",
+    "PostCode": "2847"
+  },
+  {
+    "Suburb": "Nugent",
+    "State": "TAS",
+    "PostCode": "7172"
+  },
+  {
+    "Suburb": "Nambucca Heads",
+    "State": "NSW",
+    "PostCode": "2448"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Forest Hill",
+    "State": "VIC",
+    "PostCode": "3131"
+  },
+  {
+    "Suburb": "Secret Harbour",
+    "State": "WA",
+    "PostCode": "6173"
+  },
+  {
+    "Suburb": "Gladysdale",
+    "State": "VIC",
+    "PostCode": "3797"
+  },
+  {
+    "Suburb": "Northfield",
+    "State": "SA",
+    "PostCode": "5085"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Cudal",
+    "State": "NSW",
+    "PostCode": "2864"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Dulwich Hill",
+    "State": "NSW",
+    "PostCode": "2203"
+  },
+  {
+    "Suburb": "Towitta",
+    "State": "SA",
+    "PostCode": "5353"
+  },
+  {
+    "Suburb": "Evanston",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "St Albans",
+    "State": "VIC",
+    "PostCode": "3021"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3156"
+  },
+  {
+    "Suburb": "Yagoona",
+    "State": "NSW",
+    "PostCode": "2199"
+  },
+  {
+    "Suburb": "Kallaroo",
+    "State": "WA",
+    "PostCode": "6025"
+  },
+  {
+    "Suburb": "Borenore",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "North Perth",
+    "State": "WA",
+    "PostCode": "6006"
+  },
+  {
+    "Suburb": "Osborne Park",
+    "State": "WA",
+    "PostCode": "6017"
+  },
+  {
+    "Suburb": "Bonnyrigg",
+    "State": "NSW",
+    "PostCode": "2177"
+  },
+  {
+    "Suburb": "Floreat",
+    "State": "WA",
+    "PostCode": "6014"
+  },
+  {
+    "Suburb": "Punchbowl",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Woolooware",
+    "State": "NSW",
+    "PostCode": "2230"
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Avalon Beach",
+    "State": "NSW",
+    "PostCode": "2107"
+  },
+  {
+    "Suburb": "Burton",
+    "State": "SA",
+    "PostCode": "5110"
+  },
+  {
+    "Suburb": "Urunga",
+    "State": "NSW",
+    "PostCode": "2455"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": "2200"
+  },
+  {
+    "Suburb": "Banora Point",
+    "State": "NSW",
+    "PostCode": "2486"
+  },
+  {
+    "Suburb": "Greystanes",
+    "State": "NSW",
+    "PostCode": "2145"
+  },
+  {
+    "Suburb": "Gladesville",
+    "State": "NSW",
+    "PostCode": "2111"
+  },
+  {
+    "Suburb": "Auburn",
+    "State": "NSW",
+    "PostCode": "2144"
+  },
+  {
+    "Suburb": "Augustine Heights",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Rylstone",
+    "State": "NSW",
+    "PostCode": "2849"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Tolga",
+    "State": "QLD",
+    "PostCode": "4882"
+  },
+  {
+    "Suburb": "Adelaide",
+    "State": "SA",
+    "PostCode": "5000"
+  },
+  {
+    "Suburb": "South Perth",
+    "State": "WA",
+    "PostCode": "6151"
+  },
+  {
+    "Suburb": "Loganholme",
+    "State": "QLD",
+    "PostCode": "4129"
+  },
+  {
+    "Suburb": "Wyreema",
+    "State": "QLD",
+    "PostCode": "4352"
+  },
+  {
+    "Suburb": "Maryborough",
+    "State": "QLD",
+    "PostCode": "4650"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Rochedale South",
+    "State": "QLD",
+    "PostCode": "4123"
+  },
+  {
+    "Suburb": "Sinnamon Park",
+    "State": "QLD",
+    "PostCode": "4073"
+  },
+  {
+    "Suburb": "Yamanto",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Jindalee",
+    "State": "QLD",
+    "PostCode": "4074"
+  },
+  {
+    "Suburb": "Laidley",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Kellyville",
+    "State": "NSW",
+    "PostCode": "2155"
+  },
+  {
+    "Suburb": "Bairnsdale",
+    "State": "VIC",
+    "PostCode": "3875"
+  },
+  {
+    "Suburb": "Prahran",
+    "State": "VIC",
+    "PostCode": "3181"
+  },
+  {
+    "Suburb": "Prestons",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Sydney",
+    "State": "NSW",
+    "PostCode": "2000"
+  },
+  {
+    "Suburb": "South Morang",
+    "State": "VIC",
+    "PostCode": "3752"
+  },
+  {
+    "Suburb": "Evanston",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "Thornlie",
+    "State": "WA",
+    "PostCode": "6108"
+  },
+  {
+    "Suburb": "Wellington",
+    "State": "NSW",
+    "PostCode": "2820"
+  },
+  {
+    "Suburb": "Flinders Park",
+    "State": "SA",
+    "PostCode": "5025"
+  },
+  {
+    "Suburb": "Upper Coomera",
+    "State": "QLD",
+    "PostCode": "4209"
+  },
+  {
+    "Suburb": "Willowbank",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "East Fremantle",
+    "State": "WA",
+    "PostCode": "6158"
+  },
+  {
+    "Suburb": "Summertown",
+    "State": "SA",
+    "PostCode": "5141"
+  },
+  {
+    "Suburb": "Hatton Vale",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Yagoona",
+    "State": "NSW",
+    "PostCode": "2199"
+  },
+  {
+    "Suburb": "Riverstone",
+    "State": "NSW",
+    "PostCode": "2765"
+  },
+  {
+    "Suburb": "Cranley",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "McCracken",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "South Morang",
+    "State": "VIC",
+    "PostCode": "3752"
+  },
+  {
+    "Suburb": "Brunswick",
+    "State": "VIC",
+    "PostCode": "3056"
+  },
+  {
+    "Suburb": "Berri",
+    "State": "SA",
+    "PostCode": "5343"
+  },
+  {
+    "Suburb": "Norwood",
+    "State": "SA",
+    "PostCode": "5067"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Gawler South",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Riverstone",
+    "State": "NSW",
+    "PostCode": "2765"
+  },
+  {
+    "Suburb": "Bull Creek",
+    "State": "WA",
+    "PostCode": "6149"
+  },
+  {
+    "Suburb": "Glenalta",
+    "State": "SA",
+    "PostCode": "5052"
+  },
+  {
+    "Suburb": "Beaconsfield",
+    "State": "VIC",
+    "PostCode": "3807"
+  },
+  {
+    "Suburb": "Orange",
+    "State": "NSW",
+    "PostCode": "2800"
+  },
+  {
+    "Suburb": "Beaconsfield",
+    "State": "WA",
+    "PostCode": "6162"
+  },
+  {
+    "Suburb": "Forestville",
+    "State": "NSW",
+    "PostCode": "2087"
+  },
+  {
+    "Suburb": "Palm Beach",
+    "State": "QLD",
+    "PostCode": "4221"
+  },
+  {
+    "Suburb": "East Brisbane",
+    "State": "QLD",
+    "PostCode": "4169"
+  },
+  {
+    "Suburb": "Ningi",
+    "State": "QLD",
+    "PostCode": "4511"
+  },
+  {
+    "Suburb": "Merrylands",
+    "State": "NSW",
+    "PostCode": "2160"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "Hallam",
+    "State": "VIC",
+    "PostCode": "3803"
+  },
+  {
+    "Suburb": "Patterson Lakes",
+    "State": "VIC",
+    "PostCode": "3197"
+  },
+  {
+    "Suburb": "Pasadena",
+    "State": "SA",
+    "PostCode": "5042"
+  },
+  {
+    "Suburb": "Ascot Park",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Grovedale East",
+    "State": "VIC",
+    "PostCode": "3216"
+  },
+  {
+    "Suburb": "Gerangamete",
+    "State": "VIC",
+    "PostCode": "3249"
+  },
+  {
+    "Suburb": "Sunnybank",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "Hillier",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "Carindale",
+    "State": "QLD",
+    "PostCode": "4152"
+  },
+  {
+    "Suburb": "Salisbury Plain",
+    "State": "SA",
+    "PostCode": "5109"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Mt Compass",
+    "State": "SA",
+    "PostCode": "5210"
+  },
+  {
+    "Suburb": "Ocean Reef",
+    "State": "WA",
+    "PostCode": "6027"
+  },
+  {
+    "Suburb": "Main Beach",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Loch",
+    "State": "VIC",
+    "PostCode": "3945"
+  },
+  {
+    "Suburb": "Mount Waverley",
+    "State": "VIC",
+    "PostCode": "3149"
+  },
+  {
+    "Suburb": "Moorabbin",
+    "State": "VIC",
+    "PostCode": "3189"
+  },
+  {
+    "Suburb": "Pennant Hills",
+    "State": "NSW",
+    "PostCode": "2120"
+  },
+  {
+    "Suburb": "Booval",
+    "State": "QLD",
+    "PostCode": "4304"
+  },
+  {
+    "Suburb": "Balaklava",
+    "State": "SA",
+    "PostCode": "5461"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Pascoe Vale South",
+    "State": "VIC",
+    "PostCode": "3044"
+  },
+  {
+    "Suburb": "Eastwood",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Brighton",
+    "State": "VIC",
+    "PostCode": "3186"
+  },
+  {
+    "Suburb": "Pacific Pines",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Kardinya",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "West Lakes",
+    "State": "SA",
+    "PostCode": "5021"
+  },
+  {
+    "Suburb": "Plympton",
+    "State": "SA",
+    "PostCode": "5038"
+  },
+  {
+    "Suburb": "Sheidow Park",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Grovedale",
+    "State": "VIC",
+    "PostCode": "3216"
+  },
+  {
+    "Suburb": "Wynn Vale",
+    "State": "SA",
+    "PostCode": "5127"
+  },
+  {
+    "Suburb": "Mooroobool",
+    "State": "QLD",
+    "PostCode": "4870"
+  },
+  {
+    "Suburb": "Hallet Cove",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Lara",
+    "State": "VIC",
+    "PostCode": "3212"
+  },
+  {
+    "Suburb": "Glenelg North",
+    "State": "SA",
+    "PostCode": "5045"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Narara",
+    "State": "NSW",
+    "PostCode": "2250"
+  },
+  {
+    "Suburb": "Fulham Gardens",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "Highton",
+    "State": "VIC",
+    "PostCode": "3216"
+  },
+  {
+    "Suburb": "Hamlyn Heights",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Franskton",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Bannockburn",
+    "State": "QLD",
+    "PostCode": "4207"
+  },
+  {
+    "Suburb": "Bundoora",
+    "State": "VIC",
+    "PostCode": "3083"
+  },
+  {
+    "Suburb": "Selby",
+    "State": "VIC",
+    "PostCode": "3159"
+  },
+  {
+    "Suburb": "Dandenong North",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Southport",
+    "State": "QLD",
+    "PostCode": "4215"
+  },
+  {
+    "Suburb": "Doncaster",
+    "State": "VIC",
+    "PostCode": "3108"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Drysdale",
+    "State": "VIC",
+    "PostCode": "3222"
+  },
+  {
+    "Suburb": "Kadina",
+    "State": "SA",
+    "PostCode": "5554"
+  },
+  {
+    "Suburb": "Corinda",
+    "State": "QLD",
+    "PostCode": "4075"
+  },
+  {
+    "Suburb": "Markwood",
+    "State": "VIC",
+    "PostCode": "3678"
+  },
+  {
+    "Suburb": "Surrey Downs",
+    "State": "SA",
+    "PostCode": "5126"
+  },
+  {
+    "Suburb": "Peakhurst",
+    "State": "NSW",
+    "PostCode": "2210"
+  },
+  {
+    "Suburb": "West Lakes",
+    "State": "SA",
+    "PostCode": "5021"
+  },
+  {
+    "Suburb": "Emerald",
+    "State": "QLD",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Wantirna",
+    "State": "VIC",
+    "PostCode": "3152"
+  },
+  {
+    "Suburb": "Lockleys",
+    "State": "SA",
+    "PostCode": "5032"
+  },
+  {
+    "Suburb": "Townsville",
+    "State": "QLD",
+    "PostCode": "4811"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Blackburn",
+    "State": "VIC",
+    "PostCode": "3130"
+  },
+  {
+    "Suburb": "Renmark",
+    "State": "SA",
+    "PostCode": "5209"
+  },
+  {
+    "Suburb": "Narromine",
+    "State": "NSW",
+    "PostCode": "2821"
+  },
+  {
+    "Suburb": "Quinns Rocks",
+    "State": "WA",
+    "PostCode": "6030"
+  },
+  {
+    "Suburb": "Morley",
+    "State": "WA",
+    "PostCode": "6062"
+  },
+  {
+    "Suburb": "Mitcham",
+    "State": "VIC",
+    "PostCode": "3132"
+  },
+  {
+    "Suburb": "Canning vale",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Boambee east",
+    "State": "NSW",
+    "PostCode": "2452"
+  },
+  {
+    "Suburb": "Green Valley",
+    "State": "NSW",
+    "PostCode": "2168"
+  },
+  {
+    "Suburb": "Parap",
+    "State": "NT",
+    "PostCode": "0820"
+  },
+  {
+    "Suburb": "Redland Bay",
+    "State": "QLD",
+    "PostCode": "4165"
+  },
+  {
+    "Suburb": "Hurlstone Park",
+    "State": "NSW",
+    "PostCode": "2193"
+  },
+  {
+    "Suburb": "Laidley",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Tugun",
+    "State": "QLD",
+    "PostCode": "4224"
+  },
+  {
+    "Suburb": "Malvern",
+    "State": "VIC",
+    "PostCode": "3144"
+  },
+  {
+    "Suburb": "Aspendale",
+    "State": "VIC",
+    "PostCode": "3195"
+  },
+  {
+    "Suburb": "Numurkah",
+    "State": "VIC",
+    "PostCode": "3636"
+  },
+  {
+    "Suburb": "Glebe",
+    "State": "NSW",
+    "PostCode": "2037"
+  },
+  {
+    "Suburb": "Drummoyne",
+    "State": "NSW",
+    "PostCode": "2047"
+  },
+  {
+    "Suburb": "Hove (North Brighton)",
+    "State": "SA",
+    "PostCode": "5048"
+  },
+  {
+    "Suburb": "Safety Bay",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "State": "VIC",
+    "PostCode": "3061"
+  },
+  {
+    "Suburb": "Kew",
+    "State": "VIC",
+    "PostCode": "3101"
+  },
+  {
+    "Suburb": "Macleay Island",
+    "State": "QLD",
+    "PostCode": "4184"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Bonnie Doon",
+    "State": "VIC",
+    "PostCode": "3720"
+  },
+  {
+    "Suburb": "Cranbourne",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Pakenham",
+    "State": "VIC",
+    "PostCode": "3810"
+  },
+  {
+    "Suburb": "Woodlane",
+    "State": "SA",
+    "PostCode": "5238"
+  },
+  {
+    "Suburb": "St Albans Park",
+    "State": "VIC",
+    "PostCode": "3219"
+  },
+  {
+    "Suburb": "West Albury",
+    "State": "NSW",
+    "PostCode": "2640"
+  },
+  {
+    "Suburb": "South Nanango",
+    "State": "QLD",
+    "PostCode": "4615"
+  },
+  {
+    "Suburb": "Noranda",
+    "State": "WA",
+    "PostCode": "6062"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Frenchs Forest",
+    "State": "NSW",
+    "PostCode": "2056"
+  },
+  {
+    "Suburb": "Mount Isa",
+    "State": "QLD",
+    "PostCode": "4825"
+  },
+  {
+    "Suburb": "Parramatta",
+    "State": "NSW",
+    "PostCode": "2150"
+  },
+  {
+    "Suburb": "Ashbury",
+    "State": "NSW",
+    "PostCode": "2193"
+  },
+  {
+    "Suburb": "Sunnybank Hills",
+    "State": "QLD",
+    "PostCode": "4109"
+  },
+  {
+    "Suburb": "Euroa",
+    "State": "VIC",
+    "PostCode": "3666"
+  },
+  {
+    "Suburb": "Willaston",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Gilles Plains",
+    "State": "SA",
+    "PostCode": "5086"
+  },
+  {
+    "Suburb": "Crafers",
+    "State": "SA",
+    "PostCode": "5152"
+  },
+  {
+    "Suburb": "Crestmead",
+    "State": "QLD",
+    "PostCode": "4132"
+  },
+  {
+    "Suburb": "Coominya",
+    "State": "QLD",
+    "PostCode": "4311"
+  },
+  {
+    "Suburb": "Parkes",
+    "State": "NSW",
+    "PostCode": "2870"
+  },
+  {
+    "Suburb": "Aldinga Beach",
+    "State": "SA",
+    "PostCode": "5173"
+  },
+  {
+    "Suburb": "Chambers Flat",
+    "State": "QLD",
+    "PostCode": "4133"
+  },
+  {
+    "Suburb": "Woori Yallock",
+    "State": "VIC",
+    "PostCode": "3139"
+  },
+  {
+    "Suburb": "Paradise",
+    "State": "SA",
+    "PostCode": "5075"
+  },
+  {
+    "Suburb": "Mt Pritchard",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Vermont South",
+    "State": "VIC",
+    "PostCode": "3133"
+  },
+  {
+    "Suburb": "Apple Tree Creek",
+    "State": "QLD",
+    "PostCode": "4660"
+  },
+  {
+    "Suburb": "Carrum Downs",
+    "State": "VIC",
+    "PostCode": "3201"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Cranbourne West",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Hawthorn",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Blackwood",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "Wollert",
+    "State": "VIC",
+    "PostCode": "3750"
+  },
+  {
+    "Suburb": "Maroubra",
+    "State": "NSW",
+    "PostCode": "2035"
+  },
+  {
+    "Suburb": "Warwick",
+    "State": "QLD",
+    "PostCode": "4370"
+  },
+  {
+    "Suburb": "Moe",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Marshall",
+    "State": "VIC",
+    "PostCode": "3216"
+  },
+  {
+    "Suburb": "Bondi Junction",
+    "State": "NSW",
+    "PostCode": "2022"
+  },
+  {
+    "Suburb": "Boodua",
+    "State": "QLD",
+    "PostCode": "4401"
+  },
+  {
+    "Suburb": "Kununurra",
+    "State": "WA",
+    "PostCode": "6743"
+  },
+  {
+    "Suburb": "Healesville",
+    "State": "VIC",
+    "PostCode": "3777"
+  },
+  {
+    "Suburb": "Murray Bridge",
+    "State": "SA",
+    "PostCode": "5253"
+  },
+  {
+    "Suburb": "Waikere",
+    "State": "SA",
+    "PostCode": "5330"
+  },
+  {
+    "Suburb": "Ridgehaven",
+    "State": "SA",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Mundaring",
+    "State": "WA",
+    "PostCode": "6073"
+  },
+  {
+    "Suburb": "Moores Pocket",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Leyburn",
+    "State": "QLD",
+    "PostCode": "4365"
+  },
+  {
+    "Suburb": "Gosnells",
+    "State": "WA",
+    "PostCode": "6110"
+  },
+  {
+    "Suburb": "Corio",
+    "State": "VIC",
+    "PostCode": "3214"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "State": "VIC",
+    "PostCode": "3061"
+  },
+  {
+    "Suburb": "Warriewood",
+    "State": "NSW",
+    "PostCode": "2102"
+  },
+  {
+    "Suburb": "Balgowlah",
+    "State": "NSW",
+    "PostCode": "2093"
+  },
+  {
+    "Suburb": "Belgrave",
+    "State": "VIC",
+    "PostCode": "3160"
+  },
+  {
+    "Suburb": "Hamilton Hill",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Marrara",
+    "State": "NT",
+    "PostCode": "0812"
+  },
+  {
+    "Suburb": "Gobbagombalin",
+    "State": "NSW",
+    "PostCode": "2650"
+  },
+  {
+    "Suburb": "Berwick",
+    "State": "VIC",
+    "PostCode": "3806"
+  },
+  {
+    "Suburb": "Mt Evelyn",
+    "State": "VIC",
+    "PostCode": "3796"
+  },
+  {
+    "Suburb": "Brassall",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Bibra Lake",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Parilla",
+    "State": "SA",
+    "PostCode": "5303"
+  },
+  {
+    "Suburb": "Golden Grove",
+    "State": "SA",
+    "PostCode": "5125"
+  },
+  {
+    "Suburb": "Eagleby",
+    "State": "QLD",
+    "PostCode": "4207"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Bomaderry",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Kingston",
+    "State": "QLD",
+    "PostCode": "4114"
+  },
+  {
+    "Suburb": "Camira",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Goodna",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Victor Harbour",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "Melton West",
+    "State": "VIC",
+    "PostCode": "3337"
+  },
+  {
+    "Suburb": "Goolwa",
+    "State": "SA",
+    "PostCode": "5214"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Ballina",
+    "State": "NSW",
+    "PostCode": "2478"
+  },
+  {
+    "Suburb": "Montrose",
+    "State": "VIC",
+    "PostCode": "3765"
+  },
+  {
+    "Suburb": "Officer",
+    "State": "VIC",
+    "PostCode": "3809"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Magill",
+    "State": "SA",
+    "PostCode": "5072"
+  },
+  {
+    "Suburb": "South Coogee",
+    "State": "NSW",
+    "PostCode": "2034"
+  },
+  {
+    "Suburb": "Plympton",
+    "State": "SA",
+    "PostCode": "5038"
+  },
+  {
+    "Suburb": "Melrose Park",
+    "State": "SA",
+    "PostCode": "5039"
+  },
+  {
+    "Suburb": "Kingston",
+    "State": "QLD",
+    "PostCode": "4114"
+  },
+  {
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "PostCode": "3140"
+  },
+  {
+    "Suburb": "Coburg",
+    "State": "VIC",
+    "PostCode": "3058"
+  },
+  {
+    "Suburb": "Ferny Hills",
+    "State": "QLD",
+    "PostCode": "4055"
+  },
+  {
+    "Suburb": "Tiwi",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Bella Vista",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Ringwood North",
+    "State": "VIC",
+    "PostCode": "3134"
+  },
+  {
+    "Suburb": "Kangaroo Point",
+    "State": "QLD",
+    "PostCode": "4169"
+  },
+  {
+    "Suburb": "Double Bay",
+    "State": "NSW",
+    "PostCode": "2028"
+  },
+  {
+    "Suburb": "Mannum",
+    "State": "SA",
+    "PostCode": "5238"
+  },
+  {
+    "Suburb": "Oakey",
+    "State": "QLD",
+    "PostCode": "4401"
+  },
+  {
+    "Suburb": "Tyabb",
+    "State": "VIC",
+    "PostCode": "3913"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "Parafield Gardens",
+    "State": "SA",
+    "PostCode": "5107"
+  },
+  {
+    "Suburb": "Bossley Park",
+    "State": "NSW",
+    "PostCode": "2176"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Humpty Doo",
+    "State": "NT",
+    "PostCode": "0836"
+  },
+  {
+    "Suburb": "Thomastown",
+    "State": "VIC",
+    "PostCode": "3074"
+  },
+  {
+    "Suburb": "Orelia",
+    "State": "WA",
+    "PostCode": "6167"
+  },
+  {
+    "Suburb": "Yinnar",
+    "State": "VIC",
+    "PostCode": "3869"
+  },
+  {
+    "Suburb": "Vermont South",
+    "State": "VIC",
+    "PostCode": "3133"
+  },
+  {
+    "Suburb": "One Mile",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Port Macquarie",
+    "State": "NSW",
+    "PostCode": "2444"
+  },
+  {
+    "Suburb": "Newtown",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Mulgrave",
+    "State": "VIC",
+    "PostCode": "3170"
+  },
+  {
+    "Suburb": "Smythes Creek",
+    "State": "VIC",
+    "PostCode": "3351"
+  },
+  {
+    "Suburb": "Warren",
+    "State": "NSW",
+    "PostCode": "2824"
+  },
+  {
+    "Suburb": "West Lakes",
+    "State": "SA",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Doonside",
+    "State": "NSW",
+    "PostCode": "2767"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "Oberon",
+    "State": "NSW",
+    "PostCode": "2787"
+  },
+  {
+    "Suburb": "Kew",
+    "State": "VIC",
+    "PostCode": "3101"
+  },
+  {
+    "Suburb": "Brukunga",
+    "State": "SA",
+    "PostCode": "5252"
+  },
+  {
+    "Suburb": "Concord West",
+    "State": "NSW",
+    "PostCode": "2138"
+  },
+  {
+    "Suburb": "Margate",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Manning",
+    "State": "WA",
+    "PostCode": "6152"
+  },
+  {
+    "Suburb": "South Yarra",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Coffs harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Toormina",
+    "State": "NSW",
+    "PostCode": "2452"
+  },
+  {
+    "Suburb": "Eltham",
+    "State": "VIC",
+    "PostCode": "3095"
+  },
+  {
+    "Suburb": "Hamley Bridge",
+    "State": "SA",
+    "PostCode": "5401"
+  },
+  {
+    "Suburb": "Raceview",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Blairgowrie",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "South Fremantle",
+    "State": "WA",
+    "PostCode": "6162"
+  },
+  {
+    "Suburb": "Bateman",
+    "State": "WA",
+    "PostCode": "6150"
+  },
+  {
+    "Suburb": "Croydon South",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Balaclava",
+    "State": "VIC",
+    "PostCode": "3183"
+  },
+  {
+    "Suburb": "Gepps Cross",
+    "State": "SA",
+    "PostCode": "5094"
+  },
+  {
+    "Suburb": "Warwick",
+    "State": "QLD",
+    "PostCode": "4370"
+  },
+  {
+    "Suburb": "Coowonga",
+    "State": "QLD",
+    "PostCode": "4702"
+  },
+  {
+    "Suburb": "South West Rocks",
+    "State": "NSW",
+    "PostCode": "2431"
+  },
+  {
+    "Suburb": "Camberwell",
+    "State": "VIC",
+    "PostCode": "3124"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "State": "VIC",
+    "PostCode": "3044"
+  },
+  {
+    "Suburb": "Zillmere",
+    "State": "QLD",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "St Marys",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Donvale",
+    "State": "VIC",
+    "PostCode": "3111"
+  },
+  {
+    "Suburb": "Laidley",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Bundaberg",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Condell Park",
+    "State": "NSW",
+    "PostCode": "2200"
+  },
+  {
+    "Suburb": "Rosebud",
+    "State": "VIC",
+    "PostCode": "3939"
+  },
+  {
+    "Suburb": "Carlton North",
+    "State": "VIC",
+    "PostCode": "3034"
+  },
+  {
+    "Suburb": "Glenreagh",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Cromer",
+    "State": "NSW",
+    "PostCode": "2099"
+  },
+  {
+    "Suburb": "Frankston",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Berwick",
+    "State": "VIC",
+    "PostCode": "3806"
+  },
+  {
+    "Suburb": "Redbank Plains",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Willetton",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Lane Cove",
+    "State": "NSW",
+    "PostCode": "2066"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "State": "VIC",
+    "PostCode": "3020"
+  },
+  {
+    "Suburb": "Old Bar",
+    "State": "NSW",
+    "PostCode": "2430"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Paradise Point",
+    "State": "QLD",
+    "PostCode": "4216"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Hallam",
+    "State": "VIC",
+    "PostCode": "3803"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Point Lonsdale",
+    "State": "VIC",
+    "PostCode": "3225"
+  },
+  {
+    "Suburb": "Unley",
+    "State": "SA",
+    "PostCode": "5061"
+  },
+  {
+    "Suburb": "Kilsyth South",
+    "State": "VIC",
+    "PostCode": "3137"
+  },
+  {
+    "Suburb": "Ferntree Gully",
+    "State": "VIC",
+    "PostCode": "3156"
+  },
+  {
+    "Suburb": "Warnbro",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Gorokan",
+    "State": "NSW",
+    "PostCode": "2263"
+  },
+  {
+    "Suburb": "Greensborough",
+    "State": "VIC",
+    "PostCode": "3088"
+  },
+  {
+    "Suburb": "Glebe",
+    "State": "NSW",
+    "PostCode": "2037"
+  },
+  {
+    "Suburb": "Dudley Park",
+    "State": "WA",
+    "PostCode": "6210"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "South Hurstville",
+    "State": "NSW",
+    "PostCode": "2221"
+  },
+  {
+    "Suburb": "Torrensville",
+    "State": "SA",
+    "PostCode": "5031"
+  },
+  {
+    "Suburb": "Victoria Point",
+    "State": "QLD",
+    "PostCode": "4165"
+  },
+  {
+    "Suburb": "Alexandra",
+    "State": "VIC",
+    "PostCode": "3714"
+  },
+  {
+    "Suburb": "Mentone",
+    "State": "VIC",
+    "PostCode": "3194"
+  },
+  {
+    "Suburb": "Merrylands",
+    "State": "NSW",
+    "PostCode": "2160"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "State": "VIC",
+    "PostCode": "3020"
+  },
+  {
+    "Suburb": "Burwood",
+    "State": "NSW",
+    "PostCode": "2134"
+  },
+  {
+    "Suburb": "Bowral",
+    "State": "NSW",
+    "PostCode": "2576"
+  },
+  {
+    "Suburb": "Cootamundra",
+    "State": "NSW",
+    "PostCode": "2590"
+  },
+  {
+    "Suburb": "Hawthorn East",
+    "State": "VIC",
+    "PostCode": "3123"
+  },
+  {
+    "Suburb": "Selby",
+    "State": "VIC",
+    "PostCode": "3159"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Springfield Central",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Blackburn North",
+    "State": "VIC",
+    "PostCode": "3130"
+  },
+  {
+    "Suburb": "Panania",
+    "State": "NSW",
+    "PostCode": "2213"
+  },
+  {
+    "Suburb": "Sawtell",
+    "State": "NSW",
+    "PostCode": "2452"
+  },
+  {
+    "Suburb": "Hackney",
+    "State": "SA",
+    "PostCode": "5069"
+  },
+  {
+    "Suburb": "Belair",
+    "State": "SA",
+    "PostCode": "5052"
+  },
+  {
+    "Suburb": "Belmont",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Narre Warren South",
+    "State": "",
+    "PostCode": "3805"
+  },
+  {
+    "Suburb": "Para Hills",
+    "State": "SA",
+    "PostCode": "5096"
+  },
+  {
+    "Suburb": "Mermaid Waters",
+    "State": "QLD",
+    "PostCode": "4218"
+  },
+  {
+    "Suburb": "Carrajung",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Port Kennedy",
+    "State": "WA",
+    "PostCode": "6172"
+  },
+  {
+    "Suburb": "Vermont",
+    "State": "VIC",
+    "PostCode": "3133"
+  },
+  {
+    "Suburb": "Gracemere",
+    "State": "QLD",
+    "PostCode": "4702"
+  },
+  {
+    "Suburb": "Wowan",
+    "State": "QLD",
+    "PostCode": "4702"
+  },
+  {
+    "Suburb": "Greenacre",
+    "State": "NSW",
+    "PostCode": "2190"
+  },
+  {
+    "Suburb": "Glenmore Park",
+    "State": "NSW",
+    "PostCode": "2745"
+  },
+  {
+    "Suburb": "St Marys",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Redbank Plains",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Canning Vale",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Prospect",
+    "State": "SA",
+    "PostCode": "5082"
+  },
+  {
+    "Suburb": "East Brisbane",
+    "State": "QLD",
+    "PostCode": "4169"
+  },
+  {
+    "Suburb": "Junction Village",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Nar Nar Goon",
+    "State": "VIC",
+    "PostCode": "3812"
+  },
+  {
+    "Suburb": "Mernda",
+    "State": "VIC",
+    "PostCode": "3754"
+  },
+  {
+    "Suburb": "Applecross",
+    "State": "WA",
+    "PostCode": "6153"
+  },
+  {
+    "Suburb": "Sandringham",
+    "State": "VIC",
+    "PostCode": "3191"
+  },
+  {
+    "Suburb": "Caringbah",
+    "State": "NSW",
+    "PostCode": "2229"
+  },
+  {
+    "Suburb": "Guildford West",
+    "State": "NSW",
+    "PostCode": "2161"
+  },
+  {
+    "Suburb": "Box Hill South",
+    "State": "VIC",
+    "PostCode": "3128"
+  },
+  {
+    "Suburb": "Caringbah",
+    "State": "NSW",
+    "PostCode": "2229"
+  },
+  {
+    "Suburb": "Esk",
+    "State": "QLD",
+    "PostCode": "4312"
+  },
+  {
+    "Suburb": "Port Noarlunga",
+    "State": "SA",
+    "PostCode": "5167"
+  },
+  {
+    "Suburb": "Moe",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Leeming",
+    "State": "WA",
+    "PostCode": "6149"
+  },
+  {
+    "Suburb": "Bentleigh East",
+    "State": "VIC",
+    "PostCode": "3165"
+  },
+  {
+    "Suburb": "Camp Hill",
+    "State": "QLD",
+    "PostCode": "4152"
+  },
+  {
+    "Suburb": "Bull Creek",
+    "State": "WA",
+    "PostCode": "6149"
+  },
+  {
+    "Suburb": "Morphett Vale",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Gawler East",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Mulgrave",
+    "State": "VIC",
+    "PostCode": "3170"
+  },
+  {
+    "Suburb": "Chirnside Park",
+    "State": "VIC",
+    "PostCode": "2116"
+  },
+  {
+    "Suburb": "Kirrawee",
+    "State": "NSW",
+    "PostCode": "2232"
+  },
+  {
+    "Suburb": "Fairfield Heights",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Tinana South",
+    "State": "QLD",
+    "PostCode": "4650"
+  },
+  {
+    "Suburb": "Kallangur",
+    "State": "QLD",
+    "PostCode": "4503"
+  },
+  {
+    "Suburb": "Beaudesert",
+    "State": "QLD",
+    "PostCode": "4285"
+  },
+  {
+    "Suburb": "Bridge Creek",
+    "State": "VIC",
+    "PostCode": "3723"
+  },
+  {
+    "Suburb": "Malvern",
+    "State": "VIC",
+    "PostCode": "3144"
+  },
+  {
+    "Suburb": "Clermont",
+    "State": "QLD",
+    "PostCode": "4721"
+  },
+  {
+    "Suburb": "Munruben",
+    "State": "QLD",
+    "PostCode": "4125"
+  },
+  {
+    "Suburb": "Noble Park",
+    "State": "VIC",
+    "PostCode": "3174"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "State": "VIC",
+    "PostCode": "3048"
+  },
+  {
+    "Suburb": "Redhead",
+    "State": "NSW",
+    "PostCode": "2290"
+  },
+  {
+    "Suburb": "Beachmere",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Safety Bay",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "North Mackay",
+    "State": "QLD",
+    "PostCode": "4740"
+  },
+  {
+    "Suburb": "Pullabooka",
+    "State": "NSW",
+    "PostCode": "2810"
+  },
+  {
+    "Suburb": "Berwick",
+    "State": "VIC",
+    "PostCode": "3806"
+  },
+  {
+    "Suburb": "Werribee",
+    "State": "VIC",
+    "PostCode": "3030"
+  },
+  {
+    "Suburb": "Lavender Bay",
+    "State": "NSW",
+    "PostCode": "2060"
+  },
+  {
+    "Suburb": "Burwood East",
+    "State": "VIC",
+    "PostCode": "3151"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Moorabbin",
+    "State": "VIC",
+    "PostCode": "3189"
+  },
+  {
+    "Suburb": "Nunawading",
+    "State": "VIC",
+    "PostCode": "3131"
+  },
+  {
+    "Suburb": "Kardinya",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Mount Nasura",
+    "State": "WA",
+    "PostCode": "6112"
+  },
+  {
+    "Suburb": "Karragarra Island",
+    "State": "QLD",
+    "PostCode": "4184"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3135"
+  },
+  {
+    "Suburb": "Earlwood",
+    "State": "NSW",
+    "PostCode": "2206"
+  },
+  {
+    "Suburb": "Ingham",
+    "State": "QLD",
+    "PostCode": "4850"
+  },
+  {
+    "Suburb": "Sydney",
+    "State": "NSW",
+    "PostCode": "2000"
+  },
+  {
+    "Suburb": "Crib Point",
+    "State": "VIC",
+    "PostCode": "3919"
+  },
+  {
+    "Suburb": "Mount Barker",
+    "State": "SA",
+    "PostCode": "5251"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Coconut Grove",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Chipping Norton",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Paralowie",
+    "State": "SA",
+    "PostCode": "5108"
+  },
+  {
+    "Suburb": "Hunters Hill",
+    "State": "NSW",
+    "PostCode": "2110"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Turrella",
+    "State": "NSW",
+    "PostCode": "2205"
+  },
+  {
+    "Suburb": "Fremantle",
+    "State": "WA",
+    "PostCode": "6160"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "State": "VIC",
+    "PostCode": "3677"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "State": "VIC",
+    "PostCode": "3677"
+  },
+  {
+    "Suburb": "Nyngan",
+    "State": "NSW",
+    "PostCode": "2825"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Shoreham",
+    "State": "VIC",
+    "PostCode": "3916"
+  },
+  {
+    "Suburb": "Malvern east",
+    "State": "VIC",
+    "PostCode": "3145"
+  },
+  {
+    "Suburb": "Ingle Farm",
+    "State": "SA",
+    "PostCode": "5098"
+  },
+  {
+    "Suburb": "Boolaroo",
+    "State": "NSW",
+    "PostCode": "2284"
+  },
+  {
+    "Suburb": "Bedford",
+    "State": "WA",
+    "PostCode": "6052"
+  },
+  {
+    "Suburb": "Box Hill North",
+    "State": "VIC",
+    "PostCode": "3128"
+  },
+  {
+    "Suburb": "Jewells",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Berry Springs",
+    "State": "NT",
+    "PostCode": "0838"
+  },
+  {
+    "Suburb": "Cabramatta",
+    "State": "NSW",
+    "PostCode": "2166"
+  },
+  {
+    "Suburb": "Toogoolawah",
+    "State": "QLD",
+    "PostCode": "4313"
+  },
+  {
+    "Suburb": "Scarborough",
+    "State": "QLD",
+    "PostCode": "4020"
+  },
+  {
+    "Suburb": "Balgowlah Heights",
+    "State": "NSW",
+    "PostCode": "2093"
+  },
+  {
+    "Suburb": "Eagleby",
+    "State": "QLD",
+    "PostCode": "4207"
+  },
+  {
+    "Suburb": "Edithvale",
+    "State": "VIC",
+    "PostCode": "3196"
+  },
+  {
+    "Suburb": "Inverloch",
+    "State": "VIC",
+    "PostCode": "3996"
+  },
+  {
+    "Suburb": "Lesmurdie",
+    "State": "WA",
+    "PostCode": "6076"
+  },
+  {
+    "Suburb": "Mitcham",
+    "State": "VIC",
+    "PostCode": "3132"
+  },
+  {
+    "Suburb": "Warrandyte",
+    "State": "VIC",
+    "PostCode": "3113"
+  },
+  {
+    "Suburb": "Charlestown",
+    "State": "NSW",
+    "PostCode": "2290"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Hallam",
+    "State": "VIC",
+    "PostCode": "3803"
+  },
+  {
+    "Suburb": "Bellbird Park",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Kingsley",
+    "State": "WA",
+    "PostCode": "6026"
+  },
+  {
+    "Suburb": "Padstow Heights",
+    "State": "NSW",
+    "PostCode": "2211"
+  },
+  {
+    "Suburb": "Wombat",
+    "State": "NSW",
+    "PostCode": "2587"
+  },
+  {
+    "Suburb": "Mosman Park",
+    "State": "WA",
+    "PostCode": "6012"
+  },
+  {
+    "Suburb": "Bibra Lake",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Greenfields",
+    "State": "WA",
+    "PostCode": "6210"
+  },
+  {
+    "Suburb": "Nana Glen",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Shoalwater",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Templestowe",
+    "State": "VIC",
+    "PostCode": "3106"
+  },
+  {
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "PostCode": "3140"
+  },
+  {
+    "Suburb": "Corindi Beach",
+    "State": "NSW",
+    "PostCode": "2456"
+  },
+  {
+    "Suburb": "Harden",
+    "State": "NSW",
+    "PostCode": "2587"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "North Rockhampton",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Warren",
+    "State": "NSW",
+    "PostCode": "2824"
+  },
+  {
+    "Suburb": "Trinity gardens",
+    "State": "SA",
+    "PostCode": "5068"
+  },
+  {
+    "Suburb": "Mt Barker",
+    "State": "SA",
+    "PostCode": "5251"
+  },
+  {
+    "Suburb": "Greenvale",
+    "State": "VIC",
+    "PostCode": "3059"
+  },
+  {
+    "Suburb": "Haigslea",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Palm Beach",
+    "State": "NSW",
+    "PostCode": "2108"
+  },
+  {
+    "Suburb": "Torrensville",
+    "State": "SA",
+    "PostCode": "5031"
+  },
+  {
+    "Suburb": "Woolwich",
+    "State": "NSW",
+    "PostCode": "2110"
+  },
+  {
+    "Suburb": "Doncaster",
+    "State": "VIC",
+    "PostCode": "3108"
+  },
+  {
+    "Suburb": "Murdoch",
+    "State": "WA",
+    "PostCode": "6150"
+  },
+  {
+    "Suburb": "Holmview",
+    "State": "QLD",
+    "PostCode": "4207"
+  },
+  {
+    "Suburb": "Auburn",
+    "State": "SA",
+    "PostCode": "5451"
+  },
+  {
+    "Suburb": "Inverloch",
+    "State": "VIC",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Bogan Gate",
+    "State": "NSW",
+    "PostCode": "2876"
+  },
+  {
+    "Suburb": "Blackwater",
+    "State": "QLD",
+    "PostCode": "4717"
+  },
+  {
+    "Suburb": "Kanahooka",
+    "State": "NSW",
+    "PostCode": "2530"
+  },
+  {
+    "Suburb": "Killarney",
+    "State": "QLD",
+    "PostCode": "4373"
+  },
+  {
+    "Suburb": "Coromandel Valley",
+    "State": "SA",
+    "PostCode": "5051"
+  },
+  {
+    "Suburb": "Yarra Glen",
+    "State": "VIC",
+    "PostCode": "3775"
+  },
+  {
+    "Suburb": "Coogee",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Burpengary",
+    "State": "QLD",
+    "PostCode": "4505"
+  },
+  {
+    "Suburb": "Chinchilla",
+    "State": "QLD",
+    "PostCode": "4413"
+  },
+  {
+    "Suburb": "Naremburn",
+    "State": "NSW",
+    "PostCode": "2065"
+  },
+  {
+    "Suburb": "Townsville",
+    "State": "QLD",
+    "PostCode": "4810"
+  },
+  {
+    "Suburb": "Mt Martha",
+    "State": "VIC",
+    "PostCode": "3934"
+  },
+  {
+    "Suburb": "Mt Eliza",
+    "State": "VIC",
+    "PostCode": "3930"
+  },
+  {
+    "Suburb": "Wodonga",
+    "State": "VIC",
+    "PostCode": "3690"
+  },
+  {
+    "Suburb": "Abbortsford",
+    "State": "NSW",
+    "PostCode": "2046"
+  },
+  {
+    "Suburb": "Glen Iris",
+    "State": "VIC",
+    "PostCode": "3146"
+  },
+  {
+    "Suburb": "Yallambie",
+    "State": "VIC",
+    "PostCode": "3085"
+  },
+  {
+    "Suburb": "Mullumbimby",
+    "State": "NSW",
+    "PostCode": "2482"
+  },
+  {
+    "Suburb": "Neutral Bay",
+    "State": "NSW",
+    "PostCode": "2089"
+  },
+  {
+    "Suburb": "Yeronga",
+    "State": "QLD",
+    "PostCode": "4104"
+  },
+  {
+    "Suburb": "Waikiki",
+    "State": "WA",
+    "PostCode": "6169"
+  },
+  {
+    "Suburb": "Wagga Wagga",
+    "State": "NSW",
+    "PostCode": "2650"
+  },
+  {
+    "Suburb": "Gundagai",
+    "State": "NSW",
+    "PostCode": "2722"
+  },
+  {
+    "Suburb": "Carlton North",
+    "State": "VIC",
+    "PostCode": "3054"
+  },
+  {
+    "Suburb": "Croydon Park",
+    "State": "NSW",
+    "PostCode": "2133"
+  },
+  {
+    "Suburb": "Beeliar",
+    "State": "WA",
+    "PostCode": "6164"
+  },
+  {
+    "Suburb": "Millgrove",
+    "State": "VIC",
+    "PostCode": "3799"
+  },
+  {
+    "Suburb": "Success",
+    "State": "WA",
+    "PostCode": "6164"
+  },
+  {
+    "Suburb": "Glamorgan Vale",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Paddington",
+    "State": "QLD",
+    "PostCode": "4064"
+  },
+  {
+    "Suburb": "Townsville",
+    "State": "QLD",
+    "PostCode": "4810"
+  },
+  {
+    "Suburb": "Belmore",
+    "State": "NSW",
+    "PostCode": "2192"
+  },
+  {
+    "Suburb": "Dingley Village",
+    "State": "VIC",
+    "PostCode": "3172"
+  },
+  {
+    "Suburb": "Bohle",
+    "State": "QLD",
+    "PostCode": "4818"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Bowen",
+    "State": "QLD",
+    "PostCode": "4805"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Salisbury Plain",
+    "State": "SA",
+    "PostCode": "5109"
+  },
+  {
+    "Suburb": "Carrara",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Hallett Cove",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "State": "VIC",
+    "PostCode": "3137"
+  },
+  {
+    "Suburb": "Kanwal",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Mooroolbark",
+    "State": "VIC",
+    "PostCode": "3138"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Yallorn North",
+    "State": "VIC",
+    "PostCode": "3825"
+  },
+  {
+    "Suburb": "Elwood",
+    "State": "VIC",
+    "PostCode": "3184"
+  },
+  {
+    "Suburb": "East Mackay",
+    "State": "QLD",
+    "PostCode": "4740"
+  },
+  {
+    "Suburb": "Bathurst",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Menai",
+    "State": "NSW",
+    "PostCode": "2234"
+  },
+  {
+    "Suburb": "Kensington",
+    "State": "NSW",
+    "PostCode": "2033"
+  },
+  {
+    "Suburb": "North Adelaide",
+    "State": "SA",
+    "PostCode": "5006"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3150"
+  },
+  {
+    "Suburb": "Williamstown",
+    "State": "SA",
+    "PostCode": "5351"
+  },
+  {
+    "Suburb": "Colyton",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Noosa Heads",
+    "State": "QLD",
+    "PostCode": "4567"
+  },
+  {
+    "Suburb": "Yokine",
+    "State": "WA",
+    "PostCode": "6060"
+  },
+  {
+    "Suburb": "Golden Beach",
+    "State": "QLD",
+    "PostCode": "4551"
+  },
+  {
+    "Suburb": "Menai",
+    "State": "NSW",
+    "PostCode": "2234"
+  },
+  {
+    "Suburb": "Baulkham Hills",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Gulfview Heights",
+    "State": "SA",
+    "PostCode": "5096"
+  },
+  {
+    "Suburb": "Mill Park",
+    "State": "VIC",
+    "PostCode": "3082"
+  },
+  {
+    "Suburb": "Tiwi",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Wagga Wagga",
+    "State": "NSW",
+    "PostCode": "2650"
+  },
+  {
+    "Suburb": "Murgon",
+    "State": "QLD",
+    "PostCode": "4605"
+  },
+  {
+    "Suburb": "Dingley Village",
+    "State": "VIC",
+    "PostCode": "3172"
+  },
+  {
+    "Suburb": "Cooloongup",
+    "State": "WA",
+    "PostCode": "6168"
+  },
+  {
+    "Suburb": "Rockhampton",
+    "State": "QLD",
+    "PostCode": "4700"
+  },
+  {
+    "Suburb": "Cleveland",
+    "State": "QLD",
+    "PostCode": "4163"
+  },
+  {
+    "Suburb": "Springfield Lakes",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Sorrento",
+    "State": "VIC",
+    "PostCode": "3943"
+  },
+  {
+    "Suburb": "Upper Coomera",
+    "State": "QLD",
+    "PostCode": "4209"
+  },
+  {
+    "Suburb": "Cootharaba",
+    "State": "QLD",
+    "PostCode": "4565"
+  },
+  {
+    "Suburb": "Hillier",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "Hyde Park",
+    "State": "SA",
+    "PostCode": "5061"
+  },
+  {
+    "Suburb": "Clontarf",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Bossley Park",
+    "State": "NSW",
+    "PostCode": "2176"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Rowes Bay",
+    "State": "QLD",
+    "PostCode": "4810"
+  },
+  {
+    "Suburb": "South West Rocks",
+    "State": "NSW",
+    "PostCode": "2413"
+  },
+  {
+    "Suburb": "Port Kennedy",
+    "State": "WA",
+    "PostCode": "6172"
+  },
+  {
+    "Suburb": "Belmont North",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Bellevue Heights",
+    "State": "SA",
+    "PostCode": "5050"
+  },
+  {
+    "Suburb": "Leichhardt",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Moorabbin",
+    "State": "VIC",
+    "PostCode": "3189"
+  },
+  {
+    "Suburb": "Heatherton",
+    "State": "VIC",
+    "PostCode": "3202"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "West Wodonga",
+    "State": "VIC",
+    "PostCode": "3690"
+  },
+  {
+    "Suburb": "Deception Bay",
+    "State": "QLD",
+    "PostCode": "4508"
+  },
+  {
+    "Suburb": "Wantirna South",
+    "State": "VIC",
+    "PostCode": "3152"
+  },
+  {
+    "Suburb": "Mt Druitt",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "Epping",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "Canning Vale",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Mt Eliza",
+    "State": "VIC",
+    "PostCode": "3930"
+  },
+  {
+    "Suburb": "Surrey Hills",
+    "State": "VIC",
+    "PostCode": "3127"
+  },
+  {
+    "Suburb": "Ningi",
+    "State": "QLD",
+    "PostCode": "4511"
+  },
+  {
+    "Suburb": "Caloundra (Little Mountain)",
+    "State": "QLD",
+    "PostCode": "4551"
+  },
+  {
+    "Suburb": "Epping",
+    "State": "NSW",
+    "PostCode": "2121"
+  },
+  {
+    "Suburb": "Hamilton Hill",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Calliope",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Auburn",
+    "State": "NSW",
+    "PostCode": "2144"
+  },
+  {
+    "Suburb": "Portland",
+    "State": "VIC",
+    "PostCode": "3280"
+  },
+  {
+    "Suburb": "Bundaberg North",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Beaumaris",
+    "State": "VIC",
+    "PostCode": "3193"
+  },
+  {
+    "Suburb": "Grafton",
+    "State": "NSW",
+    "PostCode": "2460"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "State": "VIC",
+    "PostCode": "3207"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "State": "VIC",
+    "PostCode": "3137"
+  },
+  {
+    "Suburb": "Nankin",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Frenchville",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Lawnton",
+    "State": "QLD",
+    "PostCode": "4501"
+  },
+  {
+    "Suburb": "Abbotsbury",
+    "State": "NSW",
+    "PostCode": "2176"
+  },
+  {
+    "Suburb": "Eatons Hill",
+    "State": "QLD",
+    "PostCode": "4037"
+  },
+  {
+    "Suburb": "Maroochydore",
+    "State": "QLD",
+    "PostCode": "4558"
+  },
+  {
+    "Suburb": "Pasadena",
+    "State": "SA",
+    "PostCode": "5042"
+  },
+  {
+    "Suburb": "Vincentia",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Hadfield",
+    "State": "VIC",
+    "PostCode": "3046"
+  },
+  {
+    "Suburb": "East Cannington",
+    "State": "WA",
+    "PostCode": "6107"
+  },
+  {
+    "Suburb": "Cannon Hill",
+    "State": "QLD",
+    "PostCode": "4170"
+  },
+  {
+    "Suburb": "Kelso",
+    "State": "QLD",
+    "PostCode": "4815"
+  },
+  {
+    "Suburb": "Owen",
+    "State": "SA",
+    "PostCode": "5460"
+  },
+  {
+    "Suburb": "Ashcroft",
+    "State": "NSW",
+    "PostCode": "2168"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Cooloola Cove",
+    "State": "QLD",
+    "PostCode": "4580"
+  },
+  {
+    "Suburb": "Kuranda",
+    "State": "QLD",
+    "PostCode": "4881"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Shepparton",
+    "State": "VIC",
+    "PostCode": "3631"
+  },
+  {
+    "Suburb": "Varsity  Lakes",
+    "State": "QLD",
+    "PostCode": "4227"
+  },
+  {
+    "Suburb": "Wishart",
+    "State": "QLD",
+    "PostCode": "4122"
+  },
+  {
+    "Suburb": "Emu Park",
+    "State": "QLD",
+    "PostCode": "4710"
+  },
+  {
+    "Suburb": "Pottsville",
+    "State": "NSW",
+    "PostCode": "2489"
+  },
+  {
+    "Suburb": "Victor Harbour",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "Nowra",
+    "State": "NSW",
+    "PostCode": "2541"
+  },
+  {
+    "Suburb": "Eastwood",
+    "State": "NSW",
+    "PostCode": "2122"
+  },
+  {
+    "Suburb": "Woodcroft",
+    "State": "SA",
+    "PostCode": "5162"
+  },
+  {
+    "Suburb": "Clontarf",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Keswick",
+    "State": "SA",
+    "PostCode": "5035"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Duncraig",
+    "State": "WA",
+    "PostCode": "6023"
+  },
+  {
+    "Suburb": "Morayfield",
+    "State": "QLD",
+    "PostCode": "4506"
+  },
+  {
+    "Suburb": "Branyan",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Kingston",
+    "State": "QLD",
+    "PostCode": "4114"
+  },
+  {
+    "Suburb": "Woodchester",
+    "State": "SA",
+    "PostCode": "5255"
+  },
+  {
+    "Suburb": "Mornington",
+    "State": "VIC",
+    "PostCode": "3931"
+  },
+  {
+    "Suburb": "Lyons",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Magnetic Island",
+    "State": "QLD",
+    "PostCode": "4819"
+  },
+  {
+    "Suburb": "Ringwood North",
+    "State": "VIC",
+    "PostCode": "3134"
+  },
+  {
+    "Suburb": "Fairfield West",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Burpengary",
+    "State": "QLD",
+    "PostCode": "4505"
+  },
+  {
+    "Suburb": "Hindmarsh Island",
+    "State": "SA",
+    "PostCode": "5214"
+  },
+  {
+    "Suburb": "Terrey hills",
+    "State": "NSW",
+    "PostCode": "2084"
+  },
+  {
+    "Suburb": "Carlingford",
+    "State": "NSW",
+    "PostCode": "2118"
+  },
+  {
+    "Suburb": "Bayswater",
+    "State": "VIC",
+    "PostCode": "3153"
+  },
+  {
+    "Suburb": "Warragul",
+    "State": "VIC",
+    "PostCode": "3820"
+  },
+  {
+    "Suburb": "Cabramatta",
+    "State": "NSW",
+    "PostCode": "2166"
+  },
+  {
+    "Suburb": "Mount Nathan",
+    "State": "QLD",
+    "PostCode": "4211"
+  },
+  {
+    "Suburb": "Panania",
+    "State": "NSW",
+    "PostCode": "2213"
+  },
+  {
+    "Suburb": "Marangaroo",
+    "State": "WA",
+    "PostCode": "6064"
+  },
+  {
+    "Suburb": "Croydon South",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Keilor",
+    "State": "VIC",
+    "PostCode": "3036"
+  },
+  {
+    "Suburb": "Blackwater",
+    "State": "QLD",
+    "PostCode": "4717"
+  },
+  {
+    "Suburb": "Jingili",
+    "State": "NT",
+    "PostCode": "0810"
+  },
+  {
+    "Suburb": "Wilson",
+    "State": "WA",
+    "PostCode": "6107"
+  },
+  {
+    "Suburb": "Palmwoods",
+    "State": "QLD",
+    "PostCode": "4555"
+  },
+  {
+    "Suburb": "Johnston",
+    "State": "NT",
+    "PostCode": "0832"
+  },
+  {
+    "Suburb": "Milford",
+    "State": "QLD",
+    "PostCode": "4310"
+  },
+  {
+    "Suburb": "Springfield",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Wandin North",
+    "State": "VIC",
+    "PostCode": "3139"
+  },
+  {
+    "Suburb": "Bracken Ridge",
+    "State": "QLD",
+    "PostCode": "4017"
+  },
+  {
+    "Suburb": "Greenfields",
+    "State": "WA",
+    "PostCode": "6210"
+  },
+  {
+    "Suburb": "Terrigal",
+    "State": "NSW",
+    "PostCode": "2260"
+  },
+  {
+    "Suburb": "Tarampa",
+    "State": "QLD",
+    "PostCode": "4311"
+  },
+  {
+    "Suburb": "Roselands",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Yangebup",
+    "State": "WA",
+    "PostCode": "6164"
+  },
+  {
+    "Suburb": "Prestons",
+    "State": "NSW",
+    "PostCode": "2170"
+  },
+  {
+    "Suburb": "Lilydale",
+    "State": "VIC",
+    "PostCode": "3140"
+  },
+  {
+    "Suburb": "Rochedale South",
+    "State": "QLD",
+    "PostCode": "4123"
+  },
+  {
+    "Suburb": "Kelso",
+    "State": "NSW",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "O'Connell",
+    "State": "NSW",
+    "PostCode": "2795"
+  },
+  {
+    "Suburb": "Cowra",
+    "State": "NSW",
+    "PostCode": "2794"
+  },
+  {
+    "Suburb": "North Mackay",
+    "State": "QLD",
+    "PostCode": "4740"
+  },
+  {
+    "Suburb": "Caringbah",
+    "State": "NSW",
+    "PostCode": "2229"
+  },
+  {
+    "Suburb": "Woori Yallock",
+    "State": "VIC",
+    "PostCode": "3139"
+  },
+  {
+    "Suburb": "Hastings Point",
+    "State": "NSW",
+    "PostCode": "2489"
+  },
+  {
+    "Suburb": "Riverton",
+    "State": "WA",
+    "PostCode": "6148"
+  },
+  {
+    "Suburb": "Morwell",
+    "State": "VIC",
+    "PostCode": "3840"
+  },
+  {
+    "Suburb": "Oxenford",
+    "State": "QLD",
+    "PostCode": "4210"
+  },
+  {
+    "Suburb": "Callista",
+    "State": "WA",
+    "PostCode": "6167"
+  },
+  {
+    "Suburb": "Miles",
+    "State": "QLD",
+    "PostCode": "4415"
+  },
+  {
+    "Suburb": "Booral",
+    "State": "QLD",
+    "PostCode": "4655"
+  },
+  {
+    "Suburb": "Roseville",
+    "State": "NSW",
+    "PostCode": "2069"
+  },
+  {
+    "Suburb": "Ellen Grove",
+    "State": "QLD",
+    "PostCode": "4078"
+  },
+  {
+    "Suburb": "Kardinya",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Gobur",
+    "State": "VIC",
+    "PostCode": "3719"
+  },
+  {
+    "Suburb": "Renmark",
+    "State": "SA",
+    "PostCode": "5341"
+  },
+  {
+    "Suburb": "Moore Park Beach",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Randwick",
+    "State": "NSW",
+    "PostCode": "2031"
+  },
+  {
+    "Suburb": "Moores Pocket",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Parkside",
+    "State": "SA",
+    "PostCode": "5063"
+  },
+  {
+    "Suburb": "Mt Eliza",
+    "State": "VIC",
+    "PostCode": "3930"
+  },
+  {
+    "Suburb": "Brentwood",
+    "State": "WA",
+    "PostCode": "6153"
+  },
+  {
+    "Suburb": "Padstow",
+    "State": "NSW",
+    "PostCode": "2211"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Fairfield West",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Plympton Park",
+    "State": "SA",
+    "PostCode": "5038"
+  },
+  {
+    "Suburb": "Fairfield West",
+    "State": "NSW",
+    "PostCode": "2165"
+  },
+  {
+    "Suburb": "Redbank",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Mitchell Park",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Bankstown",
+    "State": "NSW",
+    "PostCode": "2200"
+  },
+  {
+    "Suburb": "Plympton Park",
+    "State": "SA",
+    "PostCode": "5038"
+  },
+  {
+    "Suburb": "Encounter Bay",
+    "State": "SA",
+    "PostCode": "5211"
+  },
+  {
+    "Suburb": "Burpengary",
+    "State": "QLD",
+    "PostCode": "4505"
+  },
+  {
+    "Suburb": "Calomba",
+    "State": "SA",
+    "PostCode": "5501"
+  },
+  {
+    "Suburb": "Coolbellup",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Bickley",
+    "State": "WA",
+    "PostCode": "6076"
+  },
+  {
+    "Suburb": "Rostrevor",
+    "State": "SA",
+    "PostCode": "5073"
+  },
+  {
+    "Suburb": "Paradise",
+    "State": "SA",
+    "PostCode": "5075"
+  },
+  {
+    "Suburb": "Spearwood",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Surry Hills",
+    "State": "NSW",
+    "PostCode": "2010"
+  },
+  {
+    "Suburb": "Regency Downs",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Leichardt",
+    "State": "NSW",
+    "PostCode": "2040"
+  },
+  {
+    "Suburb": "Geurie",
+    "State": "NSW",
+    "PostCode": "2818"
+  },
+  {
+    "Suburb": "Glen Forrest",
+    "State": "WA",
+    "PostCode": "6071"
+  },
+  {
+    "Suburb": "Cronulla",
+    "State": "NSW",
+    "PostCode": "2230"
+  },
+  {
+    "Suburb": "Northgate",
+    "State": "QLD",
+    "PostCode": "4103"
+  },
+  {
+    "Suburb": "Happy Valley",
+    "State": "SA",
+    "PostCode": "5006"
+  },
+  {
+    "Suburb": "Glengowrie",
+    "State": "SA",
+    "PostCode": "5044"
+  },
+  {
+    "Suburb": "Chester Hill",
+    "State": "NSW",
+    "PostCode": "2162"
+  },
+  {
+    "Suburb": "Mooroolbark",
+    "State": "VIC",
+    "PostCode": "3138"
+  },
+  {
+    "Suburb": "Twin Waters",
+    "State": "QLD",
+    "PostCode": "4564"
+  },
+  {
+    "Suburb": "Walloon",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Sandy Gully",
+    "State": "WA",
+    "PostCode": "6535"
+  },
+  {
+    "Suburb": "Heathmont",
+    "State": "VIC",
+    "PostCode": "3135"
+  },
+  {
+    "Suburb": "Boolarra",
+    "State": "VIC",
+    "PostCode": "3870"
+  },
+  {
+    "Suburb": "Harrisdale",
+    "State": "WA",
+    "PostCode": "6112"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Coolum Beach",
+    "State": "QLD",
+    "PostCode": "4573"
+  },
+  {
+    "Suburb": "Frankston South",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Rowville",
+    "State": "VIC",
+    "PostCode": "3178"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "State": "VIC",
+    "PostCode": "3167"
+  },
+  {
+    "Suburb": "Frankston South",
+    "State": "VIC",
+    "PostCode": "3199"
+  },
+  {
+    "Suburb": "Punchbowl",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Belmont",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Pacific Paradise",
+    "State": "QLD",
+    "PostCode": "4564"
+  },
+  {
+    "Suburb": "Bellbird Park",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Netley",
+    "State": "SA",
+    "PostCode": "5037"
+  },
+  {
+    "Suburb": "Langford",
+    "State": "WA",
+    "PostCode": "6147"
+  },
+  {
+    "Suburb": "Aspendale Gardens",
+    "State": "VIC",
+    "PostCode": "3195"
+  },
+  {
+    "Suburb": "Narangba",
+    "State": "QLD",
+    "PostCode": "4504"
+  },
+  {
+    "Suburb": "Carlton",
+    "State": "NSW",
+    "PostCode": "2218"
+  },
+  {
+    "Suburb": "Karabar (Queanbeyan)",
+    "State": "NSW",
+    "PostCode": "2620"
+  },
+  {
+    "Suburb": "Mount Pleasant",
+    "State": "WA",
+    "PostCode": "6153"
+  },
+  {
+    "Suburb": "Northcote",
+    "State": "VIC",
+    "PostCode": "3070"
+  },
+  {
+    "Suburb": "Lenswood",
+    "State": "SA",
+    "PostCode": "5420"
+  },
+  {
+    "Suburb": "Willetton",
+    "State": "WA",
+    "PostCode": "6155"
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Concord West",
+    "State": "NSW",
+    "PostCode": "2138"
+  },
+  {
+    "Suburb": "Batlow",
+    "State": "NSW",
+    "PostCode": "2730"
+  },
+  {
+    "Suburb": "Punchbowl",
+    "State": "NSW",
+    "PostCode": "2196"
+  },
+  {
+    "Suburb": "Doncaster East",
+    "State": "VIC",
+    "PostCode": "3109"
+  },
+  {
+    "Suburb": "Kingaroy",
+    "State": "QLD",
+    "PostCode": "4610"
+  },
+  {
+    "Suburb": "Winston Hills",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Chandlers Hill",
+    "State": "SA",
+    "PostCode": "5159"
+  },
+  {
+    "Suburb": "Peak Crossing",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "Frenchville",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Warrandyte",
+    "State": "VIC",
+    "PostCode": "3113"
+  },
+  {
+    "Suburb": "Ingle Farm",
+    "State": "SA",
+    "PostCode": "5098"
+  },
+  {
+    "Suburb": "Northfield",
+    "State": "SA",
+    "PostCode": "5085"
+  },
+  {
+    "Suburb": "Oakden",
+    "State": "SA",
+    "PostCode": "5086"
+  },
+  {
+    "Suburb": "Mitchell Park",
+    "State": "SA",
+    "PostCode": "5043"
+  },
+  {
+    "Suburb": "Gawler",
+    "State": "SA",
+    "PostCode": "5118"
+  },
+  {
+    "Suburb": "Heidelberg",
+    "State": "VIC",
+    "PostCode": "3084"
+  },
+  {
+    "Suburb": "Kew East",
+    "State": "VIC",
+    "PostCode": "3102"
+  },
+  {
+    "Suburb": "Tivoli",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Cammeray",
+    "State": "NSW",
+    "PostCode": "2062"
+  },
+  {
+    "Suburb": "Lake Coogee",
+    "State": "WA",
+    "PostCode": "6166"
+  },
+  {
+    "Suburb": "Chester Hill",
+    "State": "NSW",
+    "PostCode": "2162"
+  },
+  {
+    "Suburb": "Cullen Bay",
+    "State": "NT",
+    "PostCode": "0820"
+  },
+  {
+    "Suburb": "Hackam West",
+    "State": "SA",
+    "PostCode": "5163"
+  },
+  {
+    "Suburb": "Flinders View",
+    "State": "QLD",
+    "PostCode": "4305"
+  },
+  {
+    "Suburb": "Bli Bli",
+    "State": "QLD",
+    "PostCode": "4560"
+  },
+  {
+    "Suburb": "Reservoir",
+    "State": "VIC",
+    "PostCode": "3073"
+  },
+  {
+    "Suburb": "Allenby Gardens",
+    "State": "SA",
+    "PostCode": "5009"
+  },
+  {
+    "Suburb": "Greenwith",
+    "State": "SA",
+    "PostCode": "5125"
+  },
+  {
+    "Suburb": "Robina",
+    "State": "QLD",
+    "PostCode": "4226"
+  },
+  {
+    "Suburb": "Gilgandra",
+    "State": "NSW",
+    "PostCode": "2827"
+  },
+  {
+    "Suburb": "Doreen",
+    "State": "VIC",
+    "PostCode": "3754"
+  },
+  {
+    "Suburb": "Myrtleford",
+    "State": "VIC",
+    "PostCode": "3737"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Boronia",
+    "State": "VIC",
+    "PostCode": "3155"
+  },
+  {
+    "Suburb": "Springvale",
+    "State": "VIC",
+    "PostCode": "3171"
+  },
+  {
+    "Suburb": "Northcote",
+    "State": "VIC",
+    "PostCode": "3070"
+  },
+  {
+    "Suburb": "Brighton",
+    "State": "QLD",
+    "PostCode": "4017"
+  },
+  {
+    "Suburb": "Wantirna Sth",
+    "State": "VIC",
+    "PostCode": "3152"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Scarborough",
+    "State": "QLD",
+    "PostCode": "4020"
+  },
+  {
+    "Suburb": "Newport",
+    "State": "NSW",
+    "PostCode": "2106"
+  },
+  {
+    "Suburb": "Bargara",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Mylestom",
+    "State": "NSW",
+    "PostCode": "2454"
+  },
+  {
+    "Suburb": "Mt Gambier",
+    "State": "SA",
+    "PostCode": "5290"
+  },
+  {
+    "Suburb": "Kardinya",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Banksia Grove",
+    "State": "WA",
+    "PostCode": "6031"
+  },
+  {
+    "Suburb": "Dulwich Hill",
+    "State": "NSW",
+    "PostCode": "2203"
+  },
+  {
+    "Suburb": "Forbes",
+    "State": "NSW",
+    "PostCode": "2871"
+  },
+  {
+    "Suburb": "Ettalong Beach",
+    "State": "NSW",
+    "PostCode": "2257"
+  },
+  {
+    "Suburb": "Noranda",
+    "State": "WA",
+    "PostCode": "6062"
+  },
+  {
+    "Suburb": "East Cannington",
+    "State": "WA",
+    "PostCode": "6107"
+  },
+  {
+    "Suburb": "Moulden",
+    "State": "NT",
+    "PostCode": "0830A"
+  },
+  {
+    "Suburb": "Kingsford",
+    "State": "NSW",
+    "PostCode": "2032"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "State": "VIC",
+    "PostCode": "3057"
+  },
+  {
+    "Suburb": "Kooringal",
+    "State": "NSW",
+    "PostCode": "2650"
+  },
+  {
+    "Suburb": "Wiley Park",
+    "State": "NSW",
+    "PostCode": "2195"
+  },
+  {
+    "Suburb": "Glenwood",
+    "State": "NSW",
+    "PostCode": "2768"
+  },
+  {
+    "Suburb": "Kewdale",
+    "State": "WA",
+    "PostCode": "6105"
+  },
+  {
+    "Suburb": "Box Hill South",
+    "State": "VIC",
+    "PostCode": "3128"
+  },
+  {
+    "Suburb": "Illawong",
+    "State": "NSW",
+    "PostCode": "2234"
+  },
+  {
+    "Suburb": "Banksia Beach",
+    "State": "QLD",
+    "PostCode": "4507"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "Banora Point",
+    "State": "NSW",
+    "PostCode": "2486"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Blacktown",
+    "State": "NSW",
+    "PostCode": "2148"
+  },
+  {
+    "Suburb": "Mt Colah",
+    "State": "NSW",
+    "PostCode": "2079"
+  },
+  {
+    "Suburb": "Rooty Hill",
+    "State": "NSW",
+    "PostCode": "2766"
+  },
+  {
+    "Suburb": "Glenhaven",
+    "State": "NSW",
+    "PostCode": "2156"
+  },
+  {
+    "Suburb": "Coolbellup",
+    "State": "WA",
+    "PostCode": "6163"
+  },
+  {
+    "Suburb": "Clayton Bay",
+    "State": "SA",
+    "PostCode": "5256"
+  },
+  {
+    "Suburb": "Campwin Beach",
+    "State": "QLD",
+    "PostCode": "4737"
+  },
+  {
+    "Suburb": "Jordan Springs",
+    "State": "NSW",
+    "PostCode": "2747"
+  },
+  {
+    "Suburb": "Greensborough",
+    "State": "VIC",
+    "PostCode": "3088"
+  },
+  {
+    "Suburb": "Silkstone",
+    "State": "QLD",
+    "PostCode": "4304"
+  },
+  {
+    "Suburb": "Halls Head",
+    "State": "WA",
+    "PostCode": "6210"
+  },
+  {
+    "Suburb": "Hidden Valley",
+    "State": "QLD",
+    "PostCode": "4703"
+  },
+  {
+    "Suburb": "Chevron Island (Surfers Paradise)",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Woodvale",
+    "State": "WA",
+    "PostCode": "6026"
+  },
+  {
+    "Suburb": "Blackburn",
+    "State": "VIC",
+    "PostCode": "3130"
+  },
+  {
+    "Suburb": "Fulham Gardens",
+    "State": "SA",
+    "PostCode": "5024"
+  },
+  {
+    "Suburb": "West Lakes",
+    "State": "SA",
+    "PostCode": "5021"
+  },
+  {
+    "Suburb": "Merriwa",
+    "State": "WA",
+    "PostCode": "6030"
+  },
+  {
+    "Suburb": "Robina",
+    "State": "QLD",
+    "PostCode": "4226"
+  },
+  {
+    "Suburb": "Ashby",
+    "State": "WA",
+    "PostCode": "6065"
+  },
+  {
+    "Suburb": "St Morris",
+    "State": "SA",
+    "PostCode": "5068"
+  },
+  {
+    "Suburb": "Quakers Hill",
+    "State": "NSW",
+    "PostCode": "2763"
+  },
+  {
+    "Suburb": "Sussex Inlet",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Woodcroft",
+    "State": "NSW",
+    "PostCode": "2767"
+  },
+  {
+    "Suburb": "Meadow Heights",
+    "State": "VIC",
+    "PostCode": "3048"
+  },
+  {
+    "Suburb": "Burwood East",
+    "State": "VIC",
+    "PostCode": "3151"
+  },
+  {
+    "Suburb": "Donvale",
+    "State": "VIC",
+    "PostCode": "3111"
+  },
+  {
+    "Suburb": "Rosebud",
+    "State": "VIC",
+    "PostCode": "3939"
+  },
+  {
+    "Suburb": "Leanyer",
+    "State": "NT",
+    "PostCode": "0812"
+  },
+  {
+    "Suburb": "Minlaton",
+    "State": "SA",
+    "PostCode": "5575"
+  },
+  {
+    "Suburb": "Belgrave South",
+    "State": "VIC",
+    "PostCode": "3160"
+  },
+  {
+    "Suburb": "Koongal",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Mannum",
+    "State": "SA",
+    "PostCode": "5238"
+  },
+  {
+    "Suburb": "Boondall",
+    "State": "QLD",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "Evanston Park",
+    "State": "SA",
+    "PostCode": "5116"
+  },
+  {
+    "Suburb": "Craigmore",
+    "State": "SA",
+    "PostCode": "5114"
+  },
+  {
+    "Suburb": "Hillier",
+    "State": "SA",
+    "PostCode": "5112"
+  },
+  {
+    "Suburb": "Kersbrook",
+    "State": "SA",
+    "PostCode": "5231"
+  },
+  {
+    "Suburb": "Bentleigh East",
+    "State": "VIC",
+    "PostCode": "3165"
+  },
+  {
+    "Suburb": "Kalkie",
+    "State": "QLD",
+    "PostCode": "4670"
+  },
+  {
+    "Suburb": "Largs Bay",
+    "State": "SA",
+    "PostCode": "5016"
+  },
+  {
+    "Suburb": "Manly",
+    "State": "QLD",
+    "PostCode": "4179"
+  },
+  {
+    "Suburb": "Mount Barker",
+    "State": "SA",
+    "PostCode": "5251"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "State": "VIC",
+    "PostCode": "3137"
+  },
+  {
+    "Suburb": "Bourke",
+    "State": "NSW",
+    "PostCode": "2840"
+  },
+  {
+    "Suburb": "Coopers Plains",
+    "State": "QLD",
+    "PostCode": "4108"
+  },
+  {
+    "Suburb": "Koongal",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Blaxland",
+    "State": "NSW",
+    "PostCode": "2774"
+  },
+  {
+    "Suburb": "Brightview",
+    "State": "QLD",
+    "PostCode": "4311"
+  },
+  {
+    "Suburb": "Colyton",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Bonogin",
+    "State": "QLD",
+    "PostCode": "4213"
+  },
+  {
+    "Suburb": "Tanunda",
+    "State": "SA",
+    "PostCode": "5352"
+  },
+  {
+    "Suburb": "Doncaster East",
+    "State": "VIC",
+    "PostCode": "3109"
+  },
+  {
+    "Suburb": "East Mackay",
+    "State": "QLD",
+    "PostCode": "4740"
+  },
+  {
+    "Suburb": "Hamlyn Heights",
+    "State": "VIC",
+    "PostCode": "3215"
+  },
+  {
+    "Suburb": "Riverton",
+    "State": "SA",
+    "PostCode": "5412"
+  },
+  {
+    "Suburb": "Redwood Park",
+    "State": "SA",
+    "PostCode": "5097"
+  },
+  {
+    "Suburb": "Lindfield",
+    "State": "NSW",
+    "PostCode": "2070"
+  },
+  {
+    "Suburb": "Murwillumbah",
+    "State": "NSW",
+    "PostCode": "2484"
+  },
+  {
+    "Suburb": "Golden Square",
+    "State": "VIC",
+    "PostCode": "3555"
+  },
+  {
+    "Suburb": "West Pennant Hills",
+    "State": "QLD",
+    "PostCode": "2125"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "State": "VIC",
+    "PostCode": "3151"
+  },
+  {
+    "Suburb": "Ringwood North",
+    "State": "VIC",
+    "PostCode": "3134"
+  },
+  {
+    "Suburb": "Emerald",
+    "State": "VIC",
+    "PostCode": "3782"
+  },
+  {
+    "Suburb": "Donvale",
+    "State": "VIC",
+    "PostCode": "3111"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Gilmore",
+    "State": "ACT",
+    "PostCode": "2905"
+  },
+  {
+    "Suburb": "Cambridge Gardens",
+    "State": "NSW",
+    "PostCode": "2747"
+  },
+  {
+    "Suburb": "Pinelands",
+    "State": "NT",
+    "PostCode": "0829"
+  },
+  {
+    "Suburb": "Pimpama",
+    "State": "QLD",
+    "PostCode": "4209"
+  },
+  {
+    "Suburb": "Baulkham Hills",
+    "State": "NSW",
+    "PostCode": "2153"
+  },
+  {
+    "Suburb": "Glenmore Park",
+    "State": "NSW",
+    "PostCode": "2745"
+  },
+  {
+    "Suburb": "Falls Creek",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Kambah",
+    "State": "ACT",
+    "PostCode": "2902"
+  },
+  {
+    "Suburb": "Miami",
+    "State": "QLD",
+    "PostCode": "4220"
+  },
+  {
+    "Suburb": "Bogan Gate",
+    "State": "NSW",
+    "PostCode": "2876"
+  },
+  {
+    "Suburb": "Banks",
+    "State": "ACT",
+    "PostCode": "2906"
+  },
+  {
+    "Suburb": "Riverstone",
+    "State": "NSW",
+    "PostCode": "2765"
+  },
+  {
+    "Suburb": "St Marys",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "The Range",
+    "State": "QLD",
+    "PostCode": "4700"
+  },
+  {
+    "Suburb": "Springwood",
+    "State": "NSW",
+    "PostCode": "2777"
+  },
+  {
+    "Suburb": "Dundas",
+    "State": "QLD",
+    "PostCode": "4306"
+  },
+  {
+    "Suburb": "St Marys",
+    "State": "NSW",
+    "PostCode": "2760"
+  },
+  {
+    "Suburb": "Kurrajong",
+    "State": "NSW",
+    "PostCode": "2758"
+  },
+  {
+    "Suburb": "Margate",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Coffs Harbour",
+    "State": "NSW",
+    "PostCode": "2450"
+  },
+  {
+    "Suburb": "Kenthurst",
+    "State": "NSW",
+    "PostCode": "2156"
+  },
+  {
+    "Suburb": "Caboolture",
+    "State": "QLD",
+    "PostCode": "4510"
+  },
+  {
+    "Suburb": "North Parramatta",
+    "State": "NSW",
+    "PostCode": "2151"
+  },
+  {
+    "Suburb": "Thornleigh",
+    "State": "NSW",
+    "PostCode": "2120"
+  },
+  {
+    "Suburb": "Glenwood",
+    "State": "NSW",
+    "PostCode": "2768"
+  },
+  {
+    "Suburb": "Redbank Plains",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Cornubia",
+    "State": "QLD",
+    "PostCode": "4130"
+  },
+  {
+    "Suburb": "Minchinbury",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "East Maitland",
+    "State": "NSW",
+    "PostCode": "2323"
+  },
+  {
+    "Suburb": "Healesville",
+    "State": "VIC",
+    "PostCode": "3777"
+  },
+  {
+    "Suburb": "Woodville",
+    "State": "SA",
+    "PostCode": "5011"
+  },
+  {
+    "Suburb": "Bongaree",
+    "State": "QLD",
+    "PostCode": "4507"
+  },
+  {
+    "Suburb": "Wantirna South",
+    "State": "VIC",
+    "PostCode": "3152"
+  },
+  {
+    "Suburb": "Cambridge Park",
+    "State": "NSW",
+    "PostCode": "2747"
+  },
+  {
+    "Suburb": "Gray",
+    "State": "NT",
+    "PostCode": "0830"
+  },
+  {
+    "Suburb": "Essendon North",
+    "State": "VIC",
+    "PostCode": "3041"
+  },
+  {
+    "Suburb": "Dubbo",
+    "State": "NSW",
+    "PostCode": "2830"
+  },
+  {
+    "Suburb": "Reynella",
+    "State": "SA",
+    "PostCode": "5161"
+  },
+  {
+    "Suburb": "Werrington",
+    "State": "NSW",
+    "PostCode": "2747"
+  },
+  {
+    "Suburb": "Jamisontown",
+    "State": "NSW",
+    "PostCode": "2750"
+  },
+  {
+    "Suburb": "West Gladstone",
+    "State": "QLD",
+    "PostCode": "4680"
+  },
+  {
+    "Suburb": "Bracken Ridge",
+    "State": "QLD",
+    "PostCode": "4017"
+  },
+  {
+    "Suburb": "Monbulk",
+    "State": "VIC",
+    "PostCode": "3793"
+  },
+  {
+    "Suburb": "Wollongong",
+    "State": "NSW",
+    "PostCode": "2500"
+  },
+  {
+    "Suburb": "Kiama",
+    "State": "NSW",
+    "PostCode": "2533"
+  },
+  {
+    "Suburb": "Freshwater",
+    "State": "NSW",
+    "PostCode": "2096"
+  },
+  {
+    "Suburb": "Witta",
+    "State": "QLD",
+    "PostCode": "4552"
+  },
+  {
+    "Suburb": "Lockleys",
+    "State": "SA",
+    "PostCode": "5032"
+  },
+  {
+    "Suburb": "Flinders",
+    "State": "NSW",
+    "PostCode": "2529"
+  },
+  {
+    "Suburb": "Ringwood East",
+    "State": "VIC",
+    "PostCode": "3135"
+  },
+  {
+    "Suburb": "Valentine",
+    "State": "NSW",
+    "PostCode": "2280"
+  },
+  {
+    "Suburb": "Eltham",
+    "State": "VIC",
+    "PostCode": "3095"
+  },
+  {
+    "Suburb": "Plainland",
+    "State": "QLD",
+    "PostCode": "4341"
+  },
+  {
+    "Suburb": "Emerald",
+    "State": "QLD",
+    "PostCode": "4720"
+  },
+  {
+    "Suburb": "Coombabah",
+    "State": "QLD",
+    "PostCode": "4216"
+  },
+  {
+    "Suburb": "Camden South",
+    "State": "NSW",
+    "PostCode": "2570"
+  },
+  {
+    "Suburb": "Cowandilla",
+    "State": "SA",
+    "PostCode": "5033"
+  },
+  {
+    "Suburb": "Rye",
+    "State": "VIC",
+    "PostCode": "3941"
+  },
+  {
+    "Suburb": "Burpengary East",
+    "State": "QLD",
+    "PostCode": "4505"
+  },
+  {
+    "Suburb": "Torrensville",
+    "State": "SA",
+    "PostCode": "5031"
+  },
+  {
+    "Suburb": "Collingwood Park",
+    "State": "QLD",
+    "PostCode": "4301"
+  },
+  {
+    "Suburb": "Beechworth",
+    "State": "VIC",
+    "PostCode": "3747"
+  },
+  {
+    "Suburb": "Cranebrook",
+    "State": "NSW",
+    "PostCode": "2749"
+  },
+  {
+    "Suburb": "Fairview Park",
+    "State": "SA",
+    "PostCode": "5126"
+  },
+  {
+    "Suburb": "Templestowe Lower",
+    "State": "VIC",
+    "PostCode": "3107"
+  },
+  {
+    "Suburb": "Traralgon",
+    "State": "VIC",
+    "PostCode": "3844"
+  },
+  {
+    "Suburb": "Grafton",
+    "State": "NSW",
+    "PostCode": "2460"
+  },
+  {
+    "Suburb": "Lethbridge Park",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "Narangba",
+    "State": "QLD",
+    "PostCode": "4504"
+  },
+  {
+    "Suburb": "Harston",
+    "State": "VIC",
+    "PostCode": "3616"
+  },
+  {
+    "Suburb": "Cumberland Reach",
+    "State": "NSW",
+    "PostCode": "2456"
+  },
+  {
+    "Suburb": "Castle Hill",
+    "State": "NSW",
+    "PostCode": "2154"
+  },
+  {
+    "Suburb": "Guildford",
+    "State": "NSW",
+    "PostCode": "2161"
+  },
+  {
+    "Suburb": "Aspley",
+    "State": "QLD",
+    "PostCode": "4034"
+  },
+  {
+    "Suburb": "Darlinghurst",
+    "State": "NSW",
+    "PostCode": "2010"
+  },
+  {
+    "Suburb": "Surfers Paradise",
+    "State": "QLD",
+    "PostCode": "4217"
+  },
+  {
+    "Suburb": "Warrawong",
+    "State": "NSW",
+    "PostCode": "2502"
+  },
+  {
+    "Suburb": "Mount Louisa",
+    "State": "QLD",
+    "PostCode": "4814"
+  },
+  {
+    "Suburb": "Yarra Glen",
+    "State": "VIC",
+    "PostCode": "3775"
+  },
+  {
+    "Suburb": "West Tweed",
+    "State": "NSW",
+    "PostCode": "2486"
+  },
+  {
+    "Suburb": "Bullsbrook",
+    "State": "WA",
+    "PostCode": "6084"
+  },
+  {
+    "Suburb": "Geurie",
+    "State": "NSW",
+    "PostCode": "2818"
+  },
+  {
+    "Suburb": "Runaway Bay",
+    "State": "QLD",
+    "PostCode": "4216"
+  },
+  {
+    "Suburb": "Guildford",
+    "State": "NSW",
+    "PostCode": "2161"
+  },
+  {
+    "Suburb": "North Rockhampton",
+    "State": "QLD",
+    "PostCode": "4701"
+  },
+  {
+    "Suburb": "Bilpin",
+    "State": "NSW",
+    "PostCode": "2758"
+  },
+  {
+    "Suburb": "Cremorne Point",
+    "State": "NSW",
+    "PostCode": "2090"
+  },
+  {
+    "Suburb": "Cranbourne East",
+    "State": "VIC",
+    "PostCode": "3977"
+  },
+  {
+    "Suburb": "Aldinga Beach",
+    "State": "SA",
+    "PostCode": "5173"
+  },
+  {
+    "Suburb": "Sanctuary Point",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Montrose",
+    "State": "VIC",
+    "PostCode": "3765"
+  },
+  {
+    "Suburb": "Hallett Cove",
+    "State": "SA",
+    "PostCode": "5158"
+  },
+  {
+    "Suburb": "Croydon",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Evatt",
+    "State": "ACT",
+    "PostCode": ""
+  },
+  {
+    "Suburb": "West Pymble",
+    "State": "NSW",
+    "PostCode": "2073"
+  },
+  {
+    "Suburb": "Goolwa South",
+    "State": "SA",
+    "PostCode": "5214"
+  },
+  {
+    "Suburb": "Forestville",
+    "State": "NSW",
+    "PostCode": "2087"
+  },
+  {
+    "Suburb": "Croydon Hills",
+    "State": "VIC",
+    "PostCode": "3136"
+  },
+  {
+    "Suburb": "Clontarf",
+    "State": "QLD",
+    "PostCode": "4019"
+  },
+  {
+    "Suburb": "Dapto",
+    "State": "NSW",
+    "PostCode": "2530"
+  },
+  {
+    "Suburb": "Rooty Hill",
+    "State": "NSW",
+    "PostCode": "2766"
+  },
+  {
+    "Suburb": "Penrith",
+    "State": "NSW",
+    "PostCode": "2750"
+  },
+  {
+    "Suburb": "Blackett",
+    "State": "NSW",
+    "PostCode": "2770"
+  },
+  {
+    "Suburb": "Toowoomba",
+    "State": "QLD",
+    "PostCode": "4350"
+  },
+  {
+    "Suburb": "Worrowing Heights",
+    "State": "NSW",
+    "PostCode": "2540"
+  },
+  {
+    "Suburb": "Blacktown",
+    "State": "NSW",
+    "PostCode": "2148"
+  },
+  {
+    "Suburb": "South Penrith",
+    "State": "NSW",
+    "PostCode": "2750"
+  },
+  {
+    "Suburb": "Adamstown Heights",
+    "State": "NSW",
+    "PostCode": "2289"
+  },
+  {
+    "Suburb": "Mona Vale",
+    "State": "NSW",
+    "PostCode": "2103"
+  },
+  {
+    "Suburb": "Leura",
+    "State": "NSW",
+    "PostCode": "2780"
+  },
+  {
+    "Suburb": "Camira",
+    "State": "QLD",
+    "PostCode": "4300"
+  },
+  {
+    "Suburb": "Petrie",
+    "State": "QLD",
+    "PostCode": "4502"
+  },
+  {
+    "Suburb": "Augustine Heights",
+    "State": "QLD",
+    "PostCode": "4300"
+  }
+ ]

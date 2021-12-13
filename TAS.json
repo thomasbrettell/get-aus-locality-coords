@@ -1,0 +1,4944 @@
+[
+  {
+    "Postcode": 7000,
+    "Locality": "BATHURST STREET PO",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "GLEBE",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "HOBART",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "MOUNT STUART",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "NORTH HOBART",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "QUEENS DOMAIN",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7000,
+    "Locality": "WEST HOBART",
+    "State": "TAS",
+    "Longitude": 147.308002,
+    "Latitude": -42.878355
+  },
+  {
+    "Postcode": 7001,
+    "Locality": "HOBART",
+    "State": "TAS",
+    "Longitude": 146.356055,
+    "Latitude": -43.535913
+  },
+  {
+    "Postcode": 7001,
+    "Locality": "TASMAN ISLAND",
+    "State": "TAS",
+    "Longitude": 146.356055,
+    "Latitude": -43.535913
+  },
+  {
+    "Postcode": 7002,
+    "Locality": "NORTH HOBART",
+    "State": "TAS",
+    "Longitude": 147.446349,
+    "Latitude": -42.899691
+  },
+  {
+    "Postcode": 7004,
+    "Locality": "BATTERY POINT",
+    "State": "TAS",
+    "Longitude": 147.328928,
+    "Latitude": -42.890148
+  },
+  {
+    "Postcode": 7004,
+    "Locality": "SOUTH HOBART",
+    "State": "TAS",
+    "Longitude": 147.328928,
+    "Latitude": -42.890148
+  },
+  {
+    "Postcode": 7005,
+    "Locality": "DYNNYRNE",
+    "State": "TAS",
+    "Longitude": 147.3368,
+    "Latitude": -42.916204
+  },
+  {
+    "Postcode": 7005,
+    "Locality": "LOWER SANDY BAY",
+    "State": "TAS",
+    "Longitude": 147.3368,
+    "Latitude": -42.916204
+  },
+  {
+    "Postcode": 7005,
+    "Locality": "SANDY BAY",
+    "State": "TAS",
+    "Longitude": 147.3368,
+    "Latitude": -42.916204
+  },
+  {
+    "Postcode": 7005,
+    "Locality": "UNIVERSITY OF TASMANIA",
+    "State": "TAS",
+    "Longitude": 147.3368,
+    "Latitude": -42.916204
+  },
+  {
+    "Postcode": 7006,
+    "Locality": "SANDY BAY",
+    "State": "TAS",
+    "Longitude": 147.344395,
+    "Latitude": -42.908108
+  },
+  {
+    "Postcode": 7007,
+    "Locality": "MOUNT NELSON",
+    "State": "TAS",
+    "Longitude": 147.319501,
+    "Latitude": -42.922863
+  },
+  {
+    "Postcode": 7007,
+    "Locality": "TOLMANS HILL",
+    "State": "TAS",
+    "Longitude": 147.319501,
+    "Latitude": -42.922863
+  },
+  {
+    "Postcode": 7008,
+    "Locality": "CORNELIAN BAY",
+    "State": "TAS",
+    "Longitude": 147.293268,
+    "Latitude": -42.861932
+  },
+  {
+    "Postcode": 7008,
+    "Locality": "LENAH VALLEY",
+    "State": "TAS",
+    "Longitude": 147.293268,
+    "Latitude": -42.861932
+  },
+  {
+    "Postcode": 7008,
+    "Locality": "NEW TOWN",
+    "State": "TAS",
+    "Longitude": 147.293268,
+    "Latitude": -42.861932
+  },
+  {
+    "Postcode": 7009,
+    "Locality": "DERWENT PARK",
+    "State": "TAS",
+    "Longitude": 147.289682,
+    "Latitude": -42.842607
+  },
+  {
+    "Postcode": 7009,
+    "Locality": "LUTANA",
+    "State": "TAS",
+    "Longitude": 147.289682,
+    "Latitude": -42.842607
+  },
+  {
+    "Postcode": 7009,
+    "Locality": "MOONAH",
+    "State": "TAS",
+    "Longitude": 147.289682,
+    "Latitude": -42.842607
+  },
+  {
+    "Postcode": 7009,
+    "Locality": "WEST MOONAH",
+    "State": "TAS",
+    "Longitude": 147.289682,
+    "Latitude": -42.842607
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "DOWSING POINT",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "ELWICK",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "GLENORCHY",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "GOODWOOD",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "MONTROSE",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7010,
+    "Locality": "ROSETTA",
+    "State": "TAS",
+    "Longitude": 147.212366,
+    "Latitude": -42.85913
+  },
+  {
+    "Postcode": 7011,
+    "Locality": "AUSTINS FERRY",
+    "State": "TAS",
+    "Longitude": 147.230065,
+    "Latitude": -42.793393
+  },
+  {
+    "Postcode": 7011,
+    "Locality": "BERRIEDALE",
+    "State": "TAS",
+    "Longitude": 147.230065,
+    "Latitude": -42.793393
+  },
+  {
+    "Postcode": 7011,
+    "Locality": "CHIGWELL",
+    "State": "TAS",
+    "Longitude": 147.230065,
+    "Latitude": -42.793393
+  },
+  {
+    "Postcode": 7011,
+    "Locality": "CLAREMONT",
+    "State": "TAS",
+    "Longitude": 147.230065,
+    "Latitude": -42.793393
+  },
+  {
+    "Postcode": 7012,
+    "Locality": "COLLINSVALE",
+    "State": "TAS",
+    "Longitude": 147.174382,
+    "Latitude": -42.833718
+  },
+  {
+    "Postcode": 7012,
+    "Locality": "GLENLUSK",
+    "State": "TAS",
+    "Longitude": 147.174382,
+    "Latitude": -42.833718
+  },
+  {
+    "Postcode": 7015,
+    "Locality": "FLAGSTAFF GULLY",
+    "State": "TAS",
+    "Longitude": 147.360174,
+    "Latitude": -42.83903
+  },
+  {
+    "Postcode": 7015,
+    "Locality": "GEILSTON BAY",
+    "State": "TAS",
+    "Longitude": 147.360174,
+    "Latitude": -42.83903
+  },
+  {
+    "Postcode": 7015,
+    "Locality": "LINDISFARNE",
+    "State": "TAS",
+    "Longitude": 147.360174,
+    "Latitude": -42.83903
+  },
+  {
+    "Postcode": 7015,
+    "Locality": "ROSE BAY",
+    "State": "TAS",
+    "Longitude": 147.360174,
+    "Latitude": -42.83903
+  },
+  {
+    "Postcode": 7016,
+    "Locality": "RISDON VALE",
+    "State": "TAS",
+    "Longitude": 147.346381,
+    "Latitude": -42.813551
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "GRASSTREE HILL",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "HONEYWOOD",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "OLD BEACH",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "OTAGO",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "RISDON",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7017,
+    "Locality": "TEA TREE",
+    "State": "TAS",
+    "Longitude": 147.315111,
+    "Latitude": -42.719274
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "BELLERIVE",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "HOWRAH",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "MONTAGU BAY",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "MORNINGTON",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "ROSNY",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "ROSNY PARK",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "TRANMERE",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7018,
+    "Locality": "WARRANE",
+    "State": "TAS",
+    "Longitude": 147.385681,
+    "Latitude": -42.877588
+  },
+  {
+    "Postcode": 7019,
+    "Locality": "CLARENDON VALE",
+    "State": "TAS",
+    "Longitude": 147.433337,
+    "Latitude": -42.898778
+  },
+  {
+    "Postcode": 7019,
+    "Locality": "OAKDOWNS",
+    "State": "TAS",
+    "Longitude": 147.433337,
+    "Latitude": -42.898778
+  },
+  {
+    "Postcode": 7019,
+    "Locality": "ROKEBY",
+    "State": "TAS",
+    "Longitude": 147.433337,
+    "Latitude": -42.898778
+  },
+  {
+    "Postcode": 7020,
+    "Locality": "CLIFTON BEACH",
+    "State": "TAS",
+    "Longitude": 147.47851,
+    "Latitude": -42.965741
+  },
+  {
+    "Postcode": 7020,
+    "Locality": "SANDFORD",
+    "State": "TAS",
+    "Longitude": 147.47851,
+    "Latitude": -42.965741
+  },
+  {
+    "Postcode": 7021,
+    "Locality": "LAUDERDALE",
+    "State": "TAS",
+    "Longitude": 147.480017,
+    "Latitude": -42.906796
+  },
+  {
+    "Postcode": 7022,
+    "Locality": "SOUTH ARM",
+    "State": "TAS",
+    "Longitude": 147.47988,
+    "Latitude": -43.053156
+  },
+  {
+    "Postcode": 7023,
+    "Locality": "OPOSSUM BAY",
+    "State": "TAS",
+    "Longitude": 147.409324,
+    "Latitude": -42.988314
+  },
+  {
+    "Postcode": 7024,
+    "Locality": "CREMORNE",
+    "State": "TAS",
+    "Longitude": 147.512182,
+    "Latitude": -42.950412
+  },
+  {
+    "Postcode": 7025,
+    "Locality": "DULCOT",
+    "State": "TAS",
+    "Longitude": 147.439671,
+    "Latitude": -42.730264
+  },
+  {
+    "Postcode": 7025,
+    "Locality": "RICHMOND",
+    "State": "TAS",
+    "Longitude": 147.439671,
+    "Latitude": -42.730264
+  },
+  {
+    "Postcode": 7026,
+    "Locality": "CAMPANIA",
+    "State": "TAS",
+    "Longitude": 147.451363,
+    "Latitude": -42.646044
+  },
+  {
+    "Postcode": 7027,
+    "Locality": "COLEBROOK",
+    "State": "TAS",
+    "Longitude": 147.383495,
+    "Latitude": -42.536377
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "APSLEY",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "ARTHURS LAKE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BAGDAD",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BAGDAD NORTH",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BOTHWELL",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BRIDGEWATER",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BRIGHTON",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "BROADMARSH",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "CRAMPS BAY",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "DROMEDARY",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "DYSART",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "ELDERSLIE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "FLINTSTONE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "GAGEBROOK",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "GRANTON",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "HERDSMANS COVE",
+    "State": "TAS",
+    "Longitude": 147.2648366,
+    "Latitude": -42.75066477
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "HERMITAGE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "INTERLAKEN",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "JERICHO",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "KEMPTON",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "LAKE SORELL",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "LIAWENEE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "LOWER MARSHES",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "MANGALORE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "MELTON MOWBRAY",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "MIENA",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "MILLERS BLUFF",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "MORASS BAY",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "PELHAM",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "PONTVILLE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "SHANNON",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "STEPPES",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "TODS CORNER",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "WADDAMANA",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7030,
+    "Locality": "WILBURVILLE",
+    "State": "TAS",
+    "Longitude": 146.958381,
+    "Latitude": -42.304288
+  },
+  {
+    "Postcode": 7050,
+    "Locality": "ALBION HEIGHTS",
+    "State": "TAS",
+    "Longitude": 147.298181,
+    "Latitude": -42.975502
+  },
+  {
+    "Postcode": 7050,
+    "Locality": "KINGSTON",
+    "State": "TAS",
+    "Longitude": 147.298181,
+    "Latitude": -42.975502
+  },
+  {
+    "Postcode": 7050,
+    "Locality": "KINGSTON BEACH",
+    "State": "TAS",
+    "Longitude": 147.298181,
+    "Latitude": -42.975502
+  },
+  {
+    "Postcode": 7051,
+    "Locality": "KINGSTON",
+    "State": "TAS",
+    "Longitude": 147.327238,
+    "Latitude": -42.987394
+  },
+  {
+    "Postcode": 7052,
+    "Locality": "BLACKMANS BAY",
+    "State": "TAS",
+    "Longitude": 147.309302,
+    "Latitude": -43.008052
+  },
+  {
+    "Postcode": 7053,
+    "Locality": "BONNET HILL",
+    "State": "TAS",
+    "Longitude": 147.334695,
+    "Latitude": -42.947314
+  },
+  {
+    "Postcode": 7053,
+    "Locality": "TAROONA",
+    "State": "TAS",
+    "Longitude": 147.334695,
+    "Latitude": -42.947314
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "BARRETTA",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "CONINGHAM",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "ELECTRONA",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "FERN TREE",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "HOWDEN",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "LESLIE VALE",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "LOWER SNUG",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "MARGATE",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "NEIKA",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "NIERINNA",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "PIERSONS POINT",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "RIDGEWAY",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "SNUG",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "TINDERBOX",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7054,
+    "Locality": "WELLINGTON PARK",
+    "State": "TAS",
+    "Longitude": 147.256698,
+    "Latitude": -43.00658
+  },
+  {
+    "Postcode": 7055,
+    "Locality": "HUNTINGFIELD",
+    "State": "TAS",
+    "Longitude": 147.285203,
+    "Latitude": -42.994715
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "CATAMARAN",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "CRABTREE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "CRADOC",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "GLAZIERS BAY",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "GLEN HUON",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "GLENDEVIE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "GROVE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "HASTINGS",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "HUONVILLE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "IDA BAY",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "JUDBURY",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LONNAVALE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LOWER LONGLEY",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LOWER WATTLE GROVE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LUCASTON",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LUNE RIVER",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "LYMINGTON",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "MOUNTAIN RIVER",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "PETCHEYS BAY",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "RAMINEA",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "RANELAGH",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "RECHERCHE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "SOUTHPORT",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "SOUTHPORT LAGOON",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "STRATHBLANE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "WATERLOO",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "WATTLE GROVE",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7109,
+    "Locality": "WOODSTOCK",
+    "State": "TAS",
+    "Longitude": 146.524064,
+    "Latitude": -43.571087
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "ABELS BAY",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "CHARLOTTE COVE",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "CYGNET",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "DEEP BAY",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "EGGS AND BACON BAY",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "GARDEN ISLAND CREEK",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "GARDNERS BAY",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "NICHOLLS RIVULET",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "RANDALLS BAY",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7112,
+    "Locality": "VERONA SANDS",
+    "State": "TAS",
+    "Longitude": 147.140014,
+    "Latitude": -43.291937
+  },
+  {
+    "Postcode": 7113,
+    "Locality": "FRANKLIN",
+    "State": "TAS",
+    "Longitude": 146.970489,
+    "Latitude": -43.091051
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "BROOKS BAY",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "CAIRNS BAY",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "CASTLE FORBES BAY",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "GEEVESTON",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "POLICE POINT",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "PORT HUON",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "SURGES BAY",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7116,
+    "Locality": "SURVEYORS BAY",
+    "State": "TAS",
+    "Longitude": 147.03435,
+    "Latitude": -43.262123
+  },
+  {
+    "Postcode": 7117,
+    "Locality": "DOVER",
+    "State": "TAS",
+    "Longitude": 147.040135,
+    "Latitude": -43.338435
+  },
+  {
+    "Postcode": 7119,
+    "Locality": "STONOR",
+    "State": "TAS",
+    "Longitude": 147.365372,
+    "Latitude": -42.431887
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "ANDOVER",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "ANTILL PONDS",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "BADEN",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "LEMONT",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "LEVENDALE",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "MOUNT SEYMOUR",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "OATLANDS",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "PARATTAH",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "PAWTELLA",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "RHYNDASTON",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "STONEHENGE",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "SWANSTON",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "TIBERIAS",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "TUNBRIDGE",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "TUNNACK",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "WHITEFOORD",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "WOODBURY",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "WOODSDALE",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7120,
+    "Locality": "YORK PLAINS",
+    "State": "TAS",
+    "Longitude": 147.48727,
+    "Latitude": -42.31694
+  },
+  {
+    "Postcode": 7139,
+    "Locality": "STRATHGORDON",
+    "State": "TAS",
+    "Longitude": 145.925302,
+    "Latitude": -42.715494
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BLACK HILLS",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BOYER",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BRADYS LAKE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BRONTE PARK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BUSHY PARK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "BUTLERS GORGE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "DEE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "DERWENT BRIDGE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "ELLENDALE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "FENTONBURY",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "FITZGERALD",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "FLORENTINE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "GLENFERN",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "GLENORA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "GRETNA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "HAMILTON",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "HAYES",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "HOLLOW TREE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "KARANJA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "LACHLAN",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "LAKE ST CLAIR",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "LAWITTA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "LITTLE PINE LAGOON",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "LONDON LAKES",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MACQUARIE PLAINS",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MAGRA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MALBINA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MAYDENA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MEADOWBANK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MOLESWORTH",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MOOGARA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MOUNT FIELD",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "MOUNT LLOYD",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "NATIONAL PARK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "NEW NORFOLK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "OSTERLEY",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "OUSE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "PLENTY",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "ROSEGARLAND",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "SORELL CREEK",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "STRICKLAND",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "STYX",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "TARRALEAH",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "TYENNA",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "UXBRIDGE",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "VICTORIA VALLEY",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "WAYATINAH",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7140,
+    "Locality": "WESTERWAY",
+    "State": "TAS",
+    "Longitude": 146.45502,
+    "Latitude": -42.544215
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "ADVENTURE BAY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "ALLENS RIVULET",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "ALONNAH",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "APOLLO BAY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "BARNES BAY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "DENNES POINT",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "GORDON",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "GREAT BAY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "KAOOTA",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "KILLORA",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "LONGLEY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "LUNAWANNA",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "NORTH BRUNY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "OYSTER COVE",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "PELVERATA",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "SANDFLY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "SIMPSONS BAY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "SOUTH BRUNY",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7150,
+    "Locality": "UPPER WOODSTOCK",
+    "State": "TAS",
+    "Longitude": 147.958441,
+    "Latitude": -43.077586
+  },
+  {
+    "Postcode": 7151,
+    "Locality": "CASEY",
+    "State": "TAS",
+    "Longitude": 146.64266,
+    "Latitude": -41.518719
+  },
+  {
+    "Postcode": 7151,
+    "Locality": "DAVIS",
+    "State": "TAS",
+    "Longitude": 146.64266,
+    "Latitude": -41.518719
+  },
+  {
+    "Postcode": 7151,
+    "Locality": "MACQUARIE",
+    "State": "TAS",
+    "Longitude": 146.64266,
+    "Latitude": -41.518719
+  },
+  {
+    "Postcode": 7151,
+    "Locality": "MACQUARIE ISLAND",
+    "State": "TAS",
+    "Longitude": 146.64266,
+    "Latitude": -41.518719
+  },
+  {
+    "Postcode": 7151,
+    "Locality": "MAWSON",
+    "State": "TAS",
+    "Longitude": 146.64266,
+    "Latitude": -41.518719
+  },
+  {
+    "Postcode": 7155,
+    "Locality": "KETTERING",
+    "State": "TAS",
+    "Longitude": 147.216918,
+    "Latitude": -43.128868
+  },
+  {
+    "Postcode": 7162,
+    "Locality": "BIRCHS BAY",
+    "State": "TAS",
+    "Longitude": 147.209628,
+    "Latitude": -43.158652
+  },
+  {
+    "Postcode": 7162,
+    "Locality": "WOODBRIDGE",
+    "State": "TAS",
+    "Longitude": 147.209628,
+    "Latitude": -43.158652
+  },
+  {
+    "Postcode": 7163,
+    "Locality": "FLOWERPOT",
+    "State": "TAS",
+    "Longitude": 147.227479,
+    "Latitude": -43.209774
+  },
+  {
+    "Postcode": 7163,
+    "Locality": "MIDDLETON",
+    "State": "TAS",
+    "Longitude": 147.227479,
+    "Latitude": -43.209774
+  },
+  {
+    "Postcode": 7170,
+    "Locality": "ACTON PARK",
+    "State": "TAS",
+    "Longitude": 147.449794,
+    "Latitude": -42.85132
+  },
+  {
+    "Postcode": 7170,
+    "Locality": "CAMBRIDGE",
+    "State": "TAS",
+    "Longitude": 147.449794,
+    "Latitude": -42.85132
+  },
+  {
+    "Postcode": 7170,
+    "Locality": "MOUNT RUMNEY",
+    "State": "TAS",
+    "Longitude": 147.449794,
+    "Latitude": -42.85132
+  },
+  {
+    "Postcode": 7170,
+    "Locality": "ROCHES BEACH",
+    "State": "TAS",
+    "Longitude": 147.449794,
+    "Latitude": -42.85132
+  },
+  {
+    "Postcode": 7170,
+    "Locality": "SEVEN MILE BEACH",
+    "State": "TAS",
+    "Longitude": 147.449794,
+    "Latitude": -42.85132
+  },
+  {
+    "Postcode": 7171,
+    "Locality": "MIDWAY POINT",
+    "State": "TAS",
+    "Longitude": 147.488282,
+    "Latitude": -42.78011
+  },
+  {
+    "Postcode": 7171,
+    "Locality": "PENNA",
+    "State": "TAS",
+    "Longitude": 147.488282,
+    "Latitude": -42.78011
+  },
+  {
+    "Postcode": 7172,
+    "Locality": "NUGENT",
+    "State": "TAS",
+    "Longitude": 147.631695,
+    "Latitude": -42.730285
+  },
+  {
+    "Postcode": 7172,
+    "Locality": "ORIELTON",
+    "State": "TAS",
+    "Longitude": 147.631695,
+    "Latitude": -42.730285
+  },
+  {
+    "Postcode": 7172,
+    "Locality": "PAWLEENA",
+    "State": "TAS",
+    "Longitude": 147.631695,
+    "Latitude": -42.730285
+  },
+  {
+    "Postcode": 7172,
+    "Locality": "SORELL",
+    "State": "TAS",
+    "Longitude": 147.631695,
+    "Latitude": -42.730285
+  },
+  {
+    "Postcode": 7172,
+    "Locality": "WATTLE HILL",
+    "State": "TAS",
+    "Longitude": 147.631695,
+    "Latitude": -42.730285
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "CARLTON",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "CARLTON RIVER",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "CONNELLYS MARSH",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "DODGES FERRY",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "FORCETT",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "LEWISHAM",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7173,
+    "Locality": "PRIMROSE SANDS",
+    "State": "TAS",
+    "Longitude": 147.630737,
+    "Latitude": -42.823649
+  },
+  {
+    "Postcode": 7174,
+    "Locality": "COPPING",
+    "State": "TAS",
+    "Longitude": 147.743285,
+    "Latitude": -42.807682
+  },
+  {
+    "Postcode": 7175,
+    "Locality": "BREAM CREEK",
+    "State": "TAS",
+    "Longitude": 147.828594,
+    "Latitude": -42.818606
+  },
+  {
+    "Postcode": 7175,
+    "Locality": "MARION BAY",
+    "State": "TAS",
+    "Longitude": 147.828594,
+    "Latitude": -42.818606
+  },
+  {
+    "Postcode": 7176,
+    "Locality": "KELLEVIE",
+    "State": "TAS",
+    "Longitude": 147.837675,
+    "Latitude": -42.753098
+  },
+  {
+    "Postcode": 7177,
+    "Locality": "BOOMER BAY",
+    "State": "TAS",
+    "Longitude": 147.976495,
+    "Latitude": -42.884195
+  },
+  {
+    "Postcode": 7177,
+    "Locality": "DUNALLEY",
+    "State": "TAS",
+    "Longitude": 147.976495,
+    "Latitude": -42.884195
+  },
+  {
+    "Postcode": 7178,
+    "Locality": "MURDUNNA",
+    "State": "TAS",
+    "Longitude": 147.906152,
+    "Latitude": -42.958471
+  },
+  {
+    "Postcode": 7179,
+    "Locality": "EAGLEHAWK NECK",
+    "State": "TAS",
+    "Longitude": 147.944957,
+    "Latitude": -43.033826
+  },
+  {
+    "Postcode": 7180,
+    "Locality": "TARANNA",
+    "State": "TAS",
+    "Longitude": 148.006561,
+    "Latitude": -43.138712
+  },
+  {
+    "Postcode": 7182,
+    "Locality": "CAPE PILLAR",
+    "State": "TAS",
+    "Longitude": 147.9387592,
+    "Latitude": -43.18182603
+  },
+  {
+    "Postcode": 7182,
+    "Locality": "FORTESCUE",
+    "State": "TAS",
+    "Longitude": 147.822931,
+    "Latitude": -43.170598
+  },
+  {
+    "Postcode": 7182,
+    "Locality": "PORT ARTHUR",
+    "State": "TAS",
+    "Longitude": 147.822931,
+    "Latitude": -43.170598
+  },
+  {
+    "Postcode": 7183,
+    "Locality": "HIGHCROFT",
+    "State": "TAS",
+    "Longitude": 147.750593,
+    "Latitude": -43.171185
+  },
+  {
+    "Postcode": 7184,
+    "Locality": "CAPE RAOUL",
+    "State": "TAS",
+    "Longitude": 147.7904396,
+    "Latitude": -43.2198235
+  },
+  {
+    "Postcode": 7184,
+    "Locality": "NUBEENA",
+    "State": "TAS",
+    "Longitude": 147.70789,
+    "Latitude": -43.152512
+  },
+  {
+    "Postcode": 7184,
+    "Locality": "STORMLEA",
+    "State": "TAS",
+    "Longitude": 147.70789,
+    "Latitude": -43.152512
+  },
+  {
+    "Postcode": 7184,
+    "Locality": "WHITE BEACH",
+    "State": "TAS",
+    "Longitude": 147.70789,
+    "Latitude": -43.152512
+  },
+  {
+    "Postcode": 7185,
+    "Locality": "PREMAYDENA",
+    "State": "TAS",
+    "Longitude": 147.753782,
+    "Latitude": -43.062899
+  },
+  {
+    "Postcode": 7186,
+    "Locality": "SALTWATER RIVER",
+    "State": "TAS",
+    "Longitude": 147.663981,
+    "Latitude": -43.029525
+  },
+  {
+    "Postcode": 7186,
+    "Locality": "SLOPING MAIN",
+    "State": "TAS",
+    "Longitude": 147.663981,
+    "Latitude": -43.029525
+  },
+  {
+    "Postcode": 7187,
+    "Locality": "KOONYA",
+    "State": "TAS",
+    "Longitude": 147.848028,
+    "Latitude": -43.027742
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "APSLAWN",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "BUCKLAND",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "CRANBROOK",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "DOLPHIN SANDS",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "LITTLE SWANPORT",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "MARIA ISLAND",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "ORFORD",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "PONTYPOOL",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "RHEBAN",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "ROCKY HILLS",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "RUNNYMEDE",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "SPRING BEACH",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "SWANSEA",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7190,
+    "Locality": "TRIABUNNA",
+    "State": "TAS",
+    "Longitude": 148.091696,
+    "Latitude": -42.62988
+  },
+  {
+    "Postcode": 7209,
+    "Locality": "ROSS",
+    "State": "TAS",
+    "Longitude": 147.614307,
+    "Latitude": -42.104584
+  },
+  {
+    "Postcode": 7209,
+    "Locality": "TOOMS LAKE",
+    "State": "TAS",
+    "Longitude": 147.614307,
+    "Latitude": -42.104584
+  },
+  {
+    "Postcode": 7210,
+    "Locality": "CAMPBELL TOWN",
+    "State": "TAS",
+    "Longitude": 147.410747,
+    "Latitude": -41.915923
+  },
+  {
+    "Postcode": 7210,
+    "Locality": "LAKE LEAKE",
+    "State": "TAS",
+    "Longitude": 147.410747,
+    "Latitude": -41.915923
+  },
+  {
+    "Postcode": 7211,
+    "Locality": "CLEVELAND",
+    "State": "TAS",
+    "Longitude": 147.317089,
+    "Latitude": -41.788619
+  },
+  {
+    "Postcode": 7211,
+    "Locality": "CONARA",
+    "State": "TAS",
+    "Longitude": 147.317089,
+    "Latitude": -41.788619
+  },
+  {
+    "Postcode": 7211,
+    "Locality": "EPPING FOREST",
+    "State": "TAS",
+    "Longitude": 147.317089,
+    "Latitude": -41.788619
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "BEN LOMOND",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "BLESSINGTON",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "BURNS CREEK",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "DEDDINGTON",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "EVANDALE",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "NILE",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "UPPER BLESSINGTON",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7212,
+    "Locality": "WESTERN JUNCTION",
+    "State": "TAS",
+    "Longitude": 147.488412,
+    "Latitude": -41.567876
+  },
+  {
+    "Postcode": 7213,
+    "Locality": "AVOCA",
+    "State": "TAS",
+    "Longitude": 147.781593,
+    "Latitude": -41.828496
+  },
+  {
+    "Postcode": 7213,
+    "Locality": "ROSSARDEN",
+    "State": "TAS",
+    "Longitude": 147.781593,
+    "Latitude": -41.828496
+  },
+  {
+    "Postcode": 7213,
+    "Locality": "ROYAL GEORGE",
+    "State": "TAS",
+    "Longitude": 147.781593,
+    "Latitude": -41.828496
+  },
+  {
+    "Postcode": 7214,
+    "Locality": "FINGAL",
+    "State": "TAS",
+    "Longitude": 147.897402,
+    "Latitude": -41.600719
+  },
+  {
+    "Postcode": 7214,
+    "Locality": "MANGANA",
+    "State": "TAS",
+    "Longitude": 147.897402,
+    "Latitude": -41.600719
+  },
+  {
+    "Postcode": 7214,
+    "Locality": "MATHINNA",
+    "State": "TAS",
+    "Longitude": 147.897402,
+    "Latitude": -41.600719
+  },
+  {
+    "Postcode": 7214,
+    "Locality": "UPPER ESK",
+    "State": "TAS",
+    "Longitude": 147.897402,
+    "Latitude": -41.600719
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "BEAUMARIS",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "BICHENO",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "CHAIN OF LAGOONS",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "COLES BAY",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "CORNWALL",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "DOUGLAS RIVER",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "DOUGLAS-APSLEY",
+    "State": "TAS",
+    "Longitude": 148.1873473,
+    "Latitude": -41.78527181
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "FALMOUTH",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "FOUR MILE CREEK",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "FREYCINET",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "FRIENDLY BEACHES",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "GRAY",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "SCAMANDER",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "SEYMOUR",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "ST MARYS",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7215,
+    "Locality": "UPPER SCAMANDER",
+    "State": "TAS",
+    "Longitude": 148.281407,
+    "Latitude": -42.314526
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "AKAROA",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "ANSONS BAY",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "BINALONG BAY",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "GOSHEN",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "GOULDS COUNTRY",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "LOTTAH",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "PYENGANA",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "ST HELENS",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "STIEGLITZ",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7216,
+    "Locality": "THE GARDENS",
+    "State": "TAS",
+    "Longitude": 148.076401,
+    "Latitude": -41.284242
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "ALANVALE",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "INVERESK",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "INVERMAY",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "MAYFIELD",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "MOWBRAY",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "MOWBRAY HEIGHTS",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "NEWNHAM",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7248,
+    "Locality": "ROCHERLEA",
+    "State": "TAS",
+    "Longitude": 147.130185,
+    "Latitude": -41.397239
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "GLEN DHU",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "KINGS MEADOWS",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "PUNCHBOWL",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "SANDHILL",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "SOUTH LAUNCESTON",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7249,
+    "Locality": "YOUNGTOWN",
+    "State": "TAS",
+    "Longitude": 147.157786,
+    "Latitude": -41.472435
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "BLACKSTONE HEIGHTS",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "EAST LAUNCESTON",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "ELPHIN",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "LAUNCESTON",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "NEWSTEAD",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "NORWOOD",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "NORWOOD AVENUE PO",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "PROSPECT",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "PROSPECT VALE",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "RAVENSWOOD",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "RIVERSIDE",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "ST LEONARDS",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "SUMMERHILL",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "TRAVELLERS REST",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "TREVALLYN",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "WAVERLEY",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7250,
+    "Locality": "WEST LAUNCESTON",
+    "State": "TAS",
+    "Longitude": 147.077589,
+    "Latitude": -41.432254
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "BEECHFORD",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "DILSTON",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "HILLWOOD",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "LEFROY",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "LULWORTH",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "MOUNT DIRECTION",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "PIPERS RIVER",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "STONY HEAD",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "SWAN BAY",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "WEYMOUTH",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7252,
+    "Locality": "WINDERMERE",
+    "State": "TAS",
+    "Longitude": 146.99252,
+    "Latitude": -41.148031
+  },
+  {
+    "Postcode": 7253,
+    "Locality": "BELL BAY",
+    "State": "TAS",
+    "Longitude": 146.83066,
+    "Latitude": -41.117415
+  },
+  {
+    "Postcode": 7253,
+    "Locality": "GEORGE TOWN",
+    "State": "TAS",
+    "Longitude": 146.83066,
+    "Latitude": -41.117415
+  },
+  {
+    "Postcode": 7253,
+    "Locality": "LONG REACH",
+    "State": "TAS",
+    "Longitude": 146.83066,
+    "Latitude": -41.117415
+  },
+  {
+    "Postcode": 7253,
+    "Locality": "LOW HEAD",
+    "State": "TAS",
+    "Longitude": 146.83066,
+    "Latitude": -41.117415
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "BELLINGHAM",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "GOLCONDA",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "LEBRINA",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "PIPERS BROOK",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "RETREAT",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "TUNNEL",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7254,
+    "Locality": "WYENA",
+    "State": "TAS",
+    "Longitude": 147.198018,
+    "Latitude": -41.13407
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "BLUE ROCKS",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "EMITA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "KILLIECRANKIE",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "LACKRANA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "LADY BARRON",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "LEEKA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "LOCCOTA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "LUGHRATA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "MEMANA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "PALANA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "RANGA",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "STRZELECKI",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "WHITEMARK",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7255,
+    "Locality": "WINGAROO",
+    "State": "TAS",
+    "Longitude": 148.329247,
+    "Latitude": -39.949379
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "BUNGAREE",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "CURRIE",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "EGG LAGOON",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "GRASSY",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "LOORANA",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "LYMWOOD",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "NARACOOPA",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "NUGARA",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "PEARSHAPE",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "PEGARAH",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "REEKARA",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "SEA ELEPHANT",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "SURPRISE BAY",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "WICKHAM",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "YAMBACOONA",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7256,
+    "Locality": "YARRA CREEK",
+    "State": "TAS",
+    "Longitude": 144.159775,
+    "Latitude": -39.830946
+  },
+  {
+    "Postcode": 7257,
+    "Locality": "CAPE BARREN ISLAND",
+    "State": "TAS",
+    "Longitude": 148.338962,
+    "Latitude": -40.505978
+  },
+  {
+    "Postcode": 7258,
+    "Locality": "BREADALBANE",
+    "State": "TAS",
+    "Longitude": 147.209446,
+    "Latitude": -41.499942
+  },
+  {
+    "Postcode": 7258,
+    "Locality": "RELBIA",
+    "State": "TAS",
+    "Longitude": 147.209446,
+    "Latitude": -41.499942
+  },
+  {
+    "Postcode": 7258,
+    "Locality": "WHITE HILLS",
+    "State": "TAS",
+    "Longitude": 147.209446,
+    "Latitude": -41.499942
+  },
+  {
+    "Postcode": 7259,
+    "Locality": "MYRTLE BANK",
+    "State": "TAS",
+    "Longitude": 147.357686,
+    "Latitude": -41.358817
+  },
+  {
+    "Postcode": 7259,
+    "Locality": "NUNAMARA",
+    "State": "TAS",
+    "Longitude": 147.357686,
+    "Latitude": -41.358817
+  },
+  {
+    "Postcode": 7259,
+    "Locality": "PATERSONIA",
+    "State": "TAS",
+    "Longitude": 147.357686,
+    "Latitude": -41.358817
+  },
+  {
+    "Postcode": 7259,
+    "Locality": "TARGA",
+    "State": "TAS",
+    "Longitude": 147.357686,
+    "Latitude": -41.358817
+  },
+  {
+    "Postcode": 7259,
+    "Locality": "TAYENE",
+    "State": "TAS",
+    "Longitude": 147.357686,
+    "Latitude": -41.358817
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "BLUMONT",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "CUCKOO",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "FORESTER",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "JETSONVILLE",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "KAMONA",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "LIETINNA",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "LISLE",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "NABOWLA",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "NORTH SCOTTSDALE",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "SCOTTSDALE",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "SOUTH SPRINGFIELD",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "SPRINGFIELD",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "TONGANAH",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "TULENDEENA",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7260,
+    "Locality": "WEST SCOTTSDALE",
+    "State": "TAS",
+    "Longitude": 147.502082,
+    "Latitude": -41.158791
+  },
+  {
+    "Postcode": 7261,
+    "Locality": "BRANXHOLM",
+    "State": "TAS",
+    "Longitude": 147.567819,
+    "Latitude": -41.12694
+  },
+  {
+    "Postcode": 7261,
+    "Locality": "WARRENTINNA",
+    "State": "TAS",
+    "Longitude": 147.567819,
+    "Latitude": -41.12694
+  },
+  {
+    "Postcode": 7262,
+    "Locality": "BRIDPORT",
+    "State": "TAS",
+    "Longitude": 147.630044,
+    "Latitude": -40.801511
+  },
+  {
+    "Postcode": 7262,
+    "Locality": "TOMAHAWK",
+    "State": "TAS",
+    "Longitude": 147.630044,
+    "Latitude": -40.801511
+  },
+  {
+    "Postcode": 7262,
+    "Locality": "WATERHOUSE",
+    "State": "TAS",
+    "Longitude": 147.630044,
+    "Latitude": -40.801511
+  },
+  {
+    "Postcode": 7263,
+    "Locality": "ALBERTON",
+    "State": "TAS",
+    "Longitude": 147.702655,
+    "Latitude": -41.308785
+  },
+  {
+    "Postcode": 7263,
+    "Locality": "LEGERWOOD",
+    "State": "TAS",
+    "Longitude": 147.702655,
+    "Latitude": -41.308785
+  },
+  {
+    "Postcode": 7263,
+    "Locality": "RINGAROOMA",
+    "State": "TAS",
+    "Longitude": 147.702655,
+    "Latitude": -41.308785
+  },
+  {
+    "Postcode": 7263,
+    "Locality": "TALAWA",
+    "State": "TAS",
+    "Longitude": 147.702655,
+    "Latitude": -41.308785
+  },
+  {
+    "Postcode": 7263,
+    "Locality": "TRENAH",
+    "State": "TAS",
+    "Longitude": 147.702655,
+    "Latitude": -41.308785
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "ANSONS BAY",
+    "State": "TAS",
+    "Longitude": 148.1887585,
+    "Latitude": -41.08241309
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "BOOBYALLA",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "CAPE PORTLAND",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "DERBY",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "EDDYSTONE",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "EDDYSTONE POINT",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "GLADSTONE",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "HERRICK",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "MOORINA",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "MOUNT WILLIAM",
+    "State": "TAS",
+    "Longitude": 148.2737423,
+    "Latitude": -40.96643115
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "MUSSELROE BAY",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "PIONEER",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "RUSHY LAGOON",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "SOUTH MOUNT CAMERON",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "TELITA",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7264,
+    "Locality": "WELDBOROUGH",
+    "State": "TAS",
+    "Longitude": 148.026137,
+    "Latitude": -41.015197
+  },
+  {
+    "Postcode": 7265,
+    "Locality": "BANCA",
+    "State": "TAS",
+    "Longitude": 147.823431,
+    "Latitude": -41.08106
+  },
+  {
+    "Postcode": 7265,
+    "Locality": "WINNALEAH",
+    "State": "TAS",
+    "Longitude": 147.823431,
+    "Latitude": -41.08106
+  },
+  {
+    "Postcode": 7267,
+    "Locality": "BANGOR",
+    "State": "TAS",
+    "Longitude": 147.086396,
+    "Latitude": -41.264912
+  },
+  {
+    "Postcode": 7267,
+    "Locality": "KAROOLA",
+    "State": "TAS",
+    "Longitude": 147.086396,
+    "Latitude": -41.264912
+  },
+  {
+    "Postcode": 7267,
+    "Locality": "LALLA",
+    "State": "TAS",
+    "Longitude": 147.086396,
+    "Latitude": -41.264912
+  },
+  {
+    "Postcode": 7267,
+    "Locality": "LOWER TURNERS MARSH",
+    "State": "TAS",
+    "Longitude": 147.086396,
+    "Latitude": -41.264912
+  },
+  {
+    "Postcode": 7267,
+    "Locality": "TURNERS MARSH",
+    "State": "TAS",
+    "Longitude": 147.086396,
+    "Latitude": -41.264912
+  },
+  {
+    "Postcode": 7268,
+    "Locality": "LILYDALE",
+    "State": "TAS",
+    "Longitude": 147.152757,
+    "Latitude": -41.333887
+  },
+  {
+    "Postcode": 7268,
+    "Locality": "NORTH LILYDALE",
+    "State": "TAS",
+    "Longitude": 147.152757,
+    "Latitude": -41.333887
+  },
+  {
+    "Postcode": 7268,
+    "Locality": "UNDERWOOD",
+    "State": "TAS",
+    "Longitude": 147.152757,
+    "Latitude": -41.333887
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "BADGER HEAD",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "BEACONSFIELD",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "BEAUTY POINT",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "CLARENCE POINT",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "FLOWERY GULLY",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "GREENS BEACH",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "ILFRAVILLE",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "KAYENA",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "KELSO",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "ROWELLA",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "SIDMOUTH",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7270,
+    "Locality": "YORK TOWN",
+    "State": "TAS",
+    "Longitude": 146.783947,
+    "Latitude": -41.177924
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "BLACKWALL",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "DEVIOT",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "EXETER",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "FRANKFORD",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "GLENGARRY",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "HOLWELL",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "LANENA",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "LOIRA",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "NOTLEY HILLS",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "ROBIGANA",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "SWAN POINT",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7275,
+    "Locality": "WINKLEIGH",
+    "State": "TAS",
+    "Longitude": 146.835317,
+    "Latitude": -41.319891
+  },
+  {
+    "Postcode": 7276,
+    "Locality": "GRAVELLY BEACH",
+    "State": "TAS",
+    "Longitude": 146.972023,
+    "Latitude": -41.293081
+  },
+  {
+    "Postcode": 7277,
+    "Locality": "BRIDGENORTH",
+    "State": "TAS",
+    "Longitude": 146.996977,
+    "Latitude": -41.366416
+  },
+  {
+    "Postcode": 7277,
+    "Locality": "GRINDELWALD",
+    "State": "TAS",
+    "Longitude": 146.996977,
+    "Latitude": -41.366416
+  },
+  {
+    "Postcode": 7277,
+    "Locality": "LEGANA",
+    "State": "TAS",
+    "Longitude": 146.996977,
+    "Latitude": -41.366416
+  },
+  {
+    "Postcode": 7277,
+    "Locality": "ROSEVEARS",
+    "State": "TAS",
+    "Longitude": 146.996977,
+    "Latitude": -41.366416
+  },
+  {
+    "Postcode": 7290,
+    "Locality": "HADSPEN",
+    "State": "TAS",
+    "Longitude": 147.068603,
+    "Latitude": -41.512507
+  },
+  {
+    "Postcode": 7291,
+    "Locality": "CARRICK",
+    "State": "TAS",
+    "Longitude": 147.013597,
+    "Latitude": -41.530631
+  },
+  {
+    "Postcode": 7292,
+    "Locality": "HAGLEY",
+    "State": "TAS",
+    "Longitude": 146.944728,
+    "Latitude": -41.472098
+  },
+  {
+    "Postcode": 7292,
+    "Locality": "QUAMBY BEND",
+    "State": "TAS",
+    "Longitude": 146.944728,
+    "Latitude": -41.472098
+  },
+  {
+    "Postcode": 7292,
+    "Locality": "ROSEVALE",
+    "State": "TAS",
+    "Longitude": 146.944728,
+    "Latitude": -41.472098
+  },
+  {
+    "Postcode": 7292,
+    "Locality": "SELBOURNE",
+    "State": "TAS",
+    "Longitude": 146.944728,
+    "Latitude": -41.472098
+  },
+  {
+    "Postcode": 7292,
+    "Locality": "WESTWOOD",
+    "State": "TAS",
+    "Longitude": 146.944728,
+    "Latitude": -41.472098
+  },
+  {
+    "Postcode": 7300,
+    "Locality": "DEVON HILLS",
+    "State": "TAS",
+    "Longitude": 147.223173,
+    "Latitude": -41.616219
+  },
+  {
+    "Postcode": 7300,
+    "Locality": "PERTH",
+    "State": "TAS",
+    "Longitude": 147.223173,
+    "Latitude": -41.616219
+  },
+  {
+    "Postcode": 7300,
+    "Locality": "POWRANNA",
+    "State": "TAS",
+    "Longitude": 147.223173,
+    "Latitude": -41.616219
+  },
+  {
+    "Postcode": 7301,
+    "Locality": "BISHOPSBOURNE",
+    "State": "TAS",
+    "Longitude": 147.046481,
+    "Latitude": -41.600123
+  },
+  {
+    "Postcode": 7301,
+    "Locality": "BLACKWOOD CREEK",
+    "State": "TAS",
+    "Longitude": 147.046481,
+    "Latitude": -41.600123
+  },
+  {
+    "Postcode": 7301,
+    "Locality": "LIFFEY",
+    "State": "TAS",
+    "Longitude": 147.046481,
+    "Latitude": -41.600123
+  },
+  {
+    "Postcode": 7301,
+    "Locality": "LONGFORD",
+    "State": "TAS",
+    "Longitude": 147.046481,
+    "Latitude": -41.600123
+  },
+  {
+    "Postcode": 7301,
+    "Locality": "TOIBERRY",
+    "State": "TAS",
+    "Longitude": 147.046481,
+    "Latitude": -41.600123
+  },
+  {
+    "Postcode": 7302,
+    "Locality": "BRACKNELL",
+    "State": "TAS",
+    "Longitude": 146.988293,
+    "Latitude": -41.70457
+  },
+  {
+    "Postcode": 7302,
+    "Locality": "CRESSY",
+    "State": "TAS",
+    "Longitude": 146.988293,
+    "Latitude": -41.70457
+  },
+  {
+    "Postcode": 7302,
+    "Locality": "POATINA",
+    "State": "TAS",
+    "Longitude": 146.988293,
+    "Latitude": -41.70457
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "BIRRALEE",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "CLUAN",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "EXTON",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "OAKS",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "OSMASTON",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "WESTBURY",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7303,
+    "Locality": "WHITEMORE",
+    "State": "TAS",
+    "Longitude": 146.815084,
+    "Latitude": -41.594913
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "BRANDUM",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "BREONA",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "CAVESIDE",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "CENTRAL PLATEAU",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "CHUDLEIGH",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "DAIRY PLAINS",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "DELORAINE",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "DOCTORS POINT",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "DUNORLAN",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "ELIZABETH TOWN",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "GOLDEN VALLEY",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "JACKEYS MARSH",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "KIMBERLEY",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "LIENA",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MAYBERRY",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MEANDER",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MERSEY FOREST",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MOLE CREEK",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MOLTEMA",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "MONTANA",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "NEEDLES",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "PARKHAM",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "QUAMBY BROOK",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "RED HILLS",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "REEDY MARSH",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "REYNOLDS NECK",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "WALLS OF JERUSALEM",
+    "State": "TAS",
+    "Longitude": 146.25261,
+    "Latitude": -41.90160572
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "WEEGENA",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "WEETAH",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7304,
+    "Locality": "WESTERN CREEK",
+    "State": "TAS",
+    "Longitude": 146.165998,
+    "Latitude": -41.710417
+  },
+  {
+    "Postcode": 7305,
+    "Locality": "MERSEYLEA",
+    "State": "TAS",
+    "Longitude": 146.412127,
+    "Latitude": -41.352322
+  },
+  {
+    "Postcode": 7305,
+    "Locality": "RAILTON",
+    "State": "TAS",
+    "Longitude": 146.412127,
+    "Latitude": -41.352322
+  },
+  {
+    "Postcode": 7305,
+    "Locality": "SUNNYSIDE",
+    "State": "TAS",
+    "Longitude": 146.412127,
+    "Latitude": -41.352322
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "ACACIA HILLS",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "BARRINGTON",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "BEULAH",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "CETHANA",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "CLAUDE ROAD",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "CRADLE MOUNTAIN",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "GOWRIE PARK",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "LORINNA",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "LOWER BARRINGTON",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "LOWER BEULAH",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "MIDDLESEX",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "MOUNT ROLAND",
+    "State": "TAS",
+    "Longitude": 146.2497639,
+    "Latitude": -41.50002926
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "NOOK",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "NOWHERE ELSE",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "PARADISE",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "PROMISED LAND",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "ROLAND",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "SHEFFIELD",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "STAVERTON",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "STOODLEY",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7306,
+    "Locality": "WEST KENTISH",
+    "State": "TAS",
+    "Longitude": 146.193428,
+    "Latitude": -41.465311
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "BAKERS BEACH",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "HARFORD",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "HAWLEY BEACH",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "LATROBE",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "MORIARTY",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "NORTHDOWN",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "PORT SORELL",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "SASSAFRAS",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "SHEARWATER",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "SQUEAKING POINT",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "THIRLSTANE",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7307,
+    "Locality": "WESLEY VALE",
+    "State": "TAS",
+    "Longitude": 146.57356,
+    "Latitude": -41.210495
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "ABERDEEN",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "AMBLESIDE",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "DEVONPORT",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "DON",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "EAST DEVONPORT",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "ERRIBA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "EUGENANA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "FORTH",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "FORTHSIDE",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "KINDRED",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "LILLICO",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "LOWER WILMOT",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "MELROSE",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "MIANDETTA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "MOINA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "PALOONA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "QUOIBA",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "SOUTH SPREYTON",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "SPREYTON",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "STONY RISE",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "TARLETON",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "TUGRAH",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "WEST DEVONPORT",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7310,
+    "Locality": "WILMOT",
+    "State": "TAS",
+    "Longitude": 146.239406,
+    "Latitude": -41.237355
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "ABBOTSHAM",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "CASTRA",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "GAWLER",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "GUNNS PLAINS",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "LEITH",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "LOONGANA",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "NIETTA",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "NORTH MOTTON",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "PRESTON",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "SOUTH NIETTA",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "SOUTH PRESTON",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "SPALFORD",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "SPRENT",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "TURNERS BEACH",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "ULVERSTONE",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "UPPER CASTRA",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7315,
+    "Locality": "WEST ULVERSTONE",
+    "State": "TAS",
+    "Longitude": 146.072407,
+    "Latitude": -41.303174
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "CAMENA",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "CUPRONA",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "HEYBRIDGE",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "HOWTH",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "LOYETEA",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "PENGUIN",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "PRESERVATION BAY",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "RIANA",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "SOUTH RIANA",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "SULPHUR CREEK",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7316,
+    "Locality": "WEST PINE",
+    "State": "TAS",
+    "Longitude": 145.931776,
+    "Latitude": -41.269708
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "ACTON",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "BROOKLYN",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "BURNIE",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "CAMDALE",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "COOEE",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "DOWNLANDS",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "EMU HEIGHTS",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "HAVENVIEW",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "HILLCREST",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "MONTELLO",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "OCEAN VISTA",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "PARK GROVE",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "PARKLANDS",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "ROMAINE",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  },
+  {
+    "Postcode": 7320,
+    "Locality": "ROUND HILL",
+    "State": "TAS",
+    "Longitude": 145.862079,
+    "Latitude": -41.08422
+  }
+ ]

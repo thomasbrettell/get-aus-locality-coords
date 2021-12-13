@@ -1,0 +1,2732 @@
+[
+  {
+    "Postcode": 800,
+    "Locality": "DARWIN",
+    "State": "NT",
+    "Longitude": 130.83668,
+    "Latitude": -12.458684
+  },
+  {
+    "Postcode": 801,
+    "Locality": "DARWIN",
+    "State": "NT",
+    "Longitude": 130.83668,
+    "Latitude": -12.458684
+  },
+  {
+    "Postcode": 804,
+    "Locality": "PARAP",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 810,
+    "Locality": "ALAWA",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "BRINKIN",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "CASUARINA",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "COCONUT GROVE",
+    "State": "NT",
+    "Longitude": 130.8502369,
+    "Latitude": -12.39614166
+  },
+  {
+    "Postcode": 810,
+    "Locality": "JINGILI",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "LEE POINT",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "LYONS",
+    "State": "NT",
+    "Longitude": 130.8885151,
+    "Latitude": -12.35911956
+  },
+  {
+    "Postcode": 810,
+    "Locality": "MILLNER",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "MOIL",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "MUIRHEAD",
+    "State": "NT",
+    "Longitude": 130.8959029,
+    "Latitude": -12.35811947
+  },
+  {
+    "Postcode": 810,
+    "Locality": "NAKARA",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "NIGHTCLIFF",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "RAPID CREEK",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "TIWI",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "WAGAMAN",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 810,
+    "Locality": "WANGURI",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 811,
+    "Locality": "CASUARINA",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 812,
+    "Locality": "ANULA",
+    "State": "NT",
+    "Longitude": 130.89047,
+    "Latitude": -12.39124885
+  },
+  {
+    "Postcode": 812,
+    "Locality": "BUFFALO CREEK",
+    "State": "NT",
+    "Longitude": 130.9209831,
+    "Latitude": -12.34638634
+  },
+  {
+    "Postcode": 812,
+    "Locality": "HOLMES",
+    "State": "NT",
+    "Longitude": 130.9268602,
+    "Latitude": -12.38479951
+  },
+  {
+    "Postcode": 812,
+    "Locality": "KARAMA",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "LEANYER",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "MALAK",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "MARRARA",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "NORTHLAKES",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "SANDERSON",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "WOODLEIGH GARDENS",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 812,
+    "Locality": "WULAGI",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 813,
+    "Locality": "SANDERSON",
+    "State": "NT",
+    "Longitude": 130.916098,
+    "Latitude": -12.404778
+  },
+  {
+    "Postcode": 814,
+    "Locality": "NIGHTCLIFF",
+    "State": "NT",
+    "Longitude": 130.866242,
+    "Latitude": -12.381806
+  },
+  {
+    "Postcode": 815,
+    "Locality": "CHARLES DARWIN UNIVERSITY",
+    "State": "NT",
+    "Longitude": 130.869,
+    "Latitude": -12.3718
+  },
+  {
+    "Postcode": 820,
+    "Locality": "BAGOT",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "BAYVIEW",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "CHARLES DARWIN",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "COONAWARRA",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "CULLEN BAY",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "DARWIN DC",
+    "State": "NT",
+    "Longitude": 130.8664593,
+    "Latitude": -12.4255956
+  },
+  {
+    "Postcode": 820,
+    "Locality": "DARWIN INTERNATIONAL AIRPORT",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "DARWIN MC",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "EAST POINT",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "EATON",
+    "State": "NT",
+    "Longitude": 130.880692,
+    "Latitude": -12.4123871
+  },
+  {
+    "Postcode": 820,
+    "Locality": "FANNIE BAY",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "LARRAKEYAH",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "LUDMILLA",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "PARAP",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "RAAF BASE DARWIN",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "STUART PARK",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "THE GARDENS",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "THE NARROWS",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "WINNELLIE",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 820,
+    "Locality": "WOOLNER",
+    "State": "NT",
+    "Longitude": 130.873315,
+    "Latitude": -12.428017
+  },
+  {
+    "Postcode": 821,
+    "Locality": "WINNELLIE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ACACIA HILLS",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ANGURUGU",
+    "State": "NT",
+    "Longitude": 136.4612078,
+    "Latitude": -13.98119125
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ANINDILYAKWA",
+    "State": "NT",
+    "Longitude": 136.5909616,
+    "Latitude": -13.91698485
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ANNIE RIVER",
+    "State": "NT",
+    "Longitude": 133.3848319,
+    "Latitude": -12.9305044
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BATHURST ISLAND",
+    "State": "NT",
+    "Longitude": 130.3496894,
+    "Latitude": -11.6035121
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BEES CREEK",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BELYUEN",
+    "State": "NT",
+    "Longitude": 130.6831805,
+    "Latitude": -12.53818467
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BLACK JUNGLE",
+    "State": "NT",
+    "Longitude": 131.1942977,
+    "Latitude": -12.50224007
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BLACKMORE",
+    "State": "NT",
+    "Longitude": 130.9175773,
+    "Latitude": -12.68983104
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BORDER STORE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BURRUNDIE",
+    "State": "NT",
+    "Longitude": 131.8449886,
+    "Latitude": -13.50171859
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BYNOE",
+    "State": "NT",
+    "Longitude": 130.6320309,
+    "Latitude": -12.79290292
+  },
+  {
+    "Postcode": 822,
+    "Locality": "BYNOE HARBOUR",
+    "State": "NT",
+    "Longitude": 130.5103483,
+    "Latitude": -12.62538633
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CAMP CREEK",
+    "State": "NT",
+    "Longitude": 130.9320173,
+    "Latitude": -13.17350435
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CHANNEL ISLAND",
+    "State": "NT",
+    "Longitude": 130.8605303,
+    "Latitude": -12.55219169
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CHARLES DARWIN",
+    "State": "NT",
+    "Longitude": 130.8766339,
+    "Latitude": -12.45079537
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CHARLOTTE",
+    "State": "NT",
+    "Longitude": 130.8116588,
+    "Latitude": -12.84045347
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CLARAVALE",
+    "State": "NT",
+    "Longitude": 131.4120025,
+    "Latitude": -14.5318367
+  },
+  {
+    "Postcode": 822,
+    "Locality": "COBOURG",
+    "State": "NT",
+    "Longitude": 132.1914189,
+    "Latitude": -11.34530652
+  },
+  {
+    "Postcode": 822,
+    "Locality": "COLLETT CREEK",
+    "State": "NT",
+    "Longitude": 130.9188279,
+    "Latitude": -12.90975469
+  },
+  {
+    "Postcode": 822,
+    "Locality": "COOMALIE CREEK",
+    "State": "NT",
+    "Longitude": 131.1688363,
+    "Latitude": -13.02119253
+  },
+  {
+    "Postcode": 822,
+    "Locality": "COX PENINSULA",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "CROKER ISLAND",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "DALY RIVER",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "DARWIN MC",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "DARWIN RIVER DAM",
+    "State": "NT",
+    "Longitude": 131.038648,
+    "Latitude": -12.91652424
+  },
+  {
+    "Postcode": 822,
+    "Locality": "DELISSAVILLE",
+    "State": "NT",
+    "Longitude": 130.995425,
+    "Latitude": -12.505532
+  },
+  {
+    "Postcode": 822,
+    "Locality": "DOUGLAS-DALY",
+    "State": "NT",
+    "Longitude": 131.48274,
+    "Latitude": -13.81785615
+  },
+  {
+    "Postcode": 822,
+    "Locality": "EAST ARM",
+    "State": "NT",
+    "Longitude": 130.9027533,
+    "Latitude": -12.48005564
+  },
+  {
+    "Postcode": 822,
+    "Locality": "EAST ARNHEM",
+    "State": "NT",
+    "Longitude": 136.4330338,
+    "Latitude": -12.44602304
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ELRUNDIE",
+    "State": "NT",
+    "Longitude": 130.940905,
+    "Latitude": -12.48861681
+  },
+  {
+    "Postcode": 822,
+    "Locality": "EVA VALLEY",
+    "State": "NT",
+    "Longitude": 131.0031474,
+    "Latitude": -13.12725377
+  },
+  {
+    "Postcode": 822,
+    "Locality": "FINNISS VALLEY",
+    "State": "NT",
+    "Longitude": 130.9517827,
+    "Latitude": -13.06448685
+  },
+  {
+    "Postcode": 822,
+    "Locality": "FLY CREEK",
+    "State": "NT",
+    "Longitude": 131.0700157,
+    "Latitude": -12.79587253
+  },
+  {
+    "Postcode": 822,
+    "Locality": "FREDS PASS",
+    "State": "NT",
+    "Longitude": 131.0515258,
+    "Latitude": -12.53862952
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GALIWINKU",
+    "State": "NT",
+    "Longitude": 135.5864427,
+    "Latitude": -12.00777086
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GLYDE POINT",
+    "State": "NT",
+    "Longitude": 131.0799794,
+    "Latitude": -12.17971082
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GOULBOURN ISLAND",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GOULBURN ISLAND",
+    "State": "NT",
+    "Longitude": 133.4548484,
+    "Latitude": -11.4973068
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GUNBALANYA",
+    "State": "NT",
+    "Longitude": 133.0492311,
+    "Latitude": -12.34692447
+  },
+  {
+    "Postcode": 822,
+    "Locality": "GUNN POINT",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "HAYES CREEK",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "HIDDEN VALLEY",
+    "State": "NT",
+    "Longitude": 130.9036719,
+    "Latitude": -12.45024526
+  },
+  {
+    "Postcode": 822,
+    "Locality": "HOTHAM",
+    "State": "NT",
+    "Longitude": 131.4058522,
+    "Latitude": -12.34404225
+  },
+  {
+    "Postcode": 822,
+    "Locality": "HUGHES",
+    "State": "NT",
+    "Longitude": 131.1007772,
+    "Latitude": -12.68638471
+  },
+  {
+    "Postcode": 822,
+    "Locality": "KAKADU",
+    "State": "NT",
+    "Longitude": 132.4751149,
+    "Latitude": -12.8662473
+  },
+  {
+    "Postcode": 822,
+    "Locality": "KOOLPINYAH",
+    "State": "NT",
+    "Longitude": 131.2102168,
+    "Latitude": -12.37090569
+  },
+  {
+    "Postcode": 822,
+    "Locality": "LAKE BENNETT",
+    "State": "NT",
+    "Longitude": 131.1944707,
+    "Latitude": -12.93083352
+  },
+  {
+    "Postcode": 822,
+    "Locality": "LAMBELLS LAGOON",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "LITCHFIELD PARK",
+    "State": "NT",
+    "Longitude": 130.8462398,
+    "Latitude": -13.25317338
+  },
+  {
+    "Postcode": 822,
+    "Locality": "LIVINGSTONE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "LLOYD CREEK",
+    "State": "NT",
+    "Longitude": 131.1457668,
+    "Latitude": -12.66634037
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MANDORAH",
+    "State": "NT",
+    "Longitude": 130.7615787,
+    "Latitude": -12.44295777
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MANINGRIDA",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MARANUNGA",
+    "State": "NT",
+    "Longitude": 130.7085705,
+    "Latitude": -13.70834554
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MARGARET RIVER",
+    "State": "NT",
+    "Longitude": 131.3574052,
+    "Latitude": -13.19932137
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MCMINNS LAGOON",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MICKETT CREEK",
+    "State": "NT",
+    "Longitude": 130.951697,
+    "Latitude": -12.379529
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MIDDLE POINT",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MILINGIMBI",
+    "State": "NT",
+    "Longitude": 134.9172943,
+    "Latitude": -12.10344037
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MILLWOOD",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MILYAKBURRA",
+    "State": "NT",
+    "Longitude": 136.202001,
+    "Latitude": -13.77934879
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MINJILANG",
+    "State": "NT",
+    "Longitude": 132.5724813,
+    "Latitude": -11.14470594
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MOUNT BUNDEY",
+    "State": "NT",
+    "Longitude": 131.751956,
+    "Latitude": -13.02955913
+  },
+  {
+    "Postcode": 822,
+    "Locality": "MURRUMUJUK",
+    "State": "NT",
+    "Longitude": 131.0779057,
+    "Latitude": -12.29096291
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NAUIYU",
+    "State": "NT",
+    "Longitude": 130.7310542,
+    "Latitude": -13.72157548
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NEMARLUK",
+    "State": "NT",
+    "Longitude": 130.4543865,
+    "Latitude": -14.62289167
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NGANMARRIYANGA",
+    "State": "NT",
+    "Longitude": 129.8834932,
+    "Latitude": -14.33497868
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NGUIU",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NUMBULWAR",
+    "State": "NT",
+    "Longitude": 135.727696,
+    "Latitude": -14.28113146
+  },
+  {
+    "Postcode": 822,
+    "Locality": "NUMBURINDI",
+    "State": "NT",
+    "Longitude": 135.7946389,
+    "Latitude": -13.95994028
+  },
+  {
+    "Postcode": 822,
+    "Locality": "OENPELLI",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "PEPPIMENARTI",
+    "State": "NT",
+    "Longitude": 130.082796,
+    "Latitude": -14.1456977
+  },
+  {
+    "Postcode": 822,
+    "Locality": "PIRLANGIMPI",
+    "State": "NT",
+    "Longitude": 130.4214678,
+    "Latitude": -11.39026066
+  },
+  {
+    "Postcode": 822,
+    "Locality": "POINT STEPHENS",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "POINT STUART",
+    "State": "NT",
+    "Longitude": 131.8321645,
+    "Latitude": -12.54034189
+  },
+  {
+    "Postcode": 822,
+    "Locality": "PULARUMPI",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "PULUMPA",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "RAKULA",
+    "State": "NT",
+    "Longitude": 130.3707089,
+    "Latitude": -13.05159634
+  },
+  {
+    "Postcode": 822,
+    "Locality": "RAMINGINING",
+    "State": "NT",
+    "Longitude": 134.9259152,
+    "Latitude": -12.32899612
+  },
+  {
+    "Postcode": 822,
+    "Locality": "ROBIN FALLS",
+    "State": "NT",
+    "Longitude": 131.1214742,
+    "Latitude": -13.38650542
+  },
+  {
+    "Postcode": 822,
+    "Locality": "RUM JUNGLE",
+    "State": "NT",
+    "Longitude": 131.0198663,
+    "Latitude": -12.99988524
+  },
+  {
+    "Postcode": 822,
+    "Locality": "SANDPALMS ROADHOUSE",
+    "State": "NT",
+    "Longitude": 133.3848319,
+    "Latitude": -12.9305044
+  },
+  {
+    "Postcode": 822,
+    "Locality": "SOUTHPORT",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "STAPLETON",
+    "State": "NT",
+    "Longitude": 131.0258358,
+    "Latitude": -13.18414806
+  },
+  {
+    "Postcode": 822,
+    "Locality": "THAMARRURR",
+    "State": "NT",
+    "Longitude": 129.6399677,
+    "Latitude": -14.20132457
+  },
+  {
+    "Postcode": 822,
+    "Locality": "TIPPERARY",
+    "State": "NT",
+    "Longitude": 130.619275,
+    "Latitude": -14.03882235
+  },
+  {
+    "Postcode": 822,
+    "Locality": "TIVENDALE",
+    "State": "NT",
+    "Longitude": 130.9502272,
+    "Latitude": -12.46528731
+  },
+  {
+    "Postcode": 822,
+    "Locality": "TIWI ISLANDS",
+    "State": "NT",
+    "Longitude": 131.1875059,
+    "Latitude": -11.51399925
+  },
+  {
+    "Postcode": 822,
+    "Locality": "TORTILLA FLATS",
+    "State": "NT",
+    "Longitude": 131.1778852,
+    "Latitude": -13.08686447
+  },
+  {
+    "Postcode": 822,
+    "Locality": "TUMBLING WATERS",
+    "State": "NT",
+    "Longitude": 130.9609622,
+    "Latitude": -12.75687265
+  },
+  {
+    "Postcode": 822,
+    "Locality": "UMBAKUMBA",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "VERNON ISLANDS",
+    "State": "NT",
+    "Longitude": 131.0936969,
+    "Latitude": -12.05953061
+  },
+  {
+    "Postcode": 822,
+    "Locality": "VIRGINIA",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WADEYE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WAGAIT BEACH",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WAK WAK",
+    "State": "NT",
+    "Longitude": 131.236971,
+    "Latitude": -12.66325075
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WARRUWI",
+    "State": "NT",
+    "Longitude": 133.3782542,
+    "Latitude": -11.65786276
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WEDDELL",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WEST ARNHEM",
+    "State": "NT",
+    "Longitude": 133.6471255,
+    "Latitude": -12.25508592
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WICKHAM",
+    "State": "NT",
+    "Longitude": 130.9100115,
+    "Latitude": -12.54731927
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WINNELLIE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WISHART",
+    "State": "NT",
+    "Longitude": 130.9321025,
+    "Latitude": -12.45712713
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WOOLANING",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 822,
+    "Locality": "WURRUMIYANGA",
+    "State": "NT",
+    "Longitude": 130.6254299,
+    "Latitude": -11.75841975
+  },
+  {
+    "Postcode": 828,
+    "Locality": "BERRIMAH",
+    "State": "NT",
+    "Longitude": 130.932068,
+    "Latitude": -12.432024
+  },
+  {
+    "Postcode": 828,
+    "Locality": "KNUCKEY LAGOON",
+    "State": "NT",
+    "Longitude": 130.932068,
+    "Latitude": -12.432024
+  },
+  {
+    "Postcode": 829,
+    "Locality": "PINELANDS",
+    "State": "NT",
+    "Longitude": 130.9597671,
+    "Latitude": -12.45763297
+  },
+  {
+    "Postcode": 830,
+    "Locality": "ARCHER",
+    "State": "NT",
+    "Longitude": 130.9580765,
+    "Latitude": -12.52139649
+  },
+  {
+    "Postcode": 830,
+    "Locality": "DRIVER",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "DURACK",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "FARRAR",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "GRAY",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "MARLOW LAGOON",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "MOULDEN",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "PALMERSTON",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "SHOAL BAY",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "WOODROFFE",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 830,
+    "Locality": "YARRAWONGA",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 831,
+    "Locality": "PALMERSTON",
+    "State": "NT",
+    "Longitude": 130.974879,
+    "Latitude": -12.475071
+  },
+  {
+    "Postcode": 832,
+    "Locality": "BAKEWELL",
+    "State": "NT",
+    "Longitude": 130.9936551,
+    "Latitude": -12.49684676
+  },
+  {
+    "Postcode": 832,
+    "Locality": "BELLAMACK",
+    "State": "NT",
+    "Longitude": 130.9830307,
+    "Latitude": -12.51562954
+  },
+  {
+    "Postcode": 832,
+    "Locality": "GUNN",
+    "State": "NT",
+    "Longitude": 130.957712,
+    "Latitude": -12.502817
+  },
+  {
+    "Postcode": 832,
+    "Locality": "JOHNSTON",
+    "State": "NT",
+    "Longitude": 131.0063506,
+    "Latitude": -12.49297483
+  },
+  {
+    "Postcode": 832,
+    "Locality": "MITCHELL",
+    "State": "NT",
+    "Longitude": 130.957712,
+    "Latitude": -12.502817
+  },
+  {
+    "Postcode": 832,
+    "Locality": "ROSEBERY",
+    "State": "NT",
+    "Longitude": 130.957712,
+    "Latitude": -12.502817
+  },
+  {
+    "Postcode": 832,
+    "Locality": "ROSEBERY HEIGHTS",
+    "State": "NT",
+    "Longitude": 130.957712,
+    "Latitude": -12.502817
+  },
+  {
+    "Postcode": 832,
+    "Locality": "ZUCCOLI",
+    "State": "NT",
+    "Longitude": 131.0058233,
+    "Latitude": -12.51070433
+  },
+  {
+    "Postcode": 834,
+    "Locality": "VIRGINIA",
+    "State": "NT",
+    "Longitude": 131.0234875,
+    "Latitude": -12.54686461
+  },
+  {
+    "Postcode": 835,
+    "Locality": "Coolalinga",
+    "State": "NT",
+    "Longitude": 131.0415,
+    "Latitude": -12.5231
+  },
+  {
+    "Postcode": 835,
+    "Locality": "HOWARD SPRINGS",
+    "State": "NT",
+    "Longitude": 131.013741,
+    "Latitude": -12.452568
+  },
+  {
+    "Postcode": 835,
+    "Locality": "VIRGINIA",
+    "State": "NT",
+    "Longitude": 131.013741,
+    "Latitude": -12.452568
+  },
+  {
+    "Postcode": 836,
+    "Locality": "HERBERT",
+    "State": "NT",
+    "Longitude": 131.100668,
+    "Latitude": -12.557754
+  },
+  {
+    "Postcode": 836,
+    "Locality": "HUMPTY DOO",
+    "State": "NT",
+    "Longitude": 131.1272564,
+    "Latitude": -12.58487247
+  },
+  {
+    "Postcode": 837,
+    "Locality": "MANTON",
+    "State": "NT",
+    "Longitude": 131.016647,
+    "Latitude": -12.704767
+  },
+  {
+    "Postcode": 837,
+    "Locality": "NOONAMAH",
+    "State": "NT",
+    "Longitude": 131.094044,
+    "Latitude": -12.64187171
+  },
+  {
+    "Postcode": 838,
+    "Locality": "BERRY SPRINGS",
+    "State": "NT",
+    "Longitude": 131.0067348,
+    "Latitude": -12.71878122
+  },
+  {
+    "Postcode": 839,
+    "Locality": "COOLALINGA",
+    "State": "NT",
+    "Longitude": 131.0402017,
+    "Latitude": -12.52001124
+  },
+  {
+    "Postcode": 840,
+    "Locality": "DUNDEE BEACH",
+    "State": "NT",
+    "Longitude": 130.3529386,
+    "Latitude": -12.72451307
+  },
+  {
+    "Postcode": 840,
+    "Locality": "DUNDEE DOWNS",
+    "State": "NT",
+    "Longitude": 130.5109414,
+    "Latitude": -12.76554875
+  },
+  {
+    "Postcode": 840,
+    "Locality": "DUNDEE FOREST",
+    "State": "NT",
+    "Longitude": 130.4518371,
+    "Latitude": -12.71366907
+  },
+  {
+    "Postcode": 841,
+    "Locality": "DARWIN RIVER",
+    "State": "NT",
+    "Longitude": 130.969862,
+    "Latitude": -12.81922863
+  },
+  {
+    "Postcode": 845,
+    "Locality": "BATCHELOR",
+    "State": "NT",
+    "Longitude": 131.038475,
+    "Latitude": -13.045118
+  },
+  {
+    "Postcode": 846,
+    "Locality": "ADELAIDE RIVER",
+    "State": "NT",
+    "Longitude": 131.095002,
+    "Latitude": -13.210299
+  },
+  {
+    "Postcode": 847,
+    "Locality": "PINE CREEK",
+    "State": "NT",
+    "Longitude": 131.759154,
+    "Latitude": -14.012122
+  },
+  {
+    "Postcode": 850,
+    "Locality": "COSSACK",
+    "State": "NT",
+    "Longitude": 132.1721041,
+    "Latitude": -14.46369137
+  },
+  {
+    "Postcode": 850,
+    "Locality": "EMUNGALAN",
+    "State": "NT",
+    "Longitude": 132.2418315,
+    "Latitude": -14.4161067
+  },
+  {
+    "Postcode": 850,
+    "Locality": "KATHERINE",
+    "State": "NT",
+    "Longitude": 132.365352,
+    "Latitude": -14.195911
+  },
+  {
+    "Postcode": 850,
+    "Locality": "KATHERINE EAST",
+    "State": "NT",
+    "Longitude": 132.2874375,
+    "Latitude": -14.46576308
+  },
+  {
+    "Postcode": 850,
+    "Locality": "KATHERINE SOUTH",
+    "State": "NT",
+    "Longitude": 132.2598385,
+    "Latitude": -14.48180579
+  },
+  {
+    "Postcode": 850,
+    "Locality": "LANSDOWNE",
+    "State": "NT",
+    "Longitude": 132.3888705,
+    "Latitude": -14.43162875
+  },
+  {
+    "Postcode": 851,
+    "Locality": "KATHERINE",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "ARNOLD",
+    "State": "NT",
+    "Longitude": 134.3769898,
+    "Latitude": -16.07839
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BAINES",
+    "State": "NT",
+    "Longitude": 129.4842959,
+    "Latitude": -15.90897497
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BARUNGA",
+    "State": "NT",
+    "Longitude": 132.8673924,
+    "Latitude": -14.52664756
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BESWICK",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BESWICK CREEK",
+    "State": "NT",
+    "Longitude": 133.3001701,
+    "Latitude": -14.43207837
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BINJARI",
+    "State": "NT",
+    "Longitude": 132.1841678,
+    "Latitude": -14.5501072
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BIRDUM",
+    "State": "NT",
+    "Longitude": 133.5378622,
+    "Latitude": -16.23196977
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BRADSHAW",
+    "State": "NT",
+    "Longitude": 130.534439,
+    "Latitude": -15.09737856
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BUCHANAN",
+    "State": "NT",
+    "Longitude": 129.6208296,
+    "Latitude": -17.80951107
+  },
+  {
+    "Postcode": 852,
+    "Locality": "BULMAN WEEMOL",
+    "State": "NT",
+    "Longitude": 134.3037985,
+    "Latitude": -13.65022603
+  },
+  {
+    "Postcode": 852,
+    "Locality": "CRESWELL",
+    "State": "NT",
+    "Longitude": 135.8076202,
+    "Latitude": -17.82741422
+  },
+  {
+    "Postcode": 852,
+    "Locality": "DAGURAGU",
+    "State": "NT",
+    "Longitude": 130.8021087,
+    "Latitude": -17.41926848
+  },
+  {
+    "Postcode": 852,
+    "Locality": "DALY WATERS",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "DELAMERE",
+    "State": "NT",
+    "Longitude": 131.6691884,
+    "Latitude": -15.4019318
+  },
+  {
+    "Postcode": 852,
+    "Locality": "DUNMARRA",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "EDITH",
+    "State": "NT",
+    "Longitude": 131.8172473,
+    "Latitude": -13.99360017
+  },
+  {
+    "Postcode": 852,
+    "Locality": "EDITH RIVER",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "ELSEY",
+    "State": "NT",
+    "Longitude": 133.546834,
+    "Latitude": -15.07384438
+  },
+  {
+    "Postcode": 852,
+    "Locality": "ELSEY STATION",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "FLORINA",
+    "State": "NT",
+    "Longitude": 131.9083299,
+    "Latitude": -14.5152899
+  },
+  {
+    "Postcode": 852,
+    "Locality": "FLYING FOX",
+    "State": "NT",
+    "Longitude": 134.1976975,
+    "Latitude": -14.15932656
+  },
+  {
+    "Postcode": 852,
+    "Locality": "GREGORY",
+    "State": "NT",
+    "Longitude": 130.3336523,
+    "Latitude": -16.34525224
+  },
+  {
+    "Postcode": 852,
+    "Locality": "GULUNG MARDRULK",
+    "State": "NT",
+    "Longitude": 133.5636211,
+    "Latitude": -13.53798419
+  },
+  {
+    "Postcode": 852,
+    "Locality": "GURINDJI",
+    "State": "NT",
+    "Longitude": 131.0885202,
+    "Latitude": -18.22634802
+  },
+  {
+    "Postcode": 852,
+    "Locality": "HELEN SPRINGS STATION",
+    "State": "NT",
+    "Longitude": 0,
+    "Latitude": 0
+  },
+  {
+    "Postcode": 852,
+    "Locality": "JILKMINGGAN",
+    "State": "NT",
+    "Longitude": 133.292842,
+    "Latitude": -14.96147762
+  },
+  {
+    "Postcode": 852,
+    "Locality": "KALKARINDJI",
+    "State": "NT",
+    "Longitude": 130.832639,
+    "Latitude": -17.44449505
+  },
+  {
+    "Postcode": 852,
+    "Locality": "KALKARINGI",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "KATHERINE",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "LAJAMANU",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "LARRIMAH",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "LIMMEN",
+    "State": "NT",
+    "Longitude": 134.936628,
+    "Latitude": -15.104596
+  },
+  {
+    "Postcode": 852,
+    "Locality": "MANBULLOO",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "MARANBOY",
+    "State": "NT",
+    "Longitude": 132.864374,
+    "Latitude": -14.524609
+  },
+  {
+    "Postcode": 852,
+    "Locality": "MATARANKA",
+    "State": "NT",
+    "Longitude": 133.0434117,
+    "Latitude": -14.96983009
+  },
+  {
+    "Postcode": 852,
+    "Locality": "MCARTHUR",
+    "State": "NT",
+    "Longitude": 135.9389164,
+    "Latitude": -16.26282987
+  },
+  {
+    "Postcode": 852,
+    "Locality": "MINIYERI",
+    "State": "NT",
+    "Longitude": 134.0797817,
+    "Latitude": -15.2254374
+  },
+  {
+    "Postcode": 852,
+    "Locality": "NGUKURR",
+    "State": "NT",
+    "Longitude": 134.7440734,
+    "Latitude": -14.73158731
+  },
+  {
+    "Postcode": 852,
+    "Locality": "NITMILUK",
+    "State": "NT",
+    "Longitude": 132.5362579,
+    "Latitude": -14.11434123
+  },
+  {
+    "Postcode": 852,
+    "Locality": "NUMBULWAR",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "PELLEW ISLANDS",
+    "State": "NT",
+    "Longitude": 136.8142529,
+    "Latitude": -15.66080497
+  },
+  {
+    "Postcode": 852,
+    "Locality": "PIGEON HOLE",
+    "State": "NT",
+    "Longitude": 131.215146,
+    "Latitude": -16.79514658
+  },
+  {
+    "Postcode": 852,
+    "Locality": "ROBINSON RIVER",
+    "State": "NT",
+    "Longitude": 136.9827659,
+    "Latitude": -16.75852817
+  },
+  {
+    "Postcode": 852,
+    "Locality": "STURT PLATEAU",
+    "State": "NT",
+    "Longitude": 132.6120699,
+    "Latitude": -15.65938858
+  },
+  {
+    "Postcode": 852,
+    "Locality": "TANAMI EAST",
+    "State": "NT",
+    "Longitude": 132.7009096,
+    "Latitude": -18.61662725
+  },
+  {
+    "Postcode": 852,
+    "Locality": "TIMBER CREEK",
+    "State": "NT",
+    "Longitude": 130.4960315,
+    "Latitude": -15.66155041
+  },
+  {
+    "Postcode": 852,
+    "Locality": "TOP SPRINGS",
+    "State": "NT",
+    "Longitude": 131.8014849,
+    "Latitude": -16.54851117
+  },
+  {
+    "Postcode": 852,
+    "Locality": "URALLA",
+    "State": "NT",
+    "Longitude": 132.2980338,
+    "Latitude": -14.49121431
+  },
+  {
+    "Postcode": 852,
+    "Locality": "VENN",
+    "State": "NT",
+    "Longitude": 132.539518,
+    "Latitude": -14.55560838
+  },
+  {
+    "Postcode": 852,
+    "Locality": "VICTORIA RIVER",
+    "State": "NT",
+    "Longitude": 131.5356628,
+    "Latitude": -16.66340592
+  },
+  {
+    "Postcode": 852,
+    "Locality": "VICTORIA RIVER DOWNS",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "WARUMUNGU",
+    "State": "NT",
+    "Longitude": 133.952899,
+    "Latitude": -20.02830877
+  },
+  {
+    "Postcode": 852,
+    "Locality": "WAVE HILL",
+    "State": "NT",
+    "Longitude": 137.050719,
+    "Latitude": -15.711424
+  },
+  {
+    "Postcode": 852,
+    "Locality": "WILTON",
+    "State": "NT",
+    "Longitude": 134.9242872,
+    "Latitude": -14.43717242
+  },
+  {
+    "Postcode": 852,
+    "Locality": "YARRALIN",
+    "State": "NT",
+    "Longitude": 130.8418661,
+    "Latitude": -16.4525888
+  },
+  {
+    "Postcode": 853,
+    "Locality": "TINDAL",
+    "State": "NT",
+    "Longitude": 132.3791217,
+    "Latitude": -14.53113365
+  },
+  {
+    "Postcode": 853,
+    "Locality": "TINDAL RAAF",
+    "State": "NT",
+    "Longitude": 132.417121,
+    "Latitude": -14.558122
+  },
+  {
+    "Postcode": 854,
+    "Locality": "BORROLOOLA",
+    "State": "NT",
+    "Longitude": 136.424191,
+    "Latitude": -16.503809
+  },
+  {
+    "Postcode": 854,
+    "Locality": "KING ASH BAY",
+    "State": "NT",
+    "Longitude": 136.3091159,
+    "Latitude": -16.070754
+  },
+  {
+    "Postcode": 860,
+    "Locality": "TENNANT CREEK",
+    "State": "NT",
+    "Longitude": 134.173599,
+    "Latitude": -19.641301
+  },
+  {
+    "Postcode": 861,
+    "Locality": "BRUNCHILLY",
+    "State": "NT",
+    "Longitude": 134.500504,
+    "Latitude": -18.874571
+  },
+  {
+    "Postcode": 861,
+    "Locality": "TENNANT CREEK",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "AVON DOWNS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "CALVERT",
+    "State": "NT",
+    "Longitude": 137.4667145,
+    "Latitude": -16.79698963
+  },
+  {
+    "Postcode": 862,
+    "Locality": "CRESSWELL DOWNS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "ELLIOTT",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "HELEN SPRINGS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "MUCKATY STATION",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "NEWCASTLE WATERS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "NICHOLSON",
+    "State": "NT",
+    "Longitude": 137.6072968,
+    "Latitude": -18.45128815
+  },
+  {
+    "Postcode": 862,
+    "Locality": "PAMAYU",
+    "State": "NT",
+    "Longitude": 134.055559,
+    "Latitude": -17.60786065
+  },
+  {
+    "Postcode": 862,
+    "Locality": "PHILLIP CREEK STATION",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "RENNER SPRINGS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "TABLELANDS",
+    "State": "NT",
+    "Longitude": 135.5134605,
+    "Latitude": -18.92862068
+  },
+  {
+    "Postcode": 862,
+    "Locality": "TENNANT CREEK",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "THREE WAYS",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "WARREGO",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "WOLLOGORANG STATION",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 862,
+    "Locality": "WYCLIFFE WELL",
+    "State": "NT",
+    "Longitude": 134.463153,
+    "Latitude": -18.251528
+  },
+  {
+    "Postcode": 870,
+    "Locality": "ALICE SPRINGS",
+    "State": "NT",
+    "Longitude": 133.86314,
+    "Latitude": -23.702291
+  },
+  {
+    "Postcode": 870,
+    "Locality": "ARALUEN",
+    "State": "NT",
+    "Longitude": 133.853957,
+    "Latitude": -23.6967102
+  },
+  {
+    "Postcode": 870,
+    "Locality": "BRAITLING",
+    "State": "NT",
+    "Longitude": 133.8633044,
+    "Latitude": -23.67527346
+  },
+  {
+    "Postcode": 870,
+    "Locality": "CICCONE",
+    "State": "NT",
+    "Longitude": 133.8678028,
+    "Latitude": -23.69234565
+  },
+  {
+    "Postcode": 870,
+    "Locality": "DESERT SPRINGS",
+    "State": "NT",
+    "Longitude": 133.8867138,
+    "Latitude": -23.71460854
+  },
+  {
+    "Postcode": 870,
+    "Locality": "EAST SIDE",
+    "State": "NT",
+    "Longitude": 133.8971833,
+    "Latitude": -23.69030677
+  },
+  {
+    "Postcode": 870,
+    "Locality": "GILLEN",
+    "State": "NT",
+    "Longitude": 133.8660005,
+    "Latitude": -23.71080361
+  },
+  {
+    "Postcode": 870,
+    "Locality": "SADADEEN",
+    "State": "NT",
+    "Longitude": 133.9010002,
+    "Latitude": -23.70326702
+  },
+  {
+    "Postcode": 870,
+    "Locality": "STUART",
+    "State": "NT",
+    "Longitude": 133.8823863,
+    "Latitude": -23.6730301
+  },
+  {
+    "Postcode": 870,
+    "Locality": "THE GAP",
+    "State": "NT",
+    "Longitude": 133.8740968,
+    "Latitude": -23.71393895
+  },
+  {
+    "Postcode": 870,
+    "Locality": "WHITE GUMS",
+    "State": "NT",
+    "Longitude": 133.7578528,
+    "Latitude": -23.75188561
+  },
+  {
+    "Postcode": 871,
+    "Locality": "ALICE SPRINGS",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AHERRENGE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ALI CURUNG",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ALICE SPRINGS",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AMATA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AMOONGUNA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AMPILATWATJA",
+    "State": "NT",
+    "Longitude": 135.2469212,
+    "Latitude": -21.66430243
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ANATYE",
+    "State": "NT",
+    "Longitude": 136.9536687,
+    "Latitude": -22.99400232
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ANMATJERE",
+    "State": "NT",
+    "Longitude": 134.0970699,
+    "Latitude": -22.3989311
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ANTEWENEGERRDE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AREYONGA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ATITJERE",
+    "State": "NT",
+    "Longitude": 134.932556,
+    "Latitude": -22.98205755
+  },
+  {
+    "Postcode": 872,
+    "Locality": "AYERS ROCK",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "BARROW CREEK",
+    "State": "NT",
+    "Longitude": 133.975551,
+    "Latitude": -21.379898
+  },
+  {
+    "Postcode": 872,
+    "Locality": "BURT PLAIN",
+    "State": "NT",
+    "Longitude": 133.4488082,
+    "Latitude": -23.36823008
+  },
+  {
+    "Postcode": 872,
+    "Locality": "CANTEEN CREEK",
+    "State": "NT",
+    "Longitude": 135.586508,
+    "Latitude": -20.64026544
+  },
+  {
+    "Postcode": 872,
+    "Locality": "CHILLA WELL",
+    "State": "NT",
+    "Longitude": 131.3745808,
+    "Latitude": -21.64196866
+  },
+  {
+    "Postcode": 872,
+    "Locality": "COSTELLO",
+    "State": "NT",
+    "Longitude": 136.7750667,
+    "Latitude": -21.00078643
+  },
+  {
+    "Postcode": 872,
+    "Locality": "DAVENPORT",
+    "State": "NT",
+    "Longitude": 134.8291358,
+    "Latitude": -20.94859492
+  },
+  {
+    "Postcode": 872,
+    "Locality": "DOCKER RIVER",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ENGAWALA",
+    "State": "NT",
+    "Longitude": 134.4572304,
+    "Latitude": -22.80352884
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ERLDUNDA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "FINKE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "GHAN",
+    "State": "NT",
+    "Longitude": 133.945318,
+    "Latitude": -25.50869599
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HAASTS BLUFF",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HALE",
+    "State": "NT",
+    "Longitude": 134.965227,
+    "Latitude": -24.08113872
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HART",
+    "State": "NT",
+    "Longitude": 135.5988293,
+    "Latitude": -23.02087465
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HART RANGE",
+    "State": "NT",
+    "Longitude": 134.8333333,
+    "Latitude": -23.1666667
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HERMANNSBURG",
+    "State": "NT",
+    "Longitude": 132.7960098,
+    "Latitude": -23.93802519
+  },
+  {
+    "Postcode": 872,
+    "Locality": "HUGH",
+    "State": "NT",
+    "Longitude": 133.610012,
+    "Latitude": -24.11229981
+  },
+  {
+    "Postcode": 872,
+    "Locality": "IMAMPA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "IMANPA",
+    "State": "NT",
+    "Longitude": 132.5687636,
+    "Latitude": -25.1175562
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ININTI STORE",
+    "State": "NT",
+    "Longitude": 131.6138326,
+    "Latitude": -23.4686864
+  },
+  {
+    "Postcode": 872,
+    "Locality": "JAY CREEK",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "KALTUKATJARA",
+    "State": "NT",
+    "Longitude": 129.094528,
+    "Latitude": -24.87255301
+  },
+  {
+    "Postcode": 872,
+    "Locality": "KINTORE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "KULGERA",
+    "State": "NT",
+    "Longitude": 133.5,
+    "Latitude": -25.833333
+  },
+  {
+    "Postcode": 872,
+    "Locality": "KUNPARRKA",
+    "State": "NT",
+    "Longitude": 131.6609525,
+    "Latitude": -23.34766035
+  },
+  {
+    "Postcode": 872,
+    "Locality": "LAKE MACKAY",
+    "State": "NT",
+    "Longitude": 129.836553,
+    "Latitude": -22.56770511
+  },
+  {
+    "Postcode": 872,
+    "Locality": "LARAMBA",
+    "State": "NT",
+    "Longitude": 132.7623588,
+    "Latitude": -22.54343571
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MEREENIE",
+    "State": "NT",
+    "Longitude": 131.8260951,
+    "Latitude": -23.89506921
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MOUNT LIEBIG",
+    "State": "NT",
+    "Longitude": 131.2776674,
+    "Latitude": -23.26801669
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MOUNT ZEIL",
+    "State": "NT",
+    "Longitude": 132.3999432,
+    "Latitude": -23.30598045
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MULGA BORE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MURPUTJA HOMELANDS",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "MUTITJULU",
+    "State": "NT",
+    "Longitude": 131.0673597,
+    "Latitude": -25.35069546
+  },
+  {
+    "Postcode": 872,
+    "Locality": "NAMATJIRA",
+    "State": "NT",
+    "Longitude": 132.5066498,
+    "Latitude": -23.92272359
+  },
+  {
+    "Postcode": 872,
+    "Locality": "NYIRRIPI",
+    "State": "NT",
+    "Longitude": 130.5638643,
+    "Latitude": -22.64924233
+  },
+  {
+    "Postcode": 872,
+    "Locality": "PAPUNYA",
+    "State": "NT",
+    "Longitude": 131.9131315,
+    "Latitude": -23.20480045
+  },
+  {
+    "Postcode": 872,
+    "Locality": "PETERMANN",
+    "State": "NT",
+    "Longitude": 129.9128112,
+    "Latitude": -25.06768646
+  },
+  {
+    "Postcode": 872,
+    "Locality": "PITJANTJATJARA HOMELANDS",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "SANDOVER",
+    "State": "NT",
+    "Longitude": 135.4818322,
+    "Latitude": -21.98353618
+  },
+  {
+    "Postcode": 872,
+    "Locality": "SANTA TERESA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "SIMPSON",
+    "State": "NT",
+    "Longitude": 136.92241,
+    "Latitude": -25.0115767
+  },
+  {
+    "Postcode": 872,
+    "Locality": "TANAMI",
+    "State": "NT",
+    "Longitude": 130.5073968,
+    "Latitude": -20.02389415
+  },
+  {
+    "Postcode": 872,
+    "Locality": "TARA",
+    "State": "NT",
+    "Longitude": 133.9991919,
+    "Latitude": -21.48332153
+  },
+  {
+    "Postcode": 872,
+    "Locality": "THANGKENHARENGE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "TI TREE",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "TITJIKALA",
+    "State": "NT",
+    "Longitude": 134.0751086,
+    "Latitude": -24.68023025
+  },
+  {
+    "Postcode": 872,
+    "Locality": "ULURU",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "UMPANGARA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "URAPUNTJA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "WALLACE ROCKHOLE",
+    "State": "NT",
+    "Longitude": 133.0920217,
+    "Latitude": -24.12316757
+  },
+  {
+    "Postcode": 872,
+    "Locality": "WANARN",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "WILLOWRA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "WILORA",
+    "State": "NT",
+    "Longitude": 133.7264862,
+    "Latitude": -21.74429359
+  },
+  {
+    "Postcode": 872,
+    "Locality": "WUTUNUGURRA",
+    "State": "NT",
+    "Longitude": 135.2504879,
+    "Latitude": -20.46229972
+  },
+  {
+    "Postcode": 872,
+    "Locality": "YUELAMU",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "YUENDUMU",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 872,
+    "Locality": "YULARA",
+    "State": "NT",
+    "Longitude": 131.298809,
+    "Latitude": -21.949513
+  },
+  {
+    "Postcode": 873,
+    "Locality": "AMOONGUNA",
+    "State": "NT",
+    "Longitude": 133.9306532,
+    "Latitude": -23.76846799
+  },
+  {
+    "Postcode": 873,
+    "Locality": "ARUMBERA",
+    "State": "NT",
+    "Longitude": 133.8139564,
+    "Latitude": -23.7852622
+  },
+  {
+    "Postcode": 873,
+    "Locality": "CONNELLAN",
+    "State": "NT",
+    "Longitude": 133.9102463,
+    "Latitude": -23.80211632
+  },
+  {
+    "Postcode": 873,
+    "Locality": "ILPARPA",
+    "State": "NT",
+    "Longitude": 133.8226187,
+    "Latitude": -23.74240746
+  },
+  {
+    "Postcode": 873,
+    "Locality": "KILGARIFF",
+    "State": "NT",
+    "Longitude": 133.8848603,
+    "Latitude": -23.77047239
+  },
+  {
+    "Postcode": 873,
+    "Locality": "ROSS",
+    "State": "NT",
+    "Longitude": 133.9050112,
+    "Latitude": -23.74471408
+  },
+  {
+    "Postcode": 874,
+    "Locality": "IRLPME",
+    "State": "NT",
+    "Longitude": 133.8647591,
+    "Latitude": -23.64690294
+  },
+  {
+    "Postcode": 874,
+    "Locality": "MOUNT JOHNS",
+    "State": "NT",
+    "Longitude": 133.9123902,
+    "Latitude": -23.72335988
+  },
+  {
+    "Postcode": 874,
+    "Locality": "UNDOOLYA",
+    "State": "NT",
+    "Longitude": 133.9224797,
+    "Latitude": -23.68480339
+  },
+  {
+    "Postcode": 875,
+    "Locality": "FLYNN",
+    "State": "NT",
+    "Longitude": 133.8354205,
+    "Latitude": -23.71350386
+  },
+  {
+    "Postcode": 875,
+    "Locality": "LARAPINTA",
+    "State": "NT",
+    "Longitude": 133.8311794,
+    "Latitude": -23.68028355
+  },
+  {
+    "Postcode": 880,
+    "Locality": "GAPUWIYAK",
+    "State": "NT",
+    "Longitude": 135.7954286,
+    "Latitude": -12.50557433
+  },
+  {
+    "Postcode": 880,
+    "Locality": "GOVE",
+    "State": "NT",
+    "Longitude": 136.824863,
+    "Latitude": -11.670366
+  },
+  {
+    "Postcode": 880,
+    "Locality": "GUNYANGARA",
+    "State": "NT",
+    "Longitude": 136.7083085,
+    "Latitude": -12.21424182
+  },
+  {
+    "Postcode": 880,
+    "Locality": "NHULUNBUY",
+    "State": "NT",
+    "Longitude": 136.824863,
+    "Latitude": -11.670366
+  },
+  {
+    "Postcode": 880,
+    "Locality": "YIRRKALA",
+    "State": "NT",
+    "Longitude": 136.8772098,
+    "Latitude": -12.2425718
+  },
+  {
+    "Postcode": 881,
+    "Locality": "NHULUNBUY",
+    "State": "NT",
+    "Longitude": 136.824863,
+    "Latitude": -11.670366
+  },
+  {
+    "Postcode": 885,
+    "Locality": "ALYANGULA",
+    "State": "NT",
+    "Longitude": 136.420066,
+    "Latitude": -13.85078586
+  },
+  {
+    "Postcode": 886,
+    "Locality": "JABIRU",
+    "State": "NT",
+    "Longitude": 132.563373,
+    "Latitude": -13.13118
+  },
+  {
+    "Postcode": 906,
+    "Locality": "WINNELLIE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 907,
+    "Locality": "WINNELLIE",
+    "State": "NT",
+    "Longitude": 136.947051,
+    "Latitude": -13.643283
+  },
+  {
+    "Postcode": 909,
+    "Locality": "CHARLES DARWIN UNIVERSITY",
+    "State": "NT",
+    "Longitude": 130.869,
+    "Latitude": -12.3718
+  },
+  {
+    "Postcode": 4825,
+    "Locality": "RANKEN",
+    "State": "NT",
+    "Longitude": 137.3869421,
+    "Latitude": -20.00590952
+  }
+ ]
