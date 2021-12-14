@@ -1,0 +1,29 @@
+{
+  "name": "get-aus-locality-coords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasbrettell/get-aus-locality-coords.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasbrettell/get-aus-locality-coords/issues"
+  },
+  "homepage": "https://github.com/thomasbrettell/get-aus-locality-coords#readme",
+  "dependencies": {
+    "css-loader": "^6.5.1",
+    "d3": "^7.2.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
+}

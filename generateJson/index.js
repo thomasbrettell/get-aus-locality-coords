@@ -9,10 +9,13 @@ const NT = require('./NT.json');
 const ACT = require('./ACT.json');
 const TAS = require('./TAS.json');
 
+const SHOW_MISSING_DATA = false;
+
 const res = [];
 
 const findMatch = (state, el, i) => {
   let match;
+  el.id = i;
 
   match = state.find(
     (entry) => entry.Locality.toLowerCase() === el.Suburb.toLowerCase()
@@ -24,15 +27,17 @@ const findMatch = (state, el, i) => {
     );
   }
 
-  if (match) {
+  if (match && match.Latitude && match.Longitude) {
     el.lng = match.Longitude;
     el.lat = match.Latitude;
+    res.push(el);
   } else {
     el.lng = 'Missing longitude';
     el.lat = 'Missing latitude';
-    console.log('No coords.', el);
+    if (SHOW_MISSING_DATA) {
+      console.log('No coords.', el);
+    }
   }
-  res.push(el);
 };
 
 data.forEach((el, i) => {
@@ -62,8 +67,11 @@ data.forEach((el, i) => {
       findMatch(TAS, el, i);
       break;
     default:
-      console.log('No state.', el);
+      if (SHOW_MISSING_DATA) {
+        console.log('No state.', el);
+      }
   }
 });
 
+console.log(res);
 fs.writeFile('postcode-data.json', JSON.stringify(res), 'utf8', () => {});
