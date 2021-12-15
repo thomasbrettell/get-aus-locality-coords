@@ -2,8 +2,10 @@ import data from '../generateJson/postcode-data.json';
 import './index.css';
 import * as d3 from 'd3';
 
-const width = 600;
-const height = 400;
+console.log(data.length);
+
+const width = window.innerWidth - 200;
+const height = window.innerHeight - 200;
 const margin = {
   top: 20,
   right: 40,
@@ -19,10 +21,11 @@ const yVal = (dp) => dp.lat;
 const yScale = d3
   .scaleLinear()
   .domain(d3.extent(data, yVal))
-  .range([0, height]);
+  .range([height, 0]);
 
 const body = d3.select('body');
-const svg = body.append('svg').attr('transform', `translate(${100}, ${100})`);
+const root = body.append('div').attr('id', 'root');
+const svg = root.append('svg');
 svg.attr('height', height).attr('width', width);
 const g = svg.append('g');
 
@@ -30,10 +33,15 @@ g.selectAll('circle')
   .data(data)
   .enter()
   .append('circle')
-  .attr('r', 2)
+  .attr('r', 4)
   .attr('fill', 'red')
-  .attr('cx', (dp) => xScale(dp.lng))
   .attr('cy', (dp) => yScale(dp.lat))
-  .attr('data-index', (dp) => dp.id)
+  .attr('cx', (dp) => xScale(dp.lng))
+  .attr('data-lat', (dp) => dp.lat)
+  .attr('data-lng', (dp) => dp.lng)
+  .attr('data-id', (dp) => dp.id)
+  .attr('data-nn', (dp) => dp.nnId)
+  .attr('data-score', (dp) => dp.score)
+  .attr('data-state', (dp) => dp.State)
   .append('title')
-  .text((dp) => dp.Suburb);
+  .text((dp) => dp.id);

@@ -11,8 +11,6 @@ const TAS = require('./TAS.json');
 
 const SHOW_MISSING_DATA = false;
 
-const res = [];
-
 const findMatch = (state, el, i) => {
   let match;
   el.id = i;
@@ -30,7 +28,8 @@ const findMatch = (state, el, i) => {
   if (match && match.Latitude && match.Longitude) {
     el.lng = match.Longitude;
     el.lat = match.Latitude;
-    res.push(el);
+
+    return el;
   } else {
     el.lng = 'Missing longitude';
     el.lat = 'Missing latitude';
@@ -40,38 +39,66 @@ const findMatch = (state, el, i) => {
   }
 };
 
-data.forEach((el, i) => {
-  switch (el.State) {
-    case 'NSW':
-      findMatch(NSW, el, i);
-      break;
-    case 'QLD':
-      findMatch(QLD, el, i);
-      break;
-    case 'SA':
-      findMatch(SA, el, i);
-      break;
-    case 'VIC':
-      findMatch(VIC, el, i);
-      break;
-    case 'WA':
-      findMatch(WA, el, i);
-      break;
-    case 'NT':
-      findMatch(NT, el, i);
-      break;
-    case 'ACT':
-      findMatch(ACT, el, i);
-      break;
-    case 'TAS':
-      findMatch(TAS, el, i);
-      break;
-    default:
-      if (SHOW_MISSING_DATA) {
-        console.log('No state.', el);
+const res = data
+  .reduce((arr, el, i) => {
+    let newDp;
+    switch (el.State) {
+      case 'NSW':
+        newDp = findMatch(NSW, el, i);
+        break;
+      case 'QLD':
+        newDp = findMatch(QLD, el, i);
+        break;
+      case 'SA':
+        newDp = findMatch(SA, el, i);
+        break;
+      case 'VIC':
+        newDp = findMatch(VIC, el, i);
+        break;
+      case 'WA':
+        newDp = findMatch(WA, el, i);
+        break;
+      case 'NT':
+        newDp = findMatch(NT, el, i);
+        break;
+      case 'ACT':
+        newDp = findMatch(ACT, el, i);
+        break;
+      case 'TAS':
+        newDp = findMatch(TAS, el, i);
+        break;
+      default:
+        if (SHOW_MISSING_DATA) {
+          console.log('No state.', el);
+        }
+    }
+    if (newDp) {
+      const match = arr.find(
+        (el) => el.lat === newDp.lat && el.lng === newDp.lng
+      );
+      if (!match) {
+        arr.push(newDp);
       }
-  }
-});
+    }
+    return arr;
+  }, [])
+  .map((dp, u, arr) => {
+    let lowestId = null;
+    let currentSmallestDistance = null;
 
-console.log(res);
+    for (let i = 0; i < arr.length; i++) {
+      if (dp.id === arr[i].id) continue;
+      const xDistance = dp.lng - arr[i].lng;
+      const yDistance = dp.lat - arr[i].lat;
+      const distance = Math.hypot(xDistance, yDistance);
+      if (distance < currentSmallestDistance || !currentSmallestDistance) {
+        currentSmallestDistance = distance;
+        lowestId = arr[i].id;
+      }
+    }
+    dp.nnId = lowestId;
+    dp.smallestDistance = currentSmallestDistance;
+    return dp;
+  });
+
 fs.writeFile('postcode-data.json', JSON.stringify(res), 'utf8', () => {});
